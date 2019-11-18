@@ -34,3 +34,8 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# Other files
+./StateElections_Gub_2012_09_06_Public_Version.xlsx
+./StateElections_Gub_2012_09_06_Public_Version_Codebook.docx
+./ststdsadata.xlsx
