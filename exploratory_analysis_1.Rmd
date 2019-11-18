@@ -4,7 +4,47 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
+library(tidyverse)
+library(readxl)
+
 knitr::opts_chunk$set(echo = TRUE)
+
+gubernational_df <- read_excel("data/StateElections_Gub_2012_09_06_Public_Version.xlsx")
+gubernational_df$years_since_other_party <- -gubernational_df$years_since_other_party # Make it so negative means the democrats are in power (so numbers on the 'left' of 0 correspond to the 'left' being in power, and numbers to the 'right' of 0 correspond to the 'right' being in power).
+
+unemployment_df <- read_excel("data/ststdsadata.xlsx")
+
+# View(unemployment_df)
+# The unemployment_df requires some data wrangling to fix the column names.
+
+unemployment_df <- tail(unemployment_df, -7)
+
+colnames(unemployment_df) <- c("FIPs_code", "state", "year", "month", "population", "LF_population", "LF_population_percent", "employed_population", "participation_rate", "unemployed_population", "unemployment_rate")
+
+# FIPS code = just a state/region identifier.
+# Population = "Civilian Non-institutional population"
+# Labor force = The subset of the civilian non-institutional population that is either unemployed or employed. Does not include discouraged or handicapped workers.
+
+# Employed population = THe subset of the labor force that is current employed
+# Participation Rate =  fraction of employed people that are in the labor force over the total number of people in the the civilian non-institutional population.
+# Unemployed Population = The number of people in the labor forrce that are unemployed
+# Unemployment rate = fraction of the unemployed people that are in the labor force over the total number of people *in the civilian labor force*.
+
+# Note the subtly: The Participation rate, considers the number of employed people to the total civilian non-institutional population. The unemployment rate, on the other hand, only uses the civilian labor force as it's background population, and therefore doesn't include discouraged or disabled workers.
+
+# The civilian labor force is a proper subset of the civilian non-institutinoal labor force.
+
+# references: https://www.investopedia.com/terms/c/civilian-labor-force.asp
+
+
+# Note that some 'states' are not actually states, but rather regions. We will remove these.
+unemployment_df <- unemployment_df %>% filter(state %in% state.name)
+
+# Convert all columns types to numeric except state name (column 2)
+unemployment_df <- unemployment_df %>% mutate_at(c(-2), as.numeric)
+
+# View(unemployment_df)
+# View(gubernational_df)
 ```
 
 ## R Markdown
@@ -13,16 +53,133 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
+```{r plots}
+
+# Data ranges from 1925 to 2016
+summary(gubernational_df$year)
+
+# Every state has 92 rows (each year from 1925 to 2016, inclusive).
+# Note that not all columns will be filled for every row.
+# Alaska and Hawaii didn't even become states until 1959.
+
+gubernational_df %>% 
+  group_by(state) %>%
+  summarise(count = n())
+
+gubernational_df %>%
+  filter(!is.na(years_since_other_party)) %>%
+  group_by(state) %>%
+  summarise(min_year = min(year), max_year = max(year))
+
+
+# years_since_other_party data ranges from 1937 to 2011
+gubernational_df %>%
+  filter(!is.na(years_since_other_party)) %>%
+  summarise(min_year = min(year), max_year = max(year))
+
+
+gubernational_df %>%
+  filter(!is.na(years_since_other_party)) %>%
+  group_by(state) %>%
+  summarise(count = n())
+
+# Alaska - 51
+# Hawaii 50
+# Minnesota - 74
+# North Dakota - 74
+# Wisconsin - 74
+# Rhode Island - 74
+
+
+
+
+  
+
+unemployment_year_means_df <- unemployment_df %>% 
+                              group_by(state, year) %>% 
+                              summarise(Population = mean(population, na.rm = TRUE),
+                                        LF_population = mean(LF_population, na.rm = TRUE),
+                                        LF_population_percent = mean(LF_population_percent, na.rm = TRUE),
+                                        employed_population = mean(employed_population, na.rm = TRUE),
+                                        participation_rate = mean(participation_rate, na.rm = TRUE),
+                                        unemployed_population = mean(unemployed_population, na.rm = TRUE),
+                                        unemployment_rate = mean(unemployment_rate, na.rm = TRUE))
+
+
+party_change_df <- gubernational_df[,c("state", "year", "years_since_other_party")]
+party_change_x_unemployment_df <- merge(party_change_df, unemployment_year_means_df, by= c("state", "year")) %>%
+                    filter(!is.na(years_since_other_party) & !is.na(unemployment_rate))
+
+
+last_state = "blank"
+party_change_x_unemployment_df$change_counter <-  NA
+change_counter <- 0
+for (i in 1:nrow(party_change_x_unemployment_df)) {
+
+  row <- party_change_x_unemployment_df[i,]
+  if (last_state != row$state) {
+    change_counter <- 0
+    last_state <- row$state
+  } else if (row$years_since_other_party == 0) {
+    change_counter <- change_counter + 1
+  }
+
+  party_change_x_unemployment_df[i, "change_counter"] <- change_counter
+}
+
+
+
+
+ggplot(party_change_x_unemployment_df, aes(x = year, y = years_since_other_party, color = unemployment_rate)) +
+  geom_point() + 
+  scale_color_distiller(palette = "Spectral")
+
+
+
+  
+dir.create("./output/")
+pdf(file = "./output/unemployment_rate_vs_governor_party_change.pdf")
+      
+p <- ggplot(party_change_x_unemployment_df, aes(x = year, y = years_since_other_party, color = unemployment_rate, group = interaction(state, change_counter))) +
+    geom_line() + 
+    geom_point() +
+    ylim(c(-max(abs(party_change_x_unemployment_df_state$years_since_other_party)), max(abs(party_change_x_unemployment_df_state$years_since_other_party)))) + 
+    scale_color_gradient(low = "blue", high = "red") +
+    labs(x = "Year", y = "Years since Party Change", title = paste0("Unemployment Rate vs Governor Party Changes over Time for all States"), color = "Unemployment Rate") +
+    theme_linedraw() +
+    coord_flip()
+print(p)
+
+for (cur_state in state.name) {
+  party_change_x_unemployment_df_state <- party_change_x_unemployment_df %>% filter(state == cur_state)
+  
+  p <- ggplot(party_change_x_unemployment_df_state, aes(x = year, y = years_since_other_party, color = unemployment_rate, group = interaction(state, change_counter))) +
+    geom_line() + 
+    geom_point() +
+    ylim(c(-max(abs(party_change_x_unemployment_df_state$years_since_other_party)), max(abs(party_change_x_unemployment_df_state$years_since_other_party)))) + 
+    scale_color_gradient(low = "blue", high = "red") +
+    labs(x = "Year", y = "Years since Party Change", title = paste0("Unemployment Rate vs Governor Party Changes over Time for \n", cur_state), color = "Unemployment Rate") +
+    theme_linedraw() +
+    coord_flip()
+  print(p)
+}
+dev.off()
+
+
+
 ```
 
-## Including Plots
+```{r}
+california  <- party_change_x_unemployment_df  %>% filter(state == "California")
 
-You can also embed plots, for example:
+ggplot(california, aes(x = year, y = years_since_other_party, color = unemployment_rate)) +
+    geom_point() + 
+    scale_color_distiller(palette = "Spectral")
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+ggplot(california, aes(x = year, y = years_since_other_party, color = unemployment_rate)) +
+    geom_point() + 
+    scale_color_distiller(palette = "Spectral")
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
