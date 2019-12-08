@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",1,"All Industries",943783,955801,965189,1012947,1042363,1095738
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",2," Private Industries",853198,861807,867726,910573,935953,985653
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",11397,10244,11699,11921,12986,13986
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",4,"  Mining",12,11,11,8,8,9
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",5,"  Utilities",5,7,6,8,9,9
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",6,"  Construction",29593,27268,27388,24137,26061,28780
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",116190,124060,128838,132187,138438,168047
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",8,"   Durable goods",80480,88256,90657,92937,94176,114658
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",35709,35804,38181,39251,44262,53390
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",58571,58443,63147,64400,63561,65789
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",11,"  Retail trade",264930,277023,265397,276034,276769,288977
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",44090,44424,44257,45399,45090,46369
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",13,"  Information",2044,2090,2170,2274,2357,2549
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",19867,19183,18809,19510,19408,20613
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",15995,15238,14973,14973,14679,15698
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",3872,3946,3836,4537,4729,4915
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",44695,40110,42029,45717,46081,51780
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",15826,16226,17561,18338,19286,20056
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",19,"   Educational services",14066,14468,15767,16449,17322,18049
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1760,1758,1794,1889,1964,2007
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",231085,227299,230327,253662,268001,259852
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",98185,102826,109963,113850,122486,127509
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",132900,124473,120364,139811,145515,132343
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",14893,15419,16086,16978,17897,18836
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",25," Government",90585,93993,97462,102374,106410,110085
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",26,"  Federal",5818,5977,6071,5796,5942,5858
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",27,"  State and local",84767,88016,91392,96578,100468,104227
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

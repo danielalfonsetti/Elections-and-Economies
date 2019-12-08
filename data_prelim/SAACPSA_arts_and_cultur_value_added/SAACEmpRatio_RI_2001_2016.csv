@@ -1,0 +1,43 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",10,"...","Total arts employment ratio","Ratio",0.057,0.055,0.053,0.051,0.048,0.048,0.046,0.045,0.041,0.040,0.040,0.038,0.039,0.038,0.037,0.037
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",100,"..."," Core arts and cultural production","Ratio",0.168,0.175,0.184,0.181,0.171,0.167,0.163,0.167,0.137,0.136,0.134,0.140,0.145,0.141,0.134,0.143
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",111,"...","  Performing arts companies","Ratio",0.913,0.907,0.919,0.937,0.947,0.957,0.966,0.963,0.964,0.969,0.967,0.967,0.968,0.968,0.965,0.966
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",112,"...","  Promoters of performing arts and similar events","Ratio",0.827,0.845,0.837,0.825,0.835,0.839,(D),0.841,0.849,0.816,0.816,0.806,0.810,0.807,0.810,0.809
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",113,"...","  Agents/managers for artists","Ratio",0.500,(D),(D),0.500,(D),(D),(D),(D),(D),(D),(D),0.500,0.500,0.486,(D),(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",114,"...","  Independent artists, writers, and performers","Ratio",0.897,0.898,0.912,0.910,0.911,0.918,0.914,0.921,0.913,0.917,0.917,0.917,0.923,0.931,0.919,0.918
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",120,"...","  Museums","Ratio",0.856,0.862,0.877,(D),0.885,0.908,0.924,0.929,0.933,0.927,0.925,0.927,(D),(D),0.928,0.930
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",131,"...","  Advertising","Ratio",0.416,0.422,0.408,0.392,0.370,0.351,0.338,0.344,0.349,0.347,0.349,0.359,0.357,0.357,0.355,0.352
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",132,"...","  Architectural services","Ratio",0.708,(D),0.713,0.720,0.725,0.727,0.732,0.735,0.733,0.730,(D),0.730,0.731,0.734,0.732,(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",133,"...","  Landscape architectural services","Ratio",0.946,(D),0.947,0.952,0.945,0.933,0.944,0.938,0.944,0.938,0.932,0.938,(D),(D),0.962,0.939
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",134,"...","  Interior design services","Ratio",0.825,(D),0.821,0.840,(D),(D),0.897,0.905,(D),(D),(D),0.904,0.912,0.909,0.904,0.901
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",135,"...","  Industrial design services","Ratio",0.991,0.985,0.988,0.989,0.990,0.992,0.985,0.986,0.985,1.000,1.000,0.984,0.988,0.989,0.983,0.987
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",136,"...","  Graphic design services","Ratio",0.972,0.967,0.967,0.960,0.956,(D),0.945,0.944,0.941,0.948,0.947,0.947,0.947,0.949,0.951,0.943
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",137,"...","  Computer systems design","Ratio",0.022,0.021,0.022,0.022,0.022,0.022,0.022,0.022,0.023,0.022,0.023,0.023,0.023,0.024,0.023,0.023
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",138,"...","  Photography and photofinishing services","Ratio",0.927,0.925,(D),0.929,0.947,0.965,0.967,(D),(D),0.977,0.973,0.977,0.979,0.977,(D),(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",139,"...","  All other design services","Ratio",0.667,(D),0.571,0.500,(D),0.750,0.667,0.500,(D),(D),(D),0.571,0.667,0.625,0.625,0.600
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",140,"...","  Fine arts education","Ratio",0.449,0.440,0.441,(D),0.439,0.438,0.433,0.452,0.433,0.438,0.438,0.438,0.441,0.438,0.438,0.440
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",150,"...","  Education services","Ratio",0.043,0.049,0.058,0.063,0.051,0.048,0.046,0.057,0.035,0.043,0.049,0.051,0.051,0.049,0.044,0.049
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",200,"..."," Supporting arts and cultural production","Ratio",0.154,0.149,0.148,0.145,0.140,0.143,0.135,0.128,0.116,0.115,0.113,0.111,0.117,0.116,0.114,0.114
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",211,"...","  Rental and leasing","Ratio",0.447,0.430,0.444,0.429,0.398,0.382,0.377,(D),0.355,0.335,0.310,0.298,0.289,0.282,0.286,(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",212,"...","  Grantmaking and giving services","Ratio",0.029,(D),0.032,0.029,0.029,0.032,0.032,0.028,0.031,0.031,0.030,0.031,0.031,0.031,0.031,0.032
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",213,"...","  Unions","Ratio",0.026,0.022,0.023,0.023,0.023,0.023,0.021,0.023,0.026,0.024,0.027,0.024,0.028,0.026,0.028,0.027
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",214,"...","  Government","Ratio",0.155,0.148,0.152,0.136,0.119,0.121,0.114,0.113,0.108,0.108,0.113,0.116,0.116,0.112,0.111,0.112
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",215,"...","  Other support services","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",221,"...","  Publishing","Ratio",(D),0.451,0.469,0.456,0.453,0.450,0.451,0.446,0.436,0.433,0.425,0.419,0.409,0.398,0.390,0.383
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",222,"...","  Motion pictures","Ratio",0.993,0.994,0.992,0.993,0.993,0.992,0.993,0.991,0.991,0.991,0.988,0.990,0.992,0.990,0.991,0.991
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",223,"...","  Sound recording","Ratio",1.000,1.000,1.000,1.000,1.000,1.000,1.000,1.000,1.000,1.000,1.000,0.889,1.000,1.000,1.000,1.000
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",224,"...","  Broadcasting","Ratio",0.260,0.284,0.308,0.336,(D),0.381,0.401,0.406,0.403,0.424,0.428,0.438,0.445,0.452,0.458,0.459
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",225,"...","  Other information services","Ratio",(D),(D),(D),(D),(D),(D),(D),0.904,0.891,0.896,(D),(D),(D),(D),(D),(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",231,"...","  Jewelry and silverware manufacturing","Ratio",0.893,0.921,0.921,0.916,0.920,0.920,0.941,0.942,0.927,0.941,0.940,0.942,0.946,(D),(D),(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",232,"...","  Printed goods manufacturing","Ratio",0.229,0.209,0.208,0.219,0.217,0.217,0.228,0.224,0.222,0.218,0.217,0.207,0.205,0.204,0.199,0.203
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",233,"...","  Musical instruments manufacturing","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",234,"...","  Custom architectural woodwork and metalwork manufacturing","Ratio",0.063,0.092,(D),0.086,0.083,0.084,0.118,0.122,(D),0.118,(D),(D),(D),0.116,0.120,0.117
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",235,"...","  Camera and motion picture equipment manufacturing","Ratio",(D),(D),(D),(D),(D),(D),0.232,(D),(D),0.217,0.259,0.037,0.039,0.118,0.020,0.021
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",236,"...","  Other goods manufacturing","Ratio",0.112,0.106,0.102,0.097,0.093,0.085,0.094,0.094,0.093,0.095,(D),(D),0.088,(D),(D),(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",240,"...","  Construction","Ratio",0.417,0.274,0.264,0.245,0.281,0.283,0.230,0.134,0.105,0.187,0.097,0.152,0.388,0.366,0.341,0.172
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",250,"...","  Wholesale and transportation industries","Ratio",0.022,0.024,0.022,0.022,0.021,0.021,0.022,(D),(D),0.021,(D),(D),(D),(D),(D),(D)
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",260,"...","  Retail industries","Ratio",(D),0.051,0.049,0.049,0.048,0.048,0.048,0.048,0.048,0.047,0.047,0.047,0.048,0.048,0.048,0.050
+ "44000","Rhode Island",1,"SAACEmpRatio: Arts Employment Ratio",300,"..."," All other industries 2/","Ratio",0.003,0.003,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002
+"Note: See the included footnote file."
+"Last updated: March 19, 2019-- new statistics for 2016; revised statistics for 2014-2015. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",1,"All Industries",2994091,3095583,3092082,3135182,3295731,3442812
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",2," Private Industries",2814945,2917673,2909072,2948669,3106381,3244711
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",217604,219072,217251,202830,194892,204522
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",4,"  Mining",28,23,25,19,17,26
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",5,"  Utilities",6,7,6,7,8,8
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",6,"  Construction",75385,72779,63291,62857,69112,73143
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",7,"  Manufacturing",584709,644437,630145,629406,657640,744066
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",8,"   Durable goods",368409,412923,383567,366898,382074,450258
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",9,"   Nondurable goods",216300,231514,246578,262507,275566,293808
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",10,"  Wholesale trade",336565,329354,348544,370566,398945,405190
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",11,"  Retail trade",810219,847074,826237,828090,850444,896247
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",106966,107081,107978,107899,105363,105942
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",13,"  Information",10024,10316,10290,10854,11447,12092
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",77415,81379,78010,88615,97909,96639
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",15,"   Finance and insurance",27740,24723,30467,33426,34327,34158
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",49675,56656,47542,55189,63582,62480
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",17,"  Professional and business services",36091,35204,37757,40527,42358,46018
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",20444,20654,21979,22359,23735,24532
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",19,"   Educational services",16569,16955,18169,18408,19530,20303
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",3875,3700,3810,3950,4205,4228
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",503458,513714,529769,546157,615445,596437
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",243336,244097,258669,266795,286784,301964
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",260122,269618,271100,279362,328661,294473
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",24,"  Other services, except government",36031,36579,37790,38485,39067,39851
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",25," Government",179146,177910,183010,186513,189350,198101
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",26,"  Federal",4985,5524,5492,5334,5552,5583
+ "19000","Iowa",4,SAOVA,"Thousands of dollars",27,"  State and local",174161,172386,177518,181179,183798,192519
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

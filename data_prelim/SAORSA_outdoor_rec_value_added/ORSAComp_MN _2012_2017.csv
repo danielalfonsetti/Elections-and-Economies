@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",1,"All Industries",3690281,3741344,3881129,4070116,4287815,4505794
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",2," Private Industries",3267442,3281719,3397449,3551474,3751502,3945849
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",48802,46483,46445,46933,44505,46932
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",4,"  Mining",26,21,22,19,17,24
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",5,"  Utilities",21,25,21,23,24,21
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",6,"  Construction",77225,65939,70543,69296,75937,84279
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",475230,502208,512962,542100,583211,646592
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",8,"   Durable goods",358579,380101,392107,417804,419708,475183
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",116651,122107,120855,124296,163503,171410
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",373776,374890,390965,399403,385727,396345
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",11,"  Retail trade",839887,829864,833434,882311,930468,969545
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",398896,405232,423697,463536,517642,538827
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",13,"  Information",7585,7830,8082,8308,8323,8689
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",109925,104823,100496,103332,101825,103269
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",82020,76860,74588,72826,68805,69914
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",27905,27963,25908,30506,33019,33355
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",50613,46059,48513,53191,53878,61302
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",50695,51721,55953,57413,59694,61335
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",19,"   Educational services",44955,45861,49839,51021,53003,54363
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",5740,5860,6114,6392,6691,6972
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",796316,806505,863991,880393,942011,976977
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",491830,512566,553464,566730,609486,643558
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",304487,293939,310527,313663,332525,333420
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",38444,40120,42325,45216,48239,51711
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",25," Government",422840,459625,483680,518641,536314,559945
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",26,"  Federal",9684,9918,10144,10239,11034,11520
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",27,"  State and local",413155,449707,473537,508403,525280,548425
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

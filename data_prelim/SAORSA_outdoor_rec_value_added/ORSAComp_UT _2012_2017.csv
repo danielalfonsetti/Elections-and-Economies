@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",1,"All Industries",2220500,2274111,2311103,2420401,2574501,2844732
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",2," Private Industries",1972144,2015082,2046930,2145643,2284308,2539561
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",16731,17039,18854,19698,20147,21521
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",4,"  Mining",1352,1150,958,750,689,1199
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",5,"  Utilities",2,2,2,2,2,2
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",6,"  Construction",40884,33716,31954,35205,41368,46804
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",199594,193394,187091,197955,210662,229323
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",8,"   Durable goods",150860,142688,134578,143079,153627,169004
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",48734,50706,52513,54876,57034,60319
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",118419,119102,122639,128060,124967,130003
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",11,"  Retail trade",563372,601513,598674,635069,661870,726438
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",191726,195826,202651,223827,249082,267931
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",13,"  Information",2936,3028,3205,3586,3696,4179
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",60486,57622,55964,58875,61021,67217
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",45601,42928,41228,40300,39722,43353
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",14884,14693,14736,18575,21299,23863
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",53122,48355,50864,56399,58855,70336
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",35937,36927,40112,41415,43834,47119
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",19,"   Educational services",33889,34863,37996,39201,41467,44483
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2048,2064,2116,2214,2367,2636
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",656191,674853,699983,709247,770523,886936
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",347617,359959,383330,391015,419475,448569
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",308574,314894,316653,318233,351048,438367
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",31392,32555,33980,35555,37591,40553
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",25," Government",248356,259029,264173,274758,290193,305171
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",26,"  Federal",73810,79160,77080,78972,87003,92850
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",27,"  State and local",174547,179869,187093,195787,203190,212320
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "39000","Ohio",3,SAOEMP,"Number of jobs",1,"All Industries",130227,129816,131743,133802,136758,137073
+ "39000","Ohio",3,SAOEMP,"Number of jobs",2," Private Industries",119848,119185,121036,122877,125735,125846
+ "39000","Ohio",3,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",1132,1058,1121,1190,1235,1308
+ "39000","Ohio",3,SAOEMP,"Number of jobs",4,"  Mining",19,15,13,10,10,15
+ "39000","Ohio",3,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "39000","Ohio",3,SAOEMP,"Number of jobs",6,"  Construction",2397,2419,2643,2932,3008,3018
+ "39000","Ohio",3,SAOEMP,"Number of jobs",7,"  Manufacturing",6202,6333,6355,6510,6714,7083
+ "39000","Ohio",3,SAOEMP,"Number of jobs",8,"   Durable goods",3335,3465,3444,3541,3599,3939
+ "39000","Ohio",3,SAOEMP,"Number of jobs",9,"   Nondurable goods",2867,2868,2911,2968,3115,3144
+ "39000","Ohio",3,SAOEMP,"Number of jobs",10,"  Wholesale trade",4845,4773,4783,4817,4665,4686
+ "39000","Ohio",3,SAOEMP,"Number of jobs",11,"  Retail trade",49159,49089,48311,48531,48891,49016
+ "39000","Ohio",3,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",3690,3650,3594,3540,3476,3468
+ "39000","Ohio",3,SAOEMP,"Number of jobs",13,"  Information",272,273,270,267,265,258
+ "39000","Ohio",3,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",1567,1537,1508,1536,1546,1579
+ "39000","Ohio",3,SAOEMP,"Number of jobs",15,"   Finance and insurance",847,797,760,749,739,768
+ "39000","Ohio",3,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",720,741,748,787,807,811
+ "39000","Ohio",3,SAOEMP,"Number of jobs",17,"  Professional and business services",1461,1473,1506,1574,1678,1694
+ "39000","Ohio",3,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",2634,2824,2981,3103,3256,3352
+ "39000","Ohio",3,SAOEMP,"Number of jobs",19,"   Educational services",2490,2679,2830,2948,3096,3193
+ "39000","Ohio",3,SAOEMP,"Number of jobs",20,"   Health care and social assistance",144,145,150,155,160,159
+ "39000","Ohio",3,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",44426,43676,45817,46718,48843,48235
+ "39000","Ohio",3,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",28765,29715,31295,31807,33061,33818
+ "39000","Ohio",3,SAOEMP,"Number of jobs",23,"   Accommodation and food services",15661,13961,14522,14912,15782,14416
+ "39000","Ohio",3,SAOEMP,"Number of jobs",24,"  Other services, except government",2045,2063,2134,2146,2149,2133
+ "39000","Ohio",3,SAOEMP,"Number of jobs",25," Government",10379,10631,10707,10925,11022,11227
+ "39000","Ohio",3,SAOEMP,"Number of jobs",26,"  Federal",230,244,217,205,207,200
+ "39000","Ohio",3,SAOEMP,"Number of jobs",27,"  State and local",10148,10387,10489,10720,10816,11027
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "30000","Montana",7,SAOEMP,"Number of jobs",1,"All Industries",24764,25903,26254,27291,27205,28847
+ "30000","Montana",7,SAOEMP,"Number of jobs",2," Private Industries",23526,24646,25024,26070,25952,27589
+ "30000","Montana",7,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",280,293,312,311,301,302
+ "30000","Montana",7,SAOEMP,"Number of jobs",4,"  Mining",11,9,8,6,6,9
+ "30000","Montana",7,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "30000","Montana",7,SAOEMP,"Number of jobs",6,"  Construction",258,317,273,294,317,326
+ "30000","Montana",7,SAOEMP,"Number of jobs",7,"  Manufacturing",609,642,629,671,704,711
+ "30000","Montana",7,SAOEMP,"Number of jobs",8,"   Durable goods",407,442,426,460,483,484
+ "30000","Montana",7,SAOEMP,"Number of jobs",9,"   Nondurable goods",202,201,203,211,221,227
+ "30000","Montana",7,SAOEMP,"Number of jobs",10,"  Wholesale trade",990,1025,991,1030,991,981
+ "30000","Montana",7,SAOEMP,"Number of jobs",11,"  Retail trade",7961,8370,8534,8710,8378,8387
+ "30000","Montana",7,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",698,713,687,793,688,828
+ "30000","Montana",7,SAOEMP,"Number of jobs",13,"  Information",22,22,22,22,22,21
+ "30000","Montana",7,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",273,283,268,275,276,285
+ "30000","Montana",7,SAOEMP,"Number of jobs",15,"   Finance and insurance",73,68,63,59,57,57
+ "30000","Montana",7,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",200,215,205,216,219,228
+ "30000","Montana",7,SAOEMP,"Number of jobs",17,"  Professional and business services",325,331,340,357,377,384
+ "30000","Montana",7,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",475,511,538,555,580,602
+ "30000","Montana",7,SAOEMP,"Number of jobs",19,"   Educational services",459,495,522,538,562,584
+ "30000","Montana",7,SAOEMP,"Number of jobs",20,"   Health care and social assistance",16,16,17,17,18,18
+ "30000","Montana",7,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",11424,11929,12214,12834,13101,14538
+ "30000","Montana",7,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",5420,5557,5863,5980,6273,6406
+ "30000","Montana",7,SAOEMP,"Number of jobs",23,"   Accommodation and food services",6004,6371,6351,6854,6828,8132
+ "30000","Montana",7,SAOEMP,"Number of jobs",24,"  Other services, except government",200,201,208,212,212,215
+ "30000","Montana",7,SAOEMP,"Number of jobs",25," Government",1238,1258,1229,1221,1252,1258
+ "30000","Montana",7,SAOEMP,"Number of jobs",26,"  Federal",514,534,500,483,507,512
+ "30000","Montana",7,SAOEMP,"Number of jobs",27,"  State and local",724,724,730,737,746,747
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

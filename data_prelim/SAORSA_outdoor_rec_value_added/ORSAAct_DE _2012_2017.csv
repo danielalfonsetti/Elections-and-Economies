@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",1166235,1161875,1172834,1229121,1293598,1309865
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",447758,448134,462139,472091,476970,485153
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",302771,301862,309665,316653,316976,316284
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",4,"   Bicycling",3624,3916,4727,4765,5048,5365
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",47548,46718,48567,49979,50647,53390
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",1209,1208,1260,1317,1411,1481
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",5191,5281,5978,6239,6302,6578
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",8,"    Sailing",2881,2809,2982,3016,3042,2885
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",9,"    Other Boating",38267,37420,38347,39407,39892,42447
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",6487,6716,7028,7135,6870,6857
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",11,"   Equestrian",7020,7450,8741,9241,10084,11297
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",5709,6527,6904,7561,8000,8836
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",1890,2184,2337,2697,2885,3240
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",3819,4343,4567,4864,5115,5596
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",18225,16544,16704,16624,15638,15737
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",3929,3724,3828,3531,3166,3312
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",17,"   RVing",33268,32610,32555,32585,32622,32914
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",5764,5165,5316,4909,3861,4421
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",658,657,901,974,866,901
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",5106,4508,4415,3934,2995,3520
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",32126,31361,31825,31490,29792,30087
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",24898,24292,24352,23932,22489,22944
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",7228,7069,7473,7558,7303,7143
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",139072,141131,143470,148833,151247,144066
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",144987,146272,152474,155439,159995,168869
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",15153,15179,15867,17164,18626,20225
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",12234,13061,13317,11762,11930,11448
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",28,"   Field Sports",5583,5648,6494,6745,6889,7149
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",44271,44299,46885,48296,50890,53363
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",28311,27167,28078,28152,28161,31368
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",16090,15439,16041,16380,16624,18420
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",12220,11729,12038,11772,11537,12948
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",16671,17591,17834,18267,18352,19540
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",15999,15902,16988,17860,18005,18686
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",6766,7426,7011,7192,7142,7089
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",718476,713742,710694,757030,816628,824712
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",37,"   Construction",10267,12014,13398,15805,17649,18821
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",164929,162779,164466,166053,164931,171533
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",509080,501280,492240,530560,587326,585326
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",144468,125425,134544,150509,160859,160928
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",41,"    Lodging",168030,179889,159701,177973,227037,216517
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",113144,117778,121004,126915,132408,133645
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",43,"    Transportation",83438,78187,76990,75163,67021,74236
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",34201,37669,40591,44611,46723,49032
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",45,"    Federal Government",456,483,517,541,619,653
+ "10000","Delaware",2,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",33745,37187,40074,44071,46104,48379
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

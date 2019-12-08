@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "29000","Missouri",4,SAOEMP,"Number of jobs",1,"All Industries",87399,85726,85685,87176,87355,91090
+ "29000","Missouri",4,SAOEMP,"Number of jobs",2," Private Industries",81169,79292,79220,80585,80719,84360
+ "29000","Missouri",4,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",502,495,539,592,601,650
+ "29000","Missouri",4,SAOEMP,"Number of jobs",4,"  Mining",2,1,1,1,1,1
+ "29000","Missouri",4,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "29000","Missouri",4,SAOEMP,"Number of jobs",6,"  Construction",1193,1326,1418,1534,1603,1622
+ "29000","Missouri",4,SAOEMP,"Number of jobs",7,"  Manufacturing",6105,6244,6228,6375,6428,6548
+ "29000","Missouri",4,SAOEMP,"Number of jobs",8,"   Durable goods",4090,4266,4243,4308,4312,4454
+ "29000","Missouri",4,SAOEMP,"Number of jobs",9,"   Nondurable goods",2014,1978,1985,2067,2117,2094
+ "29000","Missouri",4,SAOEMP,"Number of jobs",10,"  Wholesale trade",2496,2441,2460,2463,2394,2406
+ "29000","Missouri",4,SAOEMP,"Number of jobs",11,"  Retail trade",32745,30760,30149,30356,29948,31331
+ "29000","Missouri",4,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",2970,2951,2864,2818,2723,2723
+ "29000","Missouri",4,SAOEMP,"Number of jobs",13,"  Information",156,156,156,153,151,146
+ "29000","Missouri",4,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",861,852,811,832,829,842
+ "29000","Missouri",4,SAOEMP,"Number of jobs",15,"   Finance and insurance",298,282,267,260,251,250
+ "29000","Missouri",4,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",563,571,545,572,577,591
+ "29000","Missouri",4,SAOEMP,"Number of jobs",17,"  Professional and business services",1614,1620,1644,1729,1872,1914
+ "29000","Missouri",4,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",1788,1916,2016,2088,2170,2211
+ "29000","Missouri",4,SAOEMP,"Number of jobs",19,"   Educational services",1709,1837,1936,2006,2087,2127
+ "29000","Missouri",4,SAOEMP,"Number of jobs",20,"   Health care and social assistance",80,79,80,82,82,83
+ "29000","Missouri",4,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",29609,29397,29773,30477,30835,32801
+ "29000","Missouri",4,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",15492,15940,16774,17031,17770,18369
+ "29000","Missouri",4,SAOEMP,"Number of jobs",23,"   Accommodation and food services",14117,13457,12999,13446,13066,14432
+ "29000","Missouri",4,SAOEMP,"Number of jobs",24,"  Other services, except government",1128,1132,1161,1169,1164,1166
+ "29000","Missouri",4,SAOEMP,"Number of jobs",25," Government",6230,6435,6465,6591,6637,6730
+ "29000","Missouri",4,SAOEMP,"Number of jobs",26,"  Federal",376,403,360,330,310,278
+ "29000","Missouri",4,SAOEMP,"Number of jobs",27,"  State and local",5853,6031,6105,6261,6326,6452
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",1,"All Industries",2746878,2745644,2877072,3038789,3084714,3466434
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",2," Private Industries",2529688,2508510,2621672,2758103,2786701,3154607
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",25681,25484,25674,28077,26097,28882
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",4,"  Mining",126,107,109,93,83,107
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",4,4,3,3,4,4
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",6,"  Construction",34193,37088,42445,43107,48935,55113
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",302256,306379,315986,320839,326784,384565
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",239992,244117,250815,255351,260567,323485
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",62264,62262,65171,65488,66216,61080
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",130052,130838,136460,145737,143833,148778
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",708233,738504,761775,798813,800281,869506
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",58028,60175,61098,63707,66114,67775
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",13,"  Information",3685,3905,4137,4245,4388,4619
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",36132,36750,34604,38052,39171,41835
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",16723,16126,15895,16098,15729,16547
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",19409,20624,18709,21954,23442,25289
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",30137,27870,30004,34971,38593,48245
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",22234,22069,23846,25060,25580,27019
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",17582,17691,19226,20121,20701,21642
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",4653,4378,4620,4939,4879,5376
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1144960,1084366,1148706,1215681,1224196,1432065
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",284819,295711,314300,322877,344680,358725
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",860140,788655,834407,892804,879516,1073339
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",33969,34972,36825,39718,42642,46094
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",25," Government",217190,237134,255400,280687,298013,311827
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",26,"  Federal",17635,18880,17989,17464,17700,17998
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",27,"  State and local",199555,218253,237411,263223,280313,293829
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

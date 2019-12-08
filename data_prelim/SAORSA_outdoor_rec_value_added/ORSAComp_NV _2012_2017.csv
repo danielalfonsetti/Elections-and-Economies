@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",1,"All Industries",1842229,1834813,1913800,2020315,2141243,2239107
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",2," Private Industries",1615919,1599196,1668344,1764912,1875847,1961778
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",3905,3633,4007,4255,4533,4833
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",4,"  Mining",317,298,346,331,327,406
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",5,"  Utilities",13,17,15,19,23,23
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",6,"  Construction",60609,57320,82416,59706,55959,62544
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",29769,31047,32450,34057,35805,37992
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",8,"   Durable goods",19462,20436,21357,22629,23804,27064
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",10306,10611,11093,11428,12001,10928
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",66199,64825,68583,74497,73352,76405
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",11,"  Retail trade",489308,505450,512397,535857,544176,556264
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",301866,312523,326027,362035,395634,417021
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",13,"  Information",1719,1807,1897,1929,1986,2118
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",25494,25890,24049,26496,27602,29493
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",11219,10633,10306,10244,10036,10760
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",14275,15257,13743,16252,17566,18733
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",46700,41734,43362,46519,46870,54159
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",14835,14641,15763,16636,17661,18309
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",19,"   Educational services",12065,12037,13116,13754,14499,14963
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2770,2603,2647,2882,3162,3346
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",558661,523135,539346,583545,651389,680020
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",221227,228811,243624,251554,275627,294709
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",337434,294324,295721,331992,375762,385311
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",16523,16878,17686,19028,20530,22192
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",25," Government",226310,235617,245457,255403,265397,277329
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",26,"  Federal",37526,39244,37176,37270,39873,40673
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",27,"  State and local",188784,196373,208281,218133,225523,236656
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

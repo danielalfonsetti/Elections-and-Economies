@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",1,"All Industries",864294,827666,825278,912246,911408,977279
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",2," Private Industries",691372,634866,636721,707376,689961,751938
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",0,0,0,0,0,0
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",4,"  Mining",0,0,0,0,0,0
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",6,"  Construction",20048,19662,19522,28907,31906,"(D)"
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",1576,1651,1637,1624,1514,"(D)"
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",8,"   Durable goods",496,515,436,430,392,"(D)"
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",1080,1136,1201,1194,1122,"(D)"
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",12137,11553,11985,12352,11925,12082
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",11,"  Retail trade",107318,108240,106532,123135,120747,128943
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",14703,15304,15455,16316,18260,17588
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",13,"  Information",4747,4947,4993,4909,4720,4635
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",5756,5775,5658,6077,5923,6099
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",4092,3892,3847,3898,3771,3756
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",1663,1883,1812,2179,2152,2343
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",20955,19508,20749,23223,23628,26948
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",28150,28595,30354,31308,30803,30073
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",19,"   Educational services",25655,26388,28172,28908,28506,27579
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2495,2206,2182,2400,2296,2494
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",464277,408421,408055,446807,428189,475665
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",95670,99897,110565,115737,127847,137529
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",368607,308523,297490,331069,300342,338136
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",11705,11210,11780,12719,12345,14000
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",25," Government",172922,192800,188558,204869,221447,225341
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",26,"  Federal",93880,106027,103837,109207,120196,124005
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",27,"  State and local",79042,86773,84720,95662,101251,101336
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",9207406,9276974,9535872,9841550,9825499,10167019
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",5340225,5393840,5501459,5657514,5724863,6042502
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",3120029,3133693,3180715,3292447,3302290,3509001
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",4,"   Bicycling",55888,56325,56660,55202,59744,58412
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",415712,420958,442513,466798,477923,495138
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",8029,8087,8542,8926,9557,10026
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",69574,70506,71432,74524,75500,73303
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",8,"    Sailing",28055,28324,30509,32317,33991,34228
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",9,"    Other Boating",310054,314041,332030,351032,358875,377580
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",115351,118741,122228,129240,125912,122859
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",11,"   Equestrian",173221,180732,202645,212228,226487,260442
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",191523,219840,209341,228712,233777,248634
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",78712,89549,85450,97636,97644,104350
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",112812,130291,123891,131075,136133,144284
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",224252,218559,228266,240035,234181,230892
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",33529,35926,38205,37293,34788,35693
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",17,"   RVing",424366,464294,489612,516179,525346,599483
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",66256,67882,73038,73873,64752,66173
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",27136,27148,29903,31873,31511,31894
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",39121,40734,43136,42000,33241,34280
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",290503,288934,295167,297070,279464,284714
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",240555,239309,241584,240006,220648,227066
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",49948,49625,53583,57064,58816,57648
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",1129425,1061501,1023039,1035817,1039917,1106561
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",2220196,2260147,2320745,2365067,2422573,2533501
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",244334,241921,247899,260891,275342,304237
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",390938,413486,460448,455645,500634,527545
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",28,"   Field Sports",88192,88051,91719,96097,97736,97134
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",557870,557045,550425,559270,578762,589166
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",271957,261853,272589,261638,243333,264999
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",158765,152539,161481,163268,162533,164248
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",113193,109314,111109,98370,80799,100751
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",317307,338910,339233,347699,343307,358427
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",227929,230573,235888,258023,259626,265305
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",121668,128308,122543,125804,123834,126687
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",3867180,3883134,4034413,4184036,4100637,4124517
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",37,"   Construction",144197,145313,165594,191843,215351,230271
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",1057909,1072075,1111216,1112527,1012371,1023215
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",2151028,2133157,2204668,2297376,2262810,2227521
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",308956,247921,265305,286822,309826,278055
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",41,"    Lodging",288138,285235,284616,314678,339681,308847
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",641758,655931,676278,704746,713940,715239
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",43,"    Transportation",912175,944070,978469,991131,899363,925380
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",514046,532589,552935,582290,610104,643510
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",45,"    Federal Government",26167,28372,26487,25850,26898,26868
+ "39000","Ohio",3,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",487879,504218,526448,556440,583206,616642
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

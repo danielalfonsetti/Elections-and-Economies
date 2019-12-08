@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",1,"All Industries",1402232,1378767,1379610,1538561,1513688,1623489
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",2," Private Industries",1177166,1102138,1094955,1225101,1176875,1274056
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",0,0,0,0,0,0
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",4,"  Mining",0,0,0,0,0,0
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",5,"  Utilities",5,5,4,4,5,5
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",6,"  Construction",31211,31157,31691,50662,54920,56901
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",7,"  Manufacturing",5644,6039,5817,5647,5471,5714
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",8,"   Durable goods",1253,1479,1182,1198,1140,1613
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",9,"   Nondurable goods",4391,4560,4635,4449,4331,4101
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",10,"  Wholesale trade",20255,19618,20374,22091,22034,22094
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",11,"  Retail trade",194181,199094,193106,222494,220201,232081
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",25325,26352,27056,28843,32096,31416
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",13,"  Information",10311,10406,10182,10069,10231,10322
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",37563,40487,40870,42868,39860,44616
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",15,"   Finance and insurance",18195,16166,19669,20998,20386,18173
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",19368,24321,21200,21871,19474,26443
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",17,"  Professional and business services",40520,39575,41195,44653,45669,49664
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",28046,27189,27879,27818,26935,26726
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",19,"   Educational services",22953,22770,23507,23019,22323,21719
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",5093,4419,4372,4799,4612,5006
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",756188,674850,667604,738982,689194,760817
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",130633,134780,148492,153978,169605,183978
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",625555,540071,519112,585004,519590,576839
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",24,"  Other services, except government",27918,27365,29178,30969,30260,33700
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",25," Government",225066,276629,284654,313459,336813,349433
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",26,"  Federal",151085,174647,170986,177931,193915,200515
+ "11000","District of Columbia",2,SAOVA,"Thousands of dollars",27,"  State and local",73981,101982,113669,135529,142898,148918
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

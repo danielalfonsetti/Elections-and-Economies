@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",1918717,2026948,2057360,2202663,2153424,2381709
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",966190,1004411,1039622,1084702,1097118,1141135
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",630257,655984,680581,716097,721685,753790
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",4,"   Bicycling",6136,6320,6544,6361,6597,6716
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",109554,112092,117637,124371,128127,134869
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",1349,1382,1436,1531,1641,1759
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",23591,24563,26314,28903,27806,27929
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",8,"    Sailing",1736,2113,2209,2188,2239,2213
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",9,"    Other Boating",82878,84033,87678,91750,96442,102968
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",27041,28381,29517,32034,30892,31348
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",11,"   Equestrian",61536,64378,70249,73732,77628,83732
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",61127,72658,69887,78825,78071,87409
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",22258,26541,25033,29436,28360,32084
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",38869,46117,44854,49389,49711,55325
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",29263,27501,27368,27945,26798,27656
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",6264,6053,6304,5886,5284,5523
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",17,"   RVing",103381,107900,114696,122895,129651,132604
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",69467,66913,72509,74315,73992,76189
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",41659,41633,44965,46377,47592,49412
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",27807,25280,27545,27938,26400,26777
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",48885,48479,49516,51104,46217,47236
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",43824,43245,44054,45399,40726,42042
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",5062,5234,5462,5705,5491,5194
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",107603,115309,116354,118629,118427,120507
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",335934,348427,359041,368606,375433,387345
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",11853,11551,11806,11963,12499,13115
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",11647,12364,13951,14385,16525,18072
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",28,"   Field Sports",22962,23330,25102,27411,27405,27862
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",93148,99192,97503,99592,98527,98954
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",64699,65159,68017,65872,65224,69298
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",33824,34038,35594,34738,34762,36527
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",30876,31121,32423,31134,30462,32771
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",38851,41608,43010,45185,46183,47925
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",85477,87431,92254,96674,101443,104401
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",7297,7793,7397,7524,7627,7718
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",952527,1022537,1017739,1117961,1056306,1240574
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",37,"   Construction",14725,19168,16643,18090,21055,22783
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",207625,207877,211670,213118,187323,208023
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",625570,684090,677483,772982,729119,886403
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",84497,81055,83335,95666,91382,105965
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",41,"    Lodging",235162,284021,272080,318068,326844,409900
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",88919,99537,101472,106540,97518,107061
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",43,"    Transportation",216992,219478,220597,252709,213375,263477
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",104606,111403,111942,113769,118808,123365
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",45,"    Federal Government",58103,61800,60666,60703,65510,68403
+ "30000","Montana",7,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",46503,49603,51277,53066,53299,54961
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

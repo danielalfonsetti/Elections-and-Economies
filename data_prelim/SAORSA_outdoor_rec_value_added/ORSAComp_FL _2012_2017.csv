@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",1,"All Industries",16526350,16615245,17316855,18544564,19272028,20690183
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",2," Private Industries",15501340,15575372,16261377,17478218,18190676,19566765
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",137878,136916,148420,162128,168141,180087
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",4,"  Mining",304,226,191,171,181,287
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",21,25,21,24,28,29
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",6,"  Construction",241815,197389,203690,203708,226008,255680
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",458367,463326,491544,515362,536256,529000
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",335686,337644,357966,377812,396123,391259
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",122681,125682,133578,137549,140133,137742
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",604583,592502,620436,663726,652908,670797
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",3346229,3522682,3612004,3822741,3877305,3982411
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",1506707,1633875,1799265,2186870,2277299,2531548
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",13,"  Information",21249,22267,23293,23762,24308,25352
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",257149,253085,233548,262637,276610,298301
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",86871,83108,82441,85346,87143,96218
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",170278,169977,151108,177290,189468,202083
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",389513,358206,377942,418925,434069,520211
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",142577,143357,155034,159652,164803,168889
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",121340,122728,133334,136862,141021,144128
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",21237,20628,21700,22790,23782,24761
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",8208161,8054465,8385607,8827430,9301337,10132044
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",4059975,4139241,4362192,4502842,4894898,5411340
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",4148186,3915224,4023415,4324588,4406439,4720704
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",186788,197051,210382,231081,251421,272128
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",25," Government",1025010,1039873,1055478,1066346,1081352,1123418
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",26,"  Federal",75606,83448,79860,79775,82159,81547
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",27,"  State and local",949404,956424,975619,986571,999193,1041871
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

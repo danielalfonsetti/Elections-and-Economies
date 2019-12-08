@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "01000","Alabama",5,SAOEMP,"Number of jobs",1,"All Industries",59151,58624,59530,60472,62095,62647
+ "01000","Alabama",5,SAOEMP,"Number of jobs",2," Private Industries",55584,54985,55820,56702,58283,58757
+ "01000","Alabama",5,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",557,523,539,550,550,575
+ "01000","Alabama",5,SAOEMP,"Number of jobs",4,"  Mining",29,22,16,11,9,17
+ "01000","Alabama",5,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "01000","Alabama",5,SAOEMP,"Number of jobs",6,"  Construction",609,732,784,880,941,956
+ "01000","Alabama",5,SAOEMP,"Number of jobs",7,"  Manufacturing",3923,3922,3792,3695,3932,4167
+ "01000","Alabama",5,SAOEMP,"Number of jobs",8,"   Durable goods",1948,2081,1987,1944,2182,2494
+ "01000","Alabama",5,SAOEMP,"Number of jobs",9,"   Nondurable goods",1974,1841,1805,1751,1750,1674
+ "01000","Alabama",5,SAOEMP,"Number of jobs",10,"  Wholesale trade",2372,2344,2310,2324,2238,2219
+ "01000","Alabama",5,SAOEMP,"Number of jobs",11,"  Retail trade",23937,24167,24154,24631,24738,24498
+ "01000","Alabama",5,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",1295,1299,1277,1256,1240,1220
+ "01000","Alabama",5,SAOEMP,"Number of jobs",13,"  Information",69,70,70,69,68,66
+ "01000","Alabama",5,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",598,578,533,532,531,536
+ "01000","Alabama",5,SAOEMP,"Number of jobs",15,"   Finance and insurance",198,184,173,166,161,162
+ "01000","Alabama",5,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",400,394,360,366,369,374
+ "01000","Alabama",5,SAOEMP,"Number of jobs",17,"  Professional and business services",465,471,487,511,545,559
+ "01000","Alabama",5,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",855,919,976,1025,1086,1126
+ "01000","Alabama",5,SAOEMP,"Number of jobs",19,"   Educational services",800,865,919,967,1025,1065
+ "01000","Alabama",5,SAOEMP,"Number of jobs",20,"   Health care and social assistance",55,55,57,58,60,61
+ "01000","Alabama",5,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",20227,19299,20224,20563,21752,22164
+ "01000","Alabama",5,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",7551,7788,8163,8213,8520,8835
+ "01000","Alabama",5,SAOEMP,"Number of jobs",23,"   Accommodation and food services",12677,11510,12061,12350,13232,13330
+ "01000","Alabama",5,SAOEMP,"Number of jobs",24,"  Other services, except government",649,640,658,655,655,653
+ "01000","Alabama",5,SAOEMP,"Number of jobs",25," Government",3567,3639,3710,3770,3813,3890
+ "01000","Alabama",5,SAOEMP,"Number of jobs",26,"  Federal",90,94,87,83,87,87
+ "01000","Alabama",5,SAOEMP,"Number of jobs",27,"  State and local",3477,3545,3623,3687,3726,3803
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "36000","New York",2,SAOVA,"Thousands of dollars",1,"All Industries",22665105,23298035,23916944,25410720,26586102,26299866
+ "36000","New York",2,SAOVA,"Thousands of dollars",2," Private Industries",21360182,21823032,22343231,23700361,24811500,24434332
+ "36000","New York",2,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",183290,210740,202833,196259,167824,166740
+ "36000","New York",2,SAOVA,"Thousands of dollars",4,"  Mining",528,496,574,519,582,762
+ "36000","New York",2,SAOVA,"Thousands of dollars",5,"  Utilities",54,57,50,57,63,62
+ "36000","New York",2,SAOVA,"Thousands of dollars",6,"  Construction",485705,447267,474995,524171,568684,603211
+ "36000","New York",2,SAOVA,"Thousands of dollars",7,"  Manufacturing",1575405,1624225,1682696,1769023,1685668,1687444
+ "36000","New York",2,SAOVA,"Thousands of dollars",8,"   Durable goods",382739,417461,410040,465696,407883,448336
+ "36000","New York",2,SAOVA,"Thousands of dollars",9,"   Nondurable goods",1192666,1206763,1272656,1303326,1277785,1239108
+ "36000","New York",2,SAOVA,"Thousands of dollars",10,"  Wholesale trade",3188236,3092990,3204961,3454158,3289820,3141033
+ "36000","New York",2,SAOVA,"Thousands of dollars",11,"  Retail trade",5083258,5378239,5330087,5461919,5622773,5635691
+ "36000","New York",2,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",2323436,2499471,2732325,3045515,3453722,3257456
+ "36000","New York",2,SAOVA,"Thousands of dollars",13,"  Information",153549,157409,156631,162809,178636,189070
+ "36000","New York",2,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",1640001,1679048,1441190,1666810,1753233,1745373
+ "36000","New York",2,SAOVA,"Thousands of dollars",15,"   Finance and insurance",310535,271185,319775,329958,318222,299441
+ "36000","New York",2,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",1329466,1407863,1121416,1336852,1435011,1445932
+ "36000","New York",2,SAOVA,"Thousands of dollars",17,"  Professional and business services",442985,428082,439109,474109,488917,559370
+ "36000","New York",2,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",289084,294805,315464,321328,343147,355699
+ "36000","New York",2,SAOVA,"Thousands of dollars",19,"   Educational services",252363,259923,279175,283221,302568,315133
+ "36000","New York",2,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",36721,34881,36289,38107,40580,40566
+ "36000","New York",2,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",5657935,5671955,6007546,6260977,6887512,6707952
+ "36000","New York",2,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",2836491,2913787,3130685,3179986,3425736,3616572
+ "36000","New York",2,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",2821444,2758168,2876861,3080991,3461775,3091380
+ "36000","New York",2,SAOVA,"Thousands of dollars",24,"  Other services, except government",336715,338250,354770,362705,370920,384470
+ "36000","New York",2,SAOVA,"Thousands of dollars",25," Government",1304924,1475003,1573713,1710359,1774602,1865533
+ "36000","New York",2,SAOVA,"Thousands of dollars",26,"  Federal",160541,168086,145414,139918,153858,165575
+ "36000","New York",2,SAOVA,"Thousands of dollars",27,"  State and local",1144382,1306917,1428299,1570441,1620745,1699958
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

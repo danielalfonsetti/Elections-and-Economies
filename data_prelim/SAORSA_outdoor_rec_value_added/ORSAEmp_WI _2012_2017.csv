@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",1,"All Industries",90294,89266,90625,90725,91333,93009
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",2," Private Industries",85906,85038,86478,86755,87423,89052
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",796,760,817,861,880,918
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",4,"  Mining",2,1,1,1,1,1
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",6,"  Construction",1538,1930,2191,1987,1840,1856
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",7,"  Manufacturing",8013,8262,8239,8338,8326,8378
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",8,"   Durable goods",5754,5992,5940,5918,5781,5801
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",9,"   Nondurable goods",2259,2270,2299,2419,2545,2576
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",10,"  Wholesale trade",4785,4793,4918,4892,4826,4773
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",11,"  Retail trade",29487,29123,28862,28920,28868,29528
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",2379,2297,2250,2220,2230,2254
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",13,"  Information",123,122,121,122,121,119
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",1342,1297,1170,1171,1150,1148
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",15,"   Finance and insurance",605,562,528,502,475,470
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",737,735,642,669,676,678
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",17,"  Professional and business services",1039,1041,1058,1098,1169,1170
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",1792,1927,2041,2142,2274,2378
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",19,"   Educational services",1714,1850,1961,2061,2190,2295
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",20,"   Health care and social assistance",78,77,79,81,83,83
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",33650,32530,33824,34013,34750,35546
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",18654,19064,19946,20016,20785,21389
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",23,"   Accommodation and food services",14995,13466,13878,13997,13965,14157
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",24,"  Other services, except government",961,957,986,990,987,982
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",25," Government",4388,4227,4147,3970,3910,3957
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",26,"  Federal",83,83,85,84,90,89
+ "55000","Wisconsin",3,SAOEMP,"Number of jobs",27,"  State and local",4305,4145,4062,3886,3819,3869
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

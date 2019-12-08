@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",1,"All Industries",95604,94609,95926,97726,100251,101035
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",2," Private Industries",88146,86727,87822,89289,91766,92390
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",977,931,975,1007,1011,1029
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",4,"  Mining",0,0,0,0,0,0
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",6,"  Construction",1929,1745,1826,1882,1855,1865
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",7,"  Manufacturing",6702,6988,6996,7384,7700,7943
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",8,"   Durable goods",4884,5172,5159,5430,5642,5875
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",9,"   Nondurable goods",1817,1816,1837,1954,2059,2068
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",10,"  Wholesale trade",4650,4579,4605,4655,4478,4451
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",11,"  Retail trade",33074,31973,31504,32224,33066,33052
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",5243,5001,5074,5232,5471,5576
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",13,"  Information",134,133,131,130,128,126
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",1351,1318,1222,1222,1224,1206
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",15,"   Finance and insurance",658,616,579,556,522,510
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",693,702,643,665,703,696
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",17,"  Professional and business services",984,983,994,1023,1076,1075
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",2036,2183,2298,2383,2506,2604
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",19,"   Educational services",1948,2095,2207,2290,2411,2508
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",20,"   Health care and social assistance",88,88,91,93,95,96
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",30007,29826,31092,31042,32147,32363
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",17530,17939,18836,18977,19694,20062
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",23,"   Accommodation and food services",12476,11886,12257,12065,12454,12302
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",24,"  Other services, except government",1060,1066,1102,1104,1103,1099
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",25," Government",7457,7882,8104,8438,8484,8645
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",26,"  Federal",113,116,114,112,118,119
+ "27000","Minnesota",4,SAOEMP,"Number of jobs",27,"  State and local",7344,7766,7990,8325,8367,8526
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "12000","Florida",5,SAOVA,"Thousands of dollars",1,"All Industries",33467980,34234250,35149205,38462732,39593915,42183230
+ "12000","Florida",5,SAOVA,"Thousands of dollars",2," Private Industries",32089190,32774782,33621501,36851820,37941435,40458633
+ "12000","Florida",5,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",323024,355005,344627,362445,327413,343186
+ "12000","Florida",5,SAOVA,"Thousands of dollars",4,"  Mining",1387,1111,768,609,589,1041
+ "12000","Florida",5,SAOVA,"Thousands of dollars",5,"  Utilities",60,62,54,62,72,76
+ "12000","Florida",5,SAOVA,"Thousands of dollars",6,"  Construction",376876,314501,331168,357194,396291,433516
+ "12000","Florida",5,SAOVA,"Thousands of dollars",7,"  Manufacturing",964630,1011056,1029944,1080479,1122055,1147658
+ "12000","Florida",5,SAOVA,"Thousands of dollars",8,"   Durable goods",643062,676131,683110,710968,745172,778749
+ "12000","Florida",5,SAOVA,"Thousands of dollars",9,"   Nondurable goods",321568,334925,346835,369511,376883,368909
+ "12000","Florida",5,SAOVA,"Thousands of dollars",10,"  Wholesale trade",1657846,1630925,1704581,1824948,1815863,1839346
+ "12000","Florida",5,SAOVA,"Thousands of dollars",11,"  Retail trade",6422686,6761186,6876225,7251230,7408274,7640811
+ "12000","Florida",5,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",3519020,4012124,4519543,5499423,5548389,6146342
+ "12000","Florida",5,SAOVA,"Thousands of dollars",13,"  Information",60689,64532,64872,69652,72896,77963
+ "12000","Florida",5,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",3227150,3217964,2774656,3147126,3294244,3337140
+ "12000","Florida",5,SAOVA,"Thousands of dollars",15,"   Finance and insurance",202564,183872,232443,271729,288066,283760
+ "12000","Florida",5,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",3024585,3034092,2542212,2875397,3006178,3053380
+ "12000","Florida",5,SAOVA,"Thousands of dollars",17,"  Professional and business services",547432,528181,544946,579645,603906,697844
+ "12000","Florida",5,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",232383,226902,243726,249739,259941,268408
+ "12000","Florida",5,SAOVA,"Thousands of dollars",19,"   Educational services",191287,188969,203821,207745,215976,223014
+ "12000","Florida",5,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",41096,37933,39905,41994,43965,45393
+ "12000","Florida",5,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",14340025,14224091,14732733,15940785,16565052,17962233
+ "12000","Florida",5,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",6597558,6569092,6875885,7166362,7756175,8604150
+ "12000","Florida",5,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",7742467,7654998,7856848,8774424,8808877,9358083
+ "12000","Florida",5,SAOVA,"Thousands of dollars",24,"  Other services, except government",415982,427143,453660,488483,526448,563068
+ "12000","Florida",5,SAOVA,"Thousands of dollars",25," Government",1378789,1459468,1527704,1610913,1652480,1724597
+ "12000","Florida",5,SAOVA,"Thousands of dollars",26,"  Federal",114668,132699,126808,125759,128879,128158
+ "12000","Florida",5,SAOVA,"Thousands of dollars",27,"  State and local",1264122,1326769,1400896,1485153,1523600,1596439
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

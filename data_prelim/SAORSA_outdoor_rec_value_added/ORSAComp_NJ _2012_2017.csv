@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",1,"All Industries",5354477,5343968,5592079,5797790,6025044,6070879
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",2," Private Industries",4805913,4746760,4975630,5141598,5356675,5380208
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",34641,32945,35337,36964,38228,40125
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",4,"  Mining",25,22,23,20,19,24
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",5,"  Utilities",9,11,9,11,12,11
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",6,"  Construction",69621,73017,72470,73687,87002,96968
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",347094,349856,364668,371139,373311,361543
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",8,"   Durable goods",106400,102453,109810,119724,122028,122532
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",240694,247403,254858,251415,251283,239011
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",432383,416920,438323,462337,453416,454385
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1448811,1483056,1508423,1539943,1542168,1523860
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",547602,541953,573309,595275,646404,654190
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",13,"  Information",19200,20276,21077,21145,21421,21816
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",128218,126053,122746,136683,138375,139805
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",60578,57357,56265,56775,56369,61009
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",67640,68696,66481,79908,82006,78796
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",125644,112713,117287,125424,124738,141200
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",88442,89598,97087,99288,102453,104794
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",19,"   Educational services",80121,81410,88442,90161,92759,94909
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",8321,8188,8645,9127,9694,9885
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1497729,1430336,1550641,1599788,1745500,1755235
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",807476,834488,893916,910090,977342,1032284
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",690252,595848,656725,689697,768158,722952
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",66496,70006,74230,79894,83627,86251
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",25," Government",548564,597208,616449,656192,668369,690671
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",26,"  Federal",34482,36275,32225,30461,30054,29308
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",27,"  State and local",514082,560933,584224,625730,638315,661363
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",1,"All Industries",59393,58446,59191,60337,61290,59460
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",2," Private Industries",54786,54004,54855,56054,56974,55079
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",396,376,382,392,378,399
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",4,"  Mining",26,27,26,22,25,23
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",6,"  Construction",2563,3000,3117,3267,3084,3099
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",7,"  Manufacturing",2463,2464,2457,2480,2537,2606
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",8,"   Durable goods",899,911,910,904,948,1031
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",9,"   Nondurable goods",1563,1553,1546,1577,1589,1575
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",10,"  Wholesale trade",1420,1405,1414,1405,1340,1329
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",11,"  Retail trade",22634,22287,22171,22493,22369,21441
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",3700,3980,4024,4133,4192,4137
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",13,"  Information",55,55,55,55,55,55
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",489,495,465,479,486,512
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",15,"   Finance and insurance",93,88,83,82,81,82
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",397,407,382,397,406,431
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",17,"  Professional and business services",541,547,560,583,616,623
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",811,862,909,953,1020,1084
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",19,"   Educational services",757,809,854,896,961,1024
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",20,"   Health care and social assistance",53,53,54,56,59,60
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",18983,17807,18558,19072,20152,19064
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",7574,7713,8134,8232,8674,8930
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",23,"   Accommodation and food services",11409,10094,10424,10840,11479,10134
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",24,"  Other services, except government",704,698,719,720,719,707
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",25," Government",4607,4442,4335,4283,4317,4380
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",26,"  Federal",70,76,73,70,69,65
+ "22000","Louisiana",5,SAOEMP,"Number of jobs",27,"  State and local",4537,4366,4262,4213,4248,4316
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,43 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",10,"...","Total arts compensation ratio","Ratio",0.037,0.036,0.033,0.031,0.028,0.027,0.026,0.026,0.026,0.026,0.026,0.025,0.024,0.024,0.023,0.023
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",100,"..."," Core arts and cultural production","Ratio",0.331,0.319,0.321,0.304,0.274,0.269,0.262,0.259,0.256,0.240,0.243,0.226,0.222,0.222,0.223,0.219
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",111,"...","  Performing arts companies","Ratio",0.913,0.907,0.919,0.936,0.947,0.957,(D),(D),0.962,0.969,0.968,0.966,0.968,0.968,0.966,0.966
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",112,"...","  Promoters of performing arts and similar events","Ratio",0.825,0.847,0.842,0.825,0.830,0.834,0.839,0.844,0.849,0.813,0.815,0.810,0.811,0.810,0.809,0.809
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",113,"...","  Agents/managers for artists","Ratio",0.511,0.511,0.510,0.510,0.509,0.509,0.508,0.508,0.508,0.508,0.508,(D),(D),(D),0.508,(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",114,"...","  Independent artists, writers, and performers","Ratio",0.899,0.902,0.906,0.909,0.913,0.916,0.920,0.919,0.920,0.919,0.919,(D),(D),(D),0.924,(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",120,"...","  Museums","Ratio",(D),(D),(D),0.887,0.886,(D),0.925,0.928,0.934,0.927,0.926,0.927,0.926,0.924,0.928,0.930
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",131,"...","  Advertising","Ratio",0.417,0.421,0.408,(D),0.369,0.351,(D),(D),0.348,(D),(D),0.359,(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",132,"...","  Architectural services","Ratio",0.708,0.707,0.713,0.719,0.724,0.727,0.730,0.734,0.733,0.730,0.730,0.730,0.731,0.733,0.732,0.729
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",133,"...","  Landscape architectural services","Ratio",0.937,0.936,0.939,0.944,0.943,0.940,0.934,0.941,0.939,0.936,0.934,0.936,0.939,0.940,0.938,0.930
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",134,"...","  Interior design services","Ratio",0.825,0.791,0.821,0.847,0.867,0.884,0.897,0.898,0.901,0.907,0.907,0.907,0.906,0.904,0.904,0.903
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",135,"...","  Industrial design services","Ratio",0.987,0.986,0.988,0.987,(D),0.990,0.987,0.987,(D),0.988,(D),0.990,0.990,0.989,0.989,(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",136,"...","  Graphic design services","Ratio",0.972,0.968,0.966,0.960,0.956,0.952,0.944,0.944,0.943,0.946,0.947,0.948,0.949,0.948,0.948,0.947
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",137,"...","  Computer systems design","Ratio",0.021,0.021,0.021,0.022,0.022,0.022,0.022,0.023,0.023,0.023,0.023,0.023,0.023,0.023,0.023,0.023
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",138,"...","  Photography and photofinishing services","Ratio",0.927,0.925,0.928,0.930,0.947,0.965,0.969,0.974,(D),(D),(D),(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",139,"...","  All other design services","Ratio",0.583,0.535,0.553,0.569,(D),0.602,0.614,0.613,(D),0.615,(D),0.616,0.616,0.615,0.615,(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",140,"...","  Fine arts education","Ratio",(D),(D),(D),(D),(D),(D),0.434,0.451,0.434,0.439,0.438,(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",150,"...","  Education services","Ratio",0.063,0.071,0.070,0.084,0.072,0.081,0.081,0.073,0.068,0.062,0.062,0.062,0.053,0.052,0.053,0.053
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",200,"..."," Supporting arts and cultural production","Ratio",0.118,0.115,0.105,0.100,0.090,0.085,0.082,0.082,0.079,0.080,0.079,0.076,0.075,0.077,0.074,0.072
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",211,"...","  Rental and leasing","Ratio",0.447,0.429,0.444,0.430,0.398,0.382,(D),(D),(D),(D),(D),(D),(D),(D),0.284,0.301
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",212,"...","  Grantmaking and giving services","Ratio",0.029,0.029,0.032,0.029,0.029,0.032,0.033,0.029,0.031,0.030,0.030,0.031,0.031,0.031,0.031,0.032
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",213,"...","  Unions","Ratio",0.026,0.022,0.023,0.023,0.023,0.023,0.021,0.023,0.026,0.024,0.027,0.024,0.028,0.026,0.028,0.027
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",214,"...","  Government","Ratio",0.137,0.133,0.116,0.106,0.091,0.081,0.073,0.073,0.072,0.071,0.072,0.068,0.066,0.065,0.064,0.063
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",215,"...","  Other support services","Ratio",0.019,0.014,0.015,0.016,0.018,0.019,0.020,0.020,0.020,0.020,0.020,0.019,0.020,0.020,0.020,0.020
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",221,"...","  Publishing","Ratio",0.449,0.451,0.469,0.456,0.453,0.449,0.451,0.446,0.436,0.432,0.425,0.419,0.409,0.398,0.390,0.383
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",222,"...","  Motion pictures","Ratio",0.993,0.993,0.994,0.993,0.993,0.993,0.992,0.992,0.990,0.991,0.989,0.989,0.991,0.991,0.990,0.991
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",223,"...","  Sound recording","Ratio",0.998,0.998,0.998,0.998,0.998,0.998,0.998,0.998,0.997,0.997,0.997,0.997,0.997,0.997,0.997,0.998
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",224,"...","  Broadcasting","Ratio",(D),0.284,0.308,0.336,0.356,0.381,0.401,0.406,0.403,0.423,0.428,0.438,0.445,0.452,0.457,0.458
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",225,"...","  Other information services","Ratio",0.886,0.893,0.903,0.919,0.916,0.918,0.916,0.901,0.892,0.895,0.896,0.897,0.883,0.868,0.860,0.878
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",231,"...","  Jewelry and silverware manufacturing","Ratio",0.893,0.921,0.921,0.916,0.920,0.919,0.941,0.942,0.927,0.940,0.939,0.942,0.946,0.949,0.887,0.950
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",232,"...","  Printed goods manufacturing","Ratio",0.229,0.209,0.208,(D),0.217,0.217,0.228,0.224,0.222,0.218,0.217,0.207,0.205,0.204,0.199,0.203
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",233,"...","  Musical instruments manufacturing","Ratio",0.958,(D),0.967,0.958,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",234,"...","  Custom architectural woodwork and metalwork manufacturing","Ratio",0.063,0.093,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.119,(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",235,"...","  Camera and motion picture equipment manufacturing","Ratio",(D),(D),(D),0.204,0.205,0.189,0.233,0.229,0.218,0.225,0.255,0.040,0.035,0.095,0.042,0.031
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",236,"...","  Other goods manufacturing","Ratio",0.112,0.106,0.102,0.097,0.092,(D),(D),(D),0.093,0.096,(D),(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",240,"...","  Construction","Ratio",0.334,0.275,0.259,0.227,0.177,0.185,0.254,0.196,0.213,0.306,0.224,0.202,0.206,0.267,0.288,0.253
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",250,"...","  Wholesale and transportation industries","Ratio",0.022,0.024,0.022,0.022,0.021,0.021,0.022,0.022,0.020,0.021,0.021,0.022,0.022,(D),(D),(D)
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",260,"...","  Retail industries","Ratio",0.052,0.051,0.049,0.049,0.048,0.048,0.048,0.048,0.048,0.047,(D),(D),(D),0.048,0.048,0.050
+ "28000","Mississippi",5,"SAACCompRatio: Arts Compensation Ratio",300,"..."," All other industries 2/","Ratio",0.003,0.003,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002
+"Note: See the included footnote file."
+"Last updated: March 19, 2019-- new statistics for 2016; revised statistics for 2014-2015. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

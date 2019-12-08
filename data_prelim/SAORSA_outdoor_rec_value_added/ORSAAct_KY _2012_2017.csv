@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",3644926,3698589,3789949,3993414,3993362,4135194
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",1826399,1905369,1952951,2066507,2102844,2206265
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",1171941,1222138,1244249,1315311,1347200,1423568
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",4,"   Bicycling",11609,12258,12382,12341,15380,14828
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",139557,140644,148079,158310,167046,177406
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",2614,2541,2643,2806,3135,3333
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",26930,27371,28098,29081,30239,30927
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",8,"    Sailing",11910,12226,13178,14052,15075,15807
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",9,"    Other Boating",98103,98507,104160,112370,118596,127339
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",26222,28484,29081,30162,31979,30964
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",11,"   Equestrian",173850,186714,204098,213897,224594,242567
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",92015,116698,101971,115222,115728,144480
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",44104,54236,47624,55482,54084,67078
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",47911,62462,54347,59741,61644,77402
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",87651,84624,88837,95355,100173,100561
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",9921,11050,11679,11602,11102,11286
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",17,"   RVing",99991,104743,109281,116497,125213,133018
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",9527,10475,10952,10718,8632,9109
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",3320,3877,4265,4383,4056,4083
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",6207,6598,6687,6335,4576,5026
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",89002,90989,93670,95610,92114,93696
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",75825,78223,80001,81101,76944,78694
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",13177,12766,13669,14510,15170,15001
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",432596,435461,434218,455597,455237,465654
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",654458,683230,708703,751196,755645,782697
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",38199,39568,41492,45620,50087,55870
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",77757,88684,91918,85350,90799,90043
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",28,"   Field Sports",28613,28925,30746,32639,33978,33735
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",168096,170016,167402,169036,174644,174357
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",138996,140478,151038,157767,162550,176352
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",95399,97847,109458,121827,133101,136652
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",43597,42631,41580,35940,29449,39701
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",92995,98886,101435,105882,105785,110828
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",75270,80210,88236,113540,100144,102378
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",34532,36462,36437,41362,37659,39133
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",1818527,1793220,1836997,1926906,1890518,1928929
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",37,"   Construction",41421,41260,42203,46658,54962,59105
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",418452,422726,437295,440589,406555,415021
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",1201304,1156721,1174670,1239360,1217063,1233658
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",189231,152884,156120,167702,167705,169265
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",41,"    Lodging",270055,265399,263833,292899,295787,292823
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",318206,320448,327728,338015,338307,340686
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",43,"    Transportation",423812,417989,426990,440743,415264,430885
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",157349,172514,182828,200299,211938,221144
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",45,"    Federal Government",20540,21950,21057,20655,21661,21640
+ "21000","Kentucky",5,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",136809,150564,161771,179644,190277,199504
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

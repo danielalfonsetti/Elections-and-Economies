@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",1,"All Industries",1200264,1210269,1226810,1278780,1321893,1373098
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",2," Private Industries",1136777,1143459,1157911,1205761,1245227,1293114
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting","(D)",10014,10951,11394,12765,13774
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",4,"  Mining","(D)",3,3,3,3,5
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",6,"  Construction",23993,17635,10399,9208,10780,11981
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",116825,117084,110318,109993,158773,157644
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",8,"   Durable goods",71147,70527,72535,73279,73951,70656
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",45679,46557,37782,36714,84822,86988
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",24852,24245,26442,27570,26583,26923
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",11,"  Retail trade",286508,295143,290693,301847,295793,313821
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",26925,28296,29530,31893,32506,34324
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",13,"  Information",1278,1350,1391,1388,1394,1454
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",33384,32205,29216,31978,33252,34284
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",15288,14614,14155,14056,13528,14061
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",18096,17591,15061,17922,19724,20223
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",8754,8000,8588,9582,9978,11408
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",13101,13417,14482,14994,15346,15862
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",19,"   Educational services",11261,11601,12610,13040,13399,13824
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1840,1815,1872,1954,1948,2038
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",582723,587934,617274,646431,637920,660745
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",152695,158019,167205,169424,176938,182207
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",430028,429915,450069,477007,460983,478538
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",7709,8133,8623,9478,10131,10887
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",25," Government",63487,66809,68899,73019,76666,79984
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",26,"  Federal",15127,16316,15222,15353,16838,17966
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",27,"  State and local",48360,50494,53677,57666,59828,62017
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

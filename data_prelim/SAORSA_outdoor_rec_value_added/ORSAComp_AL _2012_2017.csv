@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",1,"All Industries",1828163,1834179,1889505,1965490,2028312,2083927
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",2," Private Industries",1625197,1621114,1667517,1735178,1791945,1836504
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",24379,22298,22935,22127,21963,23236
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",4,"  Mining",3214,2630,1967,1442,1174,2483
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",8,9,7,7,8,7
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",6,"  Construction",20817,24321,26598,28394,32950,36669
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",174816,173220,172398,169804,170035,167396
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",91901,90566,87901,88564,91555,95733
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",82915,82654,84497,81240,78480,71663
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",147796,147563,152172,159238,153622,155725
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",577382,593142,598448,631432,640799,656008
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",72734,75406,75044,76538,76450,77041
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",13,"  Information",3499,3697,3851,3837,3883,3905
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",33836,31983,30193,32541,33102,35002
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",18514,17270,16802,16702,16430,17294
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",15322,14714,13390,15839,16672,17707
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",20259,18180,19535,21982,23274,26681
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",18912,19217,20873,21783,23028,24154
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",15614,15923,17421,18162,19218,20205
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",3297,3295,3451,3621,3809,3949
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",497065,478219,510803,531692,575525,589702
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",171741,179192,189100,190709,199665,206113
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",325323,299027,321703,340982,375860,383589
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",30480,31228,32692,34362,36133,38495
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",25," Government",202966,213065,221988,230312,236366,247424
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",26,"  Federal",9514,10089,9707,9427,9850,10264
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",27,"  State and local",193452,202975,212281,220884,226517,237160
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

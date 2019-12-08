@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",1,"All Industries",8466331,8630155,8833203,9192096,9412937,9954756
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",2," Private Industries",8046545,8187534,8368529,8708659,8919229,9435579
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",218372,249603,239070,249654,222005,230739
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",4,"  Mining",489,489,522,409,379,448
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",5,"  Utilities",42,44,38,42,46,45
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",6,"  Construction",112717,128849,152615,162688,178105,191205
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",7,"  Manufacturing",1017910,1066863,1077376,1081564,1054681,1142187
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",8,"   Durable goods",587328,612534,612963,616938,615255,685282
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",9,"   Nondurable goods",430582,454329,464413,464626,439426,456905
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",10,"  Wholesale trade",683647,673605,701168,742627,722550,802027
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",11,"  Retail trade",2269110,2292553,2275645,2354391,2403671,2548301
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",695133,718488,759523,805305,883009,940972
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",13,"  Information",20877,22182,22373,24141,25207,26448
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",871925,860325,776010,842566,893137,892593
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",15,"   Finance and insurance",128297,116732,143363,161647,164474,155364
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",743628,743592,632647,680920,728662,737229
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",17,"  Professional and business services",119966,117287,123014,132337,136272,150954
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",60585,60418,64843,66061,68612,71313
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",19,"   Educational services",46750,47300,51158,51935,54082,56266
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",13835,13118,13685,14126,14530,15047
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1842861,1860898,2032356,2093060,2163960,2255623
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",895526,910048,972756,986474,1040353,1085448
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",947336,950849,1059600,1106586,1123606,1170175
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",24,"  Other services, except government",132911,135932,143977,153813,167595,182724
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",25," Government",419786,442621,464673,483437,493708,519177
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",26,"  Federal",26186,29691,29125,29063,30717,32085
+ "26000","Michigan",3,SAOVA,"Thousands of dollars",27,"  State and local",393600,412930,435548,454374,462991,487092
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

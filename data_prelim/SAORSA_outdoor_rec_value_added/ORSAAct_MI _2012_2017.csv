@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",8466331,8630155,8833203,9192096,9412937,9954756
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",4615812,4686767,4775156,4959983,5062572,5346498
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",2800591,2812670,2863466,3025037,3106043,3271515
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",4,"   Bicycling",33365,36439,35826,35278,38865,37812
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",569561,587542,609346,655273,699570,735330
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",13701,14286,14716,15957,18221,19340
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",74903,76188,75337,76762,77498,77287
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",8,"    Sailing",40445,40732,43694,46098,49337,50978
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",9,"    Other Boating",440512,456337,475598,516456,554515,587725
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",91803,96961,100328,104424,105933,104884
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",11,"   Equestrian",121510,126654,139380,148149,160435,184437
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",188343,214308,202948,223516,206771,222616
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",113963,128330,121629,138333,118612,128789
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",74380,85977,81320,85183,88159,93827
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",169849,162663,173610,188460,193363,197243
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",16364,17964,18795,18997,18981,19585
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",17,"   RVing",400801,395305,418584,440445,460131,488864
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",70437,68591,73409,75702,72969,73329
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",42218,41415,44656,46123,44791,45297
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",28219,27177,28753,29578,28177,28032
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",209977,207837,214554,225122,233765,246368
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",140180,140554,141437,147015,152197,164446
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",69797,67283,73117,78107,81568,81922
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",928582,898406,876687,909671,915261,961046
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",1815221,1874097,1911690,1934946,1956528,2074983
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",65720,68431,71200,76650,81327,86816
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",252311,267731,295453,289615,311206,327382
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",28,"   Field Sports",77107,78268,81008,84257,87830,88947
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",479928,483229,473108,481327,507185,523178
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",433250,451389,463196,449496,411328,471514
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",240461,254676,271809,276553,277937,288815
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",192789,196714,191387,172943,133391,182699
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",216617,228699,231325,241631,244907,259971
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",211355,212933,217231,230069,229918,231375
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",78934,83416,79167,81901,82827,85800
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",3850518,3943387,4058047,4232113,4350366,4608257
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",37,"   Construction",114508,136227,161953,172764,188463,202367
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",742462,759876,801078,823152,814107,873994
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",2624285,2660916,2693172,2820025,2922642,3083353
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",321700,275239,296698,299444,300071,352220
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",41,"    Lodging",971460,1006466,954706,1012465,1052508,1044874
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",428896,451656,469230,474316,474399,493766
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",43,"    Transportation",902229,927554,972537,1033800,1095663,1192493
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",369264,386369,401844,416172,425154,448544
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",45,"    Federal Government",23233,26156,25692,25809,27435,28649
+ "26000","Michigan",3,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",346031,360213,376152,390364,397719,419895
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

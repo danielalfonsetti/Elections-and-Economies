@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",1,"All Industries",11397994,11578536,11862703,12626660,12912716,13173567
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",2," Private Industries",10896427,11033090,11294794,12029797,12299482,12534629
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",221637,250863,245332,250571,228915,235301
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",4,"  Mining",26367,23003,18660,13596,11975,20411
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",5,"  Utilities",119,118,98,107,123,128
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",6,"  Construction",155853,140969,148516,185591,215211,230362
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",7,"  Manufacturing",1445716,1538883,1583239,1620499,1609913,1679625
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",8,"   Durable goods",610152,679238,682253,702517,708906,789102
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",9,"   Nondurable goods",835564,859645,900986,917982,901007,890523
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",10,"  Wholesale trade",1007027,972009,1050510,1269644,1301361,1297289
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",11,"  Retail trade",2985600,3020878,2953283,2976584,2988582,3073179
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",874542,921436,1003710,1166164,1235005,1264190
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",13,"  Information",45076,47567,47264,49736,51412,53743
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",764363,757333,714678,804204,857128,865696
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",15,"   Finance and insurance",216287,194074,236311,257049,255244,239808
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",548076,563259,478367,547155,601884,625888
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",17,"  Professional and business services",200006,194956,202747,216733,221877,247001
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",134019,137662,145584,144844,150444,152351
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",19,"   Educational services",111633,116435,123625,121908,126819,128461
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",22386,21227,21959,22937,23626,23890
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",2858943,2848571,2995894,3142519,3236338,3218358
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",1649057,1679391,1792369,1825656,1917695,1978941
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",1209886,1169180,1203524,1316863,1318643,1239418
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",24,"  Other services, except government",177157,178842,185278,189005,191197,196996
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",25," Government",501567,545446,567910,596863,613234,638938
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",26,"  Federal",89295,100157,94624,94949,100465,103089
+ "42000","Pennsylvania",2,SAOVA,"Thousands of dollars",27,"  State and local",412272,445289,473285,501914,512769,535849
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

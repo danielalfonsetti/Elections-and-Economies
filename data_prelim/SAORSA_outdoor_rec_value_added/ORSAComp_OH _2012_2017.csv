@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",1,"All Industries",4611856,4635896,4783813,4975549,5140434,5348251
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",2," Private Industries",3966035,3940977,4063019,4212047,4355819,4529076
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",55944,51809,55776,57124,61517,68410
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",4,"  Mining",1790,1529,1281,1102,1032,1662
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",5,"  Utilities",18,21,18,22,25,24
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",6,"  Construction",92289,87124,96780,102920,116961,129280
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",380229,390612,406098,426149,431133,484790
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",8,"   Durable goods",188155,189832,195372,203950,202426,250079
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",192074,200779,210726,222198,228707,234711
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",346738,342102,355887,370193,356510,367278
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1319511,1300019,1276105,1307196,1327456,1365860
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",242816,248589,249650,258561,260073,266517
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",13,"  Information",15886,16909,17463,17914,18046,19868
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",113218,109486,109382,119164,121818,130263
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",81994,78662,78211,80144,80284,86828
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",31224,30824,31171,39021,41534,43435
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",63496,57344,61130,68042,70968,81074
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",64526,66321,72087,75070,78215,79668
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",19,"   Educational services",55828,57479,62820,65316,67997,69296
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",8698,8841,9267,9754,10218,10372
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1193830,1190171,1278239,1320155,1419067,1436336
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",832402,866470,933848,957111,1022966,1070871
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",361428,323701,344391,363045,396101,365465
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",75743,78941,83122,88435,92998,98047
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",25," Government",645821,694918,720794,763501,784615,819174
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",26,"  Federal",19759,21094,19799,19336,20072,20196
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",27,"  State and local",626061,673824,700995,744166,764543,798978
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

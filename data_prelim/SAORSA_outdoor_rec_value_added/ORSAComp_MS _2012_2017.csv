@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",1,"All Industries",988820,996668,1023466,1056466,1084703,1119665
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",2," Private Industries",868181,866898,894327,925187,951948,984995
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",12022,11385,11726,12350,12909,13205
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",4,"  Mining",324,312,278,234,236,324
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",3,3,3,3,4,4
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",6,"  Construction",26463,22817,20088,17388,18390,19559
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",135883,136404,136613,141079,141103,162806
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",71479,70976,70054,73746,72132,91884
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",64404,65428,66558,67332,68971,70921
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",40351,39024,41145,43053,41969,42319
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",339966,346335,352797,366599,372463,376121
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",48010,50645,50641,52500,53577,56374
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",13,"  Information",1763,1868,1968,1951,2002,2056
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",11106,10829,10288,11655,12113,12568
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",4127,3944,3824,3895,3839,4032
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",6979,6886,6464,7760,8274,8536
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",9071,7979,8650,9799,10563,11697
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",10653,10642,11509,11810,12292,12583
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",8818,8810,9577,9792,10179,10421
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1835,1833,1932,2018,2113,2162
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",217218,212714,231999,239415,256326,256875
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",77664,79873,83924,83464,86760,88970
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",139555,132840,148075,155951,169566,167905
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",15348,15941,16622,17350,18002,18504
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",25," Government",120639,129771,129139,131279,132755,134670
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",26,"  Federal",41957,46915,43551,42969,43624,42580
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",27,"  State and local",78682,82856,85588,88310,89131,92090
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

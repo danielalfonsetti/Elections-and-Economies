@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",1,"All Industries",9207406,9276974,9535872,9841550,9825499,10167019
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",2," Private Industries",8633227,8676371,8906832,9174859,9127411,9432595
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",211818,239556,232875,234669,220928,228270
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",4,"  Mining",5768,4819,3856,2900,2689,4518
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",5,"  Utilities",44,45,39,46,52,52
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",6,"  Construction",143834,138196,156947,179514,202083,215946
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",7,"  Manufacturing",1616711,1717983,1784571,1746242,1501960,1620087
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",8,"   Durable goods",402966,423246,430291,444397,448070,526764
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",9,"   Nondurable goods",1213745,1294738,1354280,1301845,1053889,1093323
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",10,"  Wholesale trade",1116823,1076831,1110972,1156462,1118416,1112793
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",11,"  Retail trade",2503272,2490085,2432698,2502532,2553408,2667856
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",459788,477244,492756,507469,501278,503480
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",13,"  Information",54476,55401,54443,56020,60082,72013
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",330772,310731,329276,380349,398113,397680
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",15,"   Finance and insurance",133680,122942,152306,177357,183420,177634
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",197092,187789,176970,202993,214693,220046
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",17,"  Professional and business services",112916,110120,116226,125764,132000,148073
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",71925,72645,78137,79985,83532,84584
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",19,"   Educational services",56938,58440,63293,64451,67331,68374
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",14987,14205,14844,15534,16201,16210
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1868610,1843917,1968727,2051667,2195819,2213249
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",1211972,1231783,1317923,1345671,1437586,1518966
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",656638,612134,650804,705997,758233,694283
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",24,"  Other services, except government",136470,138797,145309,151239,157051,163995
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",25," Government",574179,600603,629040,666691,698089,734424
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",26,"  Federal",32599,37005,34748,33613,34528,34915
+ "39000","Ohio",3,SAOVA,"Thousands of dollars",27,"  State and local",541580,563598,594292,633079,663561,699509
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

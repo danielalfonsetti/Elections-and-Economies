@@ -1,0 +1,43 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",10,"...","Total ACPSA employment","Number of jobs",13365,13167,12987,12649,12466,12052,12072,12063,11153,10659,10569,10489,10532,10539,10613,10740
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",100,"..."," Core arts and cultural production","Number of jobs",2847,2885,2931,2900,2971,2993,2997,2778,2526,2532,2658,2654,2739,2835,2852,3012
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",111,"...","  Performing arts companies","Number of jobs",111,107,113,145,174,187,175,165,(D),(D),217,173,178,(D),215,262
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",112,"...","  Promoters of performing arts and similar events","Number of jobs",136,158,164,188,205,192,191,191,185,165,157,195,198,224,221,237
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",113,"...","  Agents/managers for artists","Number of jobs",80,(D),58,(D),71,64,73,(D),10,(D),(D),11,14,18,21,16
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",114,"...","  Independent artists, writers, and performers","Number of jobs",92,93,71,83,109,108,116,127,103,101,115,115,111,116,75,81
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",120,"...","  Museums","Number of jobs",324,331,360,376,372,392,410,418,413,417,426,421,424,445,430,444
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",131,"...","  Advertising","Number of jobs",412,363,348,322,306,300,265,228,207,191,(D),188,194,194,(D),(D)
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",132,"...","  Architectural services","Number of jobs",291,295,309,303,297,301,306,312,262,241,244,250,253,255,255,255
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",133,"...","  Landscape architectural services","Number of jobs",119,138,124,99,94,93,84,63,57,57,56,61,68,62,59,54
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",134,"...","  Interior design services","Number of jobs",15,17,(D),(D),7,13,19,18,19,19,20,23,21,18,20,20
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",135,"...","  Industrial design services","Number of jobs",90,117,119,(D),140,147,148,143,106,125,136,140,124,132,126,139
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",136,"...","  Graphic design services","Number of jobs",319,264,244,238,257,267,276,254,262,286,308,327,326,257,264,229
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",137,"...","  Computer systems design","Number of jobs",(D),(D),(D),(D),33,34,35,39,41,43,45,47,49,52,56,57
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",138,"...","  Photography and photofinishing services","Number of jobs",222,213,214,196,(D),150,149,(D),(D),87,79,75,64,(D),(D),(D)
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",139,"...","  All other design services","Number of jobs",2,10,(D),9,1,3,5,5,4,4,2,2,2,1,1,1
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",140,"...","  Fine arts education","Number of jobs",(D),(D),(D),(D),(D),122,125,149,164,178,191,166,166,189,212,254
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",150,"...","  Education services","Number of jobs",514,601,666,620,625,620,620,451,405,410,471,460,547,631,662,747
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",200,"..."," Supporting arts and cultural production","Number of jobs",10019,9784,9581,9280,9032,8601,8609,8819,8176,7718,7511,7388,7369,7281,7323,7295
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",211,"...","  Rental and leasing","Number of jobs",262,257,264,(D),(D),(D),208,(D),(D),102,(D),(D),(D),(D),(D),(D)
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",212,"...","  Grantmaking and giving services","Number of jobs",(D),7,8,7,5,6,5,5,5,6,7,(D),(D),(D),15,(D)
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",213,"...","  Unions","Number of jobs",27,24,23,21,24,25,23,25,27,25,28,29,33,35,37,37
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",214,"...","  Government","Number of jobs",3233,3189,3000,2797,2609,2374,(D),2573,2478,2103,2158,2121,2202,2119,2115,2168
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",215,"...","  Other support services","Number of jobs",3,(D),(D),(D),3,(D),(D),(D),(D),2,2,(D),3,3,3,2
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",221,"...","  Publishing","Number of jobs",1257,1260,1274,1133,1108,1057,1048,985,894,855,(D),(D),809,855,(D),(D)
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",222,"...","  Motion pictures","Number of jobs",469,455,425,399,390,401,391,398,400,429,417,394,315,306,314,333
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",223,"...","  Sound recording","Number of jobs",9,10,9,8,7,8,12,12,7,4,5,7,8,8,15,9
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",224,"...","  Broadcasting","Number of jobs",632,670,703,713,736,771,851,846,867,882,874,843,834,825,798,762
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",225,"...","  Other information services","Number of jobs",131,(D),132,245,248,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",231,"...","  Jewelry and silverware manufacturing","Number of jobs",139,151,154,132,132,142,149,152,126,115,116,117,125,136,137,151
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",232,"...","  Printed goods manufacturing","Number of jobs",337,286,279,291,284,235,248,229,223,211,226,214,188,182,185,190
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",233,"...","  Musical instruments manufacturing","Number of jobs",26,29,32,30,30,28,26,31,24,21,19,20,22,26,24,21
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",234,"...","  Custom architectural woodwork and metalwork manufacturing","Number of jobs",352,461,(D),(D),(D),(D),511,(D),(D),(D),(D),(D),(D),(D),302,298
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",235,"...","  Camera and motion picture equipment manufacturing","Number of jobs",13,15,(D),12,11,8,9,10,9,10,14,2,2,3,1,2
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",236,"...","  Other goods manufacturing","Number of jobs",89,(D),(D),85,78,67,76,(D),(D),58,(D),(D),(D),34,36,37
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",240,"...","  Construction","Number of jobs",423,362,312,302,321,149,191,215,187,298,265,232,(D),299,449,232
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",250,"...","  Wholesale and transportation industries","Number of jobs",(D),(D),267,(D),258,281,280,(D),(D),379,371,368,315,279,275,(D)
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",260,"...","  Retail industries","Number of jobs",2330,2119,2214,2174,2170,2175,2241,2078,1860,1754,1656,1724,1784,1691,1648,1785
+ "50000","Vermont",1,"SAACArtsEmp: ACPSA full-time and part-time employment by ACPSA industry",300,"..."," All other industries 2/","Number of jobs",499,498,475,469,463,458,466,466,451,409,400,447,424,423,438,433
+"Note: See the included footnote file."
+"Last updated: March 19, 2019-- new statistics for 2016; revised statistics for 2014-2015. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

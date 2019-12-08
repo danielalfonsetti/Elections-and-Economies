@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "26000","Michigan",3,SAOEMP,"Number of jobs",1,"All Industries",117990,117025,119947,120460,122075,126681
+ "26000","Michigan",3,SAOEMP,"Number of jobs",2," Private Industries",112693,111692,114629,115133,116728,121266
+ "26000","Michigan",3,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",1851,1728,1835,1938,1999,2066
+ "26000","Michigan",3,SAOEMP,"Number of jobs",4,"  Mining",2,2,2,2,2,2
+ "26000","Michigan",3,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "26000","Michigan",3,SAOEMP,"Number of jobs",6,"  Construction",1857,2211,2518,2608,2578,2586
+ "26000","Michigan",3,SAOEMP,"Number of jobs",7,"  Manufacturing",4923,5020,4997,5103,5268,5660
+ "26000","Michigan",3,SAOEMP,"Number of jobs",8,"   Durable goods",3231,3352,3327,3371,3443,3789
+ "26000","Michigan",3,SAOEMP,"Number of jobs",9,"   Nondurable goods",1691,1667,1670,1731,1825,1871
+ "26000","Michigan",3,SAOEMP,"Number of jobs",10,"  Wholesale trade",2796,2756,2803,2858,2844,2966
+ "26000","Michigan",3,SAOEMP,"Number of jobs",11,"  Retail trade",46113,45100,44844,44799,44484,46162
+ "26000","Michigan",3,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",4613,4482,4450,4457,4681,4924
+ "26000","Michigan",3,SAOEMP,"Number of jobs",13,"  Information",149,149,149,150,149,146
+ "26000","Michigan",3,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",1665,1648,1506,1511,1521,1527
+ "26000","Michigan",3,SAOEMP,"Number of jobs",15,"   Finance and insurance",499,468,444,434,426,435
+ "26000","Michigan",3,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",1166,1181,1063,1077,1095,1092
+ "26000","Michigan",3,SAOEMP,"Number of jobs",17,"  Professional and business services",1619,1642,1680,1778,1909,1914
+ "26000","Michigan",3,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",2056,2210,2338,2439,2559,2636
+ "26000","Michigan",3,SAOEMP,"Number of jobs",19,"   Educational services",1936,2089,2213,2311,2429,2503
+ "26000","Michigan",3,SAOEMP,"Number of jobs",20,"   Health care and social assistance",120,121,125,127,130,133
+ "26000","Michigan",3,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",43380,43056,45745,45693,46885,48760
+ "26000","Michigan",3,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",23084,23788,25050,25440,26534,27247
+ "26000","Michigan",3,SAOEMP,"Number of jobs",23,"   Accommodation and food services",20295,19268,20695,20253,20350,21514
+ "26000","Michigan",3,SAOEMP,"Number of jobs",24,"  Other services, except government",1667,1688,1762,1797,1849,1916
+ "26000","Michigan",3,SAOEMP,"Number of jobs",25," Government",5296,5332,5318,5327,5347,5415
+ "26000","Michigan",3,SAOEMP,"Number of jobs",26,"  Federal",209,229,214,208,215,216
+ "26000","Michigan",3,SAOEMP,"Number of jobs",27,"  State and local",5088,5104,5103,5119,5133,5199
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "06000","California",8,SAOVA,"Thousands of dollars",1,"All Industries",42124667,43115793,44553908,47108968,48359912,52120252
+ "06000","California",8,SAOVA,"Thousands of dollars",2," Private Industries",39178765,40116422,41514822,44015999,45142526,48774747
+ "06000","California",8,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",792098,934422,936147,940726,906587,908849
+ "06000","California",8,SAOVA,"Thousands of dollars",4,"  Mining",7121,6935,6756,4350,3579,4377
+ "06000","California",8,SAOVA,"Thousands of dollars",5,"  Utilities",105,109,99,106,109,103
+ "06000","California",8,SAOVA,"Thousands of dollars",6,"  Construction",681223,691582,680364,892350,1001689,1079573
+ "06000","California",8,SAOVA,"Thousands of dollars",7,"  Manufacturing",5727311,5699846,5779676,5773580,5204998,5773527
+ "06000","California",8,SAOVA,"Thousands of dollars",8,"   Durable goods",1448539,1493905,1503220,1603540,1603334,1706799
+ "06000","California",8,SAOVA,"Thousands of dollars",9,"   Nondurable goods",4278772,4205941,4276456,4170040,3601664,4066728
+ "06000","California",8,SAOVA,"Thousands of dollars",10,"  Wholesale trade",4063742,3990709,4285283,4566431,4366655,4345349
+ "06000","California",8,SAOVA,"Thousands of dollars",11,"  Retail trade",9165611,9411856,9547849,9971344,10257283,10838594
+ "06000","California",8,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",3994395,4545932,4894844,5420227,5832346,6600513
+ "06000","California",8,SAOVA,"Thousands of dollars",13,"  Information",147541,161366,168844,195398,215724,243548
+ "06000","California",8,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",2229158,2178169,2048267,2261762,2407837,2675553
+ "06000","California",8,SAOVA,"Thousands of dollars",15,"   Finance and insurance",259023,231146,278062,302676,303545,291747
+ "06000","California",8,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",1970135,1947022,1770205,1959087,2104292,2383806
+ "06000","California",8,SAOVA,"Thousands of dollars",17,"  Professional and business services",690879,678371,708145,774456,819180,958148
+ "06000","California",8,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",378913,382489,410722,420039,440774,461185
+ "06000","California",8,SAOVA,"Thousands of dollars",19,"   Educational services",326862,333255,359304,365715,383595,401802
+ "06000","California",8,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",52051,49233,51418,54324,57179,59383
+ "06000","California",8,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",10682288,10803568,11384947,12096256,12950172,14095235
+ "06000","California",8,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",5734977,5831143,6207294,6448192,6931945,7461103
+ "06000","California",8,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",4947311,4972425,5177652,5648064,6018226,6634132
+ "06000","California",8,SAOVA,"Thousands of dollars",24,"  Other services, except government",618381,631069,662881,698973,735594,790192
+ "06000","California",8,SAOVA,"Thousands of dollars",25," Government",2945902,2999371,3039086,3092969,3217386,3345505
+ "06000","California",8,SAOVA,"Thousands of dollars",26,"  Federal",457046,511941,490348,484242,503367,509988
+ "06000","California",8,SAOVA,"Thousands of dollars",27,"  State and local",2488857,2487430,2548738,2608727,2714019,2835517
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

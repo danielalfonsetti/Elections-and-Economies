@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",1,"All Industries",170706,169402,171127,173225,174682,173588
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",2," Private Industries",163202,161248,162953,164631,166044,164944
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",2358,2199,2332,2445,2513,2588
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",4,"  Mining",61,50,39,31,28,41
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",6,"  Construction",2534,2380,2429,2951,3107,3121
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",7,"  Manufacturing",8241,8134,8116,8122,8090,8022
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",8,"   Durable goods",3427,3506,3559,3670,3604,3680
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",9,"   Nondurable goods",4813,4628,4557,4452,4485,4341
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",10,"  Wholesale trade",4253,4151,4204,4340,4222,4161
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",11,"  Retail trade",61052,60636,59741,58694,57910,56906
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",6808,6764,6872,7210,7276,7303
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",13,"  Information",281,281,278,273,267,257
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",2276,2261,2148,2191,2210,2227
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",15,"   Finance and insurance",1069,1008,957,934,901,908
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",1207,1254,1191,1257,1309,1319
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",17,"  Professional and business services",2450,2469,2505,2623,2780,2736
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",3954,4202,4402,4552,4753,4910
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",19,"   Educational services",3760,4007,4202,4347,4545,4703
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",20,"   Health care and social assistance",194,195,200,205,208,207
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",66497,65283,67382,68706,70422,70241
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",39586,40656,42755,43247,44880,45789
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",23,"   Accommodation and food services",26911,24627,24627,25459,25542,24452
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",24,"  Other services, except government",2438,2439,2504,2494,2467,2432
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",25," Government",7504,8153,8174,8594,8637,8645
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",26,"  Federal",740,808,725,706,725,718
+ "42000","Pennsylvania",2,SAOEMP,"Number of jobs",27,"  State and local",6765,7346,7449,7887,7912,7927
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

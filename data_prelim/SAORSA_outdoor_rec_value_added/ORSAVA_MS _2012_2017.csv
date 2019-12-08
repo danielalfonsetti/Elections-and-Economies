@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",1,"All Industries",2389830,2428412,2459751,2509242,2476126,2629162
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",2," Private Industries",2199816,2223791,2252577,2296830,2261465,2409268
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",64910,73087,71362,71339,67022,72256
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",4,"  Mining",1300,1232,1127,785,676,1011
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",5,"  Utilities",9,10,9,10,11,11
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",6,"  Construction",40341,34979,31100,28795,30296,31290
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",7,"  Manufacturing",615917,624379,622467,598970,512390,647087
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",8,"   Durable goods",144879,153924,155033,159366,149033,174058
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",9,"   Nondurable goods",471038,470456,467434,439603,363357,473029
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",10,"  Wholesale trade",171097,164310,171048,180468,184707,178283
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",11,"  Retail trade",684688,701977,702653,720114,729864,739081
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",94741,103390,103082,103739,101260,104568
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",13,"  Information",4999,5511,5594,6008,6336,6787
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",105483,101530,93459,109333,122799,123513
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",15,"   Finance and insurance",15458,14334,18537,21969,23682,23436
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",90025,87196,74921,87363,99117,100077
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",17,"  Professional and business services",17523,17391,18921,20764,21962,23898
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",12548,12123,13001,13277,13833,14141
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",19,"   Educational services",9125,8921,9634,9779,10203,10492
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",3423,3202,3367,3499,3630,3649
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",359861,357005,390894,414745,441623,438678
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",106977,106448,111216,111559,115549,119458
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",252884,250557,279678,303186,326074,319220
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",24,"  Other services, except government",26400,26868,27861,28483,28687,28665
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",25," Government",190014,204620,207173,212412,214661,219894
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",26,"  Federal",65597,75096,69639,68144,68677,67111
+ "28000","Mississippi",5,SAOVA,"Thousands of dollars",27,"  State and local",124417,129525,137534,144268,145984,152783
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

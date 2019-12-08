@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "02000","Alaska",8,SAOEMP,"Number of jobs",1,"All Industries",21713,21335,21718,22769,22875,22677
+ "02000","Alaska",8,SAOEMP,"Number of jobs",2," Private Industries",19955,19469,19844,20900,21040,20802
+ "02000","Alaska",8,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",86,86,92,99,102,106
+ "02000","Alaska",8,SAOEMP,"Number of jobs",4,"  Mining",7,7,6,5,6,6
+ "02000","Alaska",8,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "02000","Alaska",8,SAOEMP,"Number of jobs",6,"  Construction",436,414,373,340,319,309
+ "02000","Alaska",8,SAOEMP,"Number of jobs",7,"  Manufacturing",190,192,189,194,202,202
+ "02000","Alaska",8,SAOEMP,"Number of jobs",8,"   Durable goods",45,47,48,49,53,59
+ "02000","Alaska",8,SAOEMP,"Number of jobs",9,"   Nondurable goods",145,145,141,145,149,143
+ "02000","Alaska",8,SAOEMP,"Number of jobs",10,"  Wholesale trade",101,101,101,99,93,95
+ "02000","Alaska",8,SAOEMP,"Number of jobs",11,"  Retail trade",5614,5343,5632,5945,6044,6161
+ "02000","Alaska",8,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",3294,3248,3149,3320,3479,3369
+ "02000","Alaska",8,SAOEMP,"Number of jobs",13,"  Information",15,15,16,16,16,16
+ "02000","Alaska",8,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",205,209,179,178,178,179
+ "02000","Alaska",8,SAOEMP,"Number of jobs",15,"   Finance and insurance",24,22,21,19,18,18
+ "02000","Alaska",8,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",181,186,159,159,159,160
+ "02000","Alaska",8,SAOEMP,"Number of jobs",17,"  Professional and business services",172,177,181,195,213,214
+ "02000","Alaska",8,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",208,219,229,234,242,249
+ "02000","Alaska",8,SAOEMP,"Number of jobs",19,"   Educational services",192,203,212,217,225,231
+ "02000","Alaska",8,SAOEMP,"Number of jobs",20,"   Health care and social assistance",16,16,16,17,17,18
+ "02000","Alaska",8,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",9454,9286,9522,10097,9972,9726
+ "02000","Alaska",8,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",3055,3078,3186,3098,3101,3081
+ "02000","Alaska",8,SAOEMP,"Number of jobs",23,"   Accommodation and food services",6399,6208,6336,6999,6871,6645
+ "02000","Alaska",8,SAOEMP,"Number of jobs",24,"  Other services, except government",174,171,175,176,172,169
+ "02000","Alaska",8,SAOEMP,"Number of jobs",25," Government",1758,1866,1874,1869,1835,1875
+ "02000","Alaska",8,SAOEMP,"Number of jobs",26,"  Federal",305,321,307,299,307,297
+ "02000","Alaska",8,SAOEMP,"Number of jobs",27,"  State and local",1453,1545,1567,1570,1529,1578
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

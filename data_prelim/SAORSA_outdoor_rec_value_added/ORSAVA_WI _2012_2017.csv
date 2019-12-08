@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",1,"All Industries",6955639,7142390,7189963,7359294,7535784,7785344
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",2," Private Industries",6638848,6818536,6853637,7009424,7169810,7402179
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",144894,162366,156439,155902,141059,146687
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",4,"  Mining",201,193,227,203,196,287
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",5,"  Utilities",31,33,28,33,38,39
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",6,"  Construction",89458,111840,132879,121098,121384,129505
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",7,"  Manufacturing",1745881,1909544,1884144,1848815,1940294,1966479
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",8,"   Durable goods",1381260,1531840,1497830,1441308,1482292,1477406
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",9,"   Nondurable goods",364621,377703,386314,407507,458002,489073
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",10,"  Wholesale trade",797869,801948,842695,868496,855121,848693
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",11,"  Retail trade",1437933,1464843,1445485,1495722,1513563,1636411
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",218328,211646,213539,210201,208406,211024
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",13,"  Information",15854,16327,16440,18012,18740,20106
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",579495,560499,485449,547281,573331,584357
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",15,"   Finance and insurance",72652,66071,81682,92979,96375,94797
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",506843,494427,403767,454302,476956,489560
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",17,"  Professional and business services",78757,76528,80341,86539,91502,104877
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",45036,45057,48101,48767,51065,53285
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",19,"   Educational services",36955,37444,40155,40435,42484,44547
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",8081,7613,7945,8332,8581,8738
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1419177,1391103,1478762,1536817,1581017,1622911
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",734306,742715,794218,805365,846939,880771
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",684871,648389,684544,731452,734078,742139
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",24,"  Other services, except government",65935,66609,69109,71537,74094,77518
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",25," Government",316791,323854,336326,349871,365974,383165
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",26,"  Federal",10851,11127,11784,11898,13141,13511
+ "55000","Wisconsin",3,SAOVA,"Thousands of dollars",27,"  State and local",305940,312728,324542,337973,352833,369654
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",2078408,2159564,2163900,2280052,2269033,2314310
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",784014,796707,810199,834567,844842,879353
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",557157,565183,576166,597706,607019,634520
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",4,"   Bicycling",7204,7334,7172,6850,7073,7178
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",52613,52625,55741,57541,57483,58572
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",742,744,788,817,849,869
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",9916,9881,9853,9819,9781,10227
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",8,"    Sailing",2180,2312,2515,2574,2588,2570
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",9,"    Other Boating",39775,39688,42585,44332,44266,44906
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",13495,14427,14603,14967,15114,15116
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",11,"   Equestrian",61231,62189,67516,71025,75169,81446
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",15755,17596,16834,17729,18359,19896
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",5271,5854,5544,6110,6390,7070
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",10484,11742,11290,11619,11969,12825
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",33355,32314,35652,37508,35231,35255
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",5705,5885,6194,6035,5765,5959
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",17,"   RVing",81600,80446,81902,87603,86485,89462
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",59813,57752,62570,68002,74821,85949
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",37565,37287,40124,43745,49628,58260
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",22248,20465,22446,24256,25194,27689
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",41722,42162,42403,42206,40291,41946
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",38071,38603,38576,38202,36360,38151
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",3651,3560,3827,4005,3931,3795
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",184665,192453,185580,188240,191227,193743
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",226856,231524,234033,236861,237823,244833
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",17906,18376,19150,20540,21592,23108
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",12077,12767,13742,12829,13803,13573
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",28,"   Field Sports",12217,12144,12551,12710,12810,13076
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",64715,66761,65960,65509,65835,67115
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",37966,37812,38866,37480,35105,37693
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",22752,22969,23822,24057,23677,25090
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",15215,14843,15044,13423,11428,12603
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",25643,26543,27030,28148,28496,29998
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",39828,39723,41437,42872,43045,43612
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",16503,17398,15298,16772,17136,16657
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",1294394,1362856,1353701,1445486,1424191,1434957
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",37,"   Construction",45106,40336,45972,44025,44276,46580
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",223838,234476,232259,235454,223044,237257
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",843106,895110,871398,953115,938899,922740
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",182343,165491,162248,181946,184780,191350
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",41,"    Lodging",379439,439960,421105,476473,469947,439529
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",125589,135877,132592,138177,136631,136274
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",43,"    Transportation",155736,153783,155453,156518,147541,155588
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",182344,192934,204072,212892,217972,228380
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",45,"    Federal Government",32075,32758,33282,32691,34907,35688
+ "35000","New Mexico",6,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",150269,160176,170790,180201,183065,192692
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

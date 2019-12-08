@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",3775070,3813634,3846136,3989689,4060168,4133003
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",2044349,2097309,2092620,2160434,2180824,2218218
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",1369332,1410775,1405354,1466596,1490177,1513165
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",4,"   Bicycling",11554,11974,11792,11844,12920,12298
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",235747,238912,241382,256943,269509,287174
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",5975,6082,6193,6652,7237,7660
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",54412,54804,55469,59908,59035,56187
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",8,"    Sailing",18332,18316,19410,20379,22156,23230
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",9,"    Other Boating",157028,159710,160310,170004,181081,200097
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",51595,51245,52272,52575,51977,49030
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",11,"   Equestrian",85807,90616,98884,102077,106384,114682
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",86917,98737,93622,103914,103023,107110
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",38626,43681,41723,48729,46826,48982
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",48291,55056,51899,55185,56196,58128
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",73770,72294,73104,75494,75721,80161
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",12984,14052,14883,15428,15416,15559
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",17,"   RVing",154817,164774,162614,166163,175724,192640
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",18290,18189,19172,19959,17698,17382
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",9277,9144,10286,11146,9381,8897
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",9013,9045,8885,8813,8317,8485
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",125299,126592,129173,135804,134796,131390
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",85410,87016,87559,90560,89186,87409
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",39888,39576,41615,45243,45610,43981
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",512553,523389,508456,526396,527010,505739
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",675017,686535,687266,693838,690647,705054
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",35337,36664,38285,41500,44527,48474
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",36138,40249,41855,38123,38686,37770
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",28,"   Field Sports",36261,35671,36692,38780,38733,37469
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",239778,236382,229168,228443,230425,228052
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",120015,122346,124715,119474,114533,124978
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",76405,79722,84609,87742,90695,95547
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",43610,42624,40106,31733,23839,29431
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",91523,96428,98351,101927,101695,106183
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",79183,79936,81473,88424,85611,85272
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",36782,38859,36727,37168,36437,36856
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",1730721,1716325,1753516,1829254,1879344,1914784
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",37,"   Construction",29929,38454,43118,50164,57357,61941
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",366167,363123,372807,377384,372165,380529
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",1131764,1100750,1114067,1178272,1233677,1244607
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",228520,189144,200960,212952,228727,240902
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",41,"    Lodging",427250,423025,415791,465839,516099,512728
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",229060,231544,240362,242148,244818,241572
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",43,"    Transportation",246933,257037,256954,257333,244033,249405
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",202861,213999,223524,223435,216145,227708
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",45,"    Federal Government",9591,10240,9884,9772,10480,10890
+ "01000","Alabama",5,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",193271,203758,213641,213663,205664,216818
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

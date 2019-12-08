@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",1,"All Industries",1141916,1205870,1223803,1293099,1283815,1341806
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",2," Private Industries",1012981,1068115,1084169,1151438,1140434,1193064
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",74082,83267,84046,80539,71618,67460
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",4,"  Mining",17,16,16,11,9,13
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",5,"  Utilities",2,2,2,2,2,2
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",6,"  Construction",27896,37506,35389,24633,24791,26052
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",7,"  Manufacturing",65181,67924,69059,71991,77713,86596
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",8,"   Durable goods",37963,40852,39578,39915,39889,43025
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",9,"   Nondurable goods",27217,27072,29481,32076,37825,43571
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",10,"  Wholesale trade",111410,112834,121989,132302,134694,137235
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",11,"  Retail trade",314742,331065,326738,345363,341617,360369
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",28568,29008,30036,32188,33515,34617
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",13,"  Information",2179,2325,2316,2412,2507,2594
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",48431,47114,42444,45523,51418,50733
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",15,"   Finance and insurance",16389,14877,16970,17930,17285,16138
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",32042,32237,25474,27593,34133,34596
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",17,"  Professional and business services",20660,20284,21711,23681,24636,26283
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",8383,8357,8935,9280,9637,10178
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",19,"   Educational services",6788,6817,7341,7566,7898,8342
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",1595,1540,1594,1714,1739,1837
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",300124,316930,329587,371236,355696,377791
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",74730,74263,78367,80651,87002,93594
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",225394,242666,251219,290584,268694,284198
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",24,"  Other services, except government",11306,11485,11901,12277,12578,13141
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",25," Government",128935,137755,139633,141661,143381,148741
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",26,"  Federal",42476,46285,43531,43000,44994,45605
+ "46000","South Dakota",4,SAOVA,"Thousands of dollars",27,"  State and local",86459,91470,96103,98661,98388,103136
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

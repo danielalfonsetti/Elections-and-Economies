@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",6145402,6132477,6360139,6775350,6957736,7058582
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",2798997,2845745,2901325,3008076,3021368,3128145
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",1763933,1787135,1807692,1896415,1887260,1929167
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",4,"   Bicycling",19268,20048,20304,20551,22228,20910
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",376638,379907,391728,412347,425365,444438
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",10278,10594,11135,11965,12662,13159
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",31708,31905,31805,33219,33278,31317
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",8,"    Sailing",38063,37951,40269,42056,44866,46454
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",9,"    Other Boating",296589,299457,308519,325106,334559,353509
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",37356,39282,40456,42464,42793,42717
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",11,"   Equestrian",75147,78326,87164,89683,93989,101299
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",113975,124701,113973,118922,107133,110309
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",69694,74194,67265,70148,57641,58734
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",44281,50507,46708,48774,49492,51575
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",75594,71036,75739,79985,80606,79977
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",10674,11277,11708,11983,12609,13547
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",17,"   RVing",143500,149955,154873,158727,159080,160930
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",35844,34282,37288,39223,39098,38592
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",23041,22453,24326,25512,25476,25397
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",12803,11829,12963,13712,13622,13195
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",146517,149912,154964,166843,169926,171916
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",102913,105266,107753,114891,118630,121353
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",43604,44646,47211,51952,51296,50563
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",729421,728409,719495,755687,734433,744530
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",1035064,1058610,1093633,1111661,1134108,1198978
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",73837,75259,78123,83781,89498,98341
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",208934,222704,244133,238371,257734,271629
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",28,"   Field Sports",44405,44242,46671,49154,50575,50170
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",233949,236195,239004,250483,264887,273773
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",198295,198144,199323,187960,169815,195005
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",94956,93953,99088,98525,94379,100584
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",103340,104191,100235,89434,75437,94421
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",104425,109322,110991,114611,115723,123150
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",127708,126226,130985,141638,141388,141713
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",43511,46516,44404,45663,44488,45197
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",3346404,3286732,3458813,3767274,3936369,3930437
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",37,"   Construction",91236,99826,113326,116288,133178,144738
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",464252,458928,487505,511793,519886,519603
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",2269997,2131602,2208366,2408634,2516148,2461249
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",639098,502305,522251,556821,559330,541172
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",41,"    Lodging",663791,644135,653164,726958,764519,675922
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",369939,364399,367599,378540,379877,375325
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",43,"    Transportation",597169,620762,665352,746315,812422,868830
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",520919,596375,649618,730559,767157,804847
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",45,"    Federal Government",58625,66554,63794,63833,65741,63781
+ "24000","Maryland",2,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",462294,529821,585824,666727,701415,741066
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

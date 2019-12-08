@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "51000","Virginia",5,SAOEMP,"Number of jobs",1,"All Industries",124239,120945,125126,127215,126909,128407
+ "51000","Virginia",5,SAOEMP,"Number of jobs",2," Private Industries",114476,111150,115252,117253,116734,118037
+ "51000","Virginia",5,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",1030,1013,1090,1153,1158,1228
+ "51000","Virginia",5,SAOEMP,"Number of jobs",4,"  Mining",29,22,16,11,8,16
+ "51000","Virginia",5,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "51000","Virginia",5,SAOEMP,"Number of jobs",6,"  Construction",2066,2140,2345,2378,2425,2437
+ "51000","Virginia",5,SAOEMP,"Number of jobs",7,"  Manufacturing",2462,2412,2403,2416,2434,2437
+ "51000","Virginia",5,SAOEMP,"Number of jobs",8,"   Durable goods",833,811,800,796,758,776
+ "51000","Virginia",5,SAOEMP,"Number of jobs",9,"   Nondurable goods",1629,1601,1604,1620,1676,1661
+ "51000","Virginia",5,SAOEMP,"Number of jobs",10,"  Wholesale trade",2185,2131,2105,2118,2059,2047
+ "51000","Virginia",5,SAOEMP,"Number of jobs",11,"  Retail trade",42117,41893,41848,42551,41977,42158
+ "51000","Virginia",5,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",5124,5136,5314,5532,5397,5605
+ "51000","Virginia",5,SAOEMP,"Number of jobs",13,"  Information",184,186,186,186,185,181
+ "51000","Virginia",5,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",1088,1076,1004,1042,1047,1042
+ "51000","Virginia",5,SAOEMP,"Number of jobs",15,"   Finance and insurance",389,367,351,346,338,343
+ "51000","Virginia",5,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",699,710,653,696,709,699
+ "51000","Virginia",5,SAOEMP,"Number of jobs",17,"  Professional and business services",1435,1432,1456,1517,1628,1667
+ "51000","Virginia",5,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",2500,2664,2808,2913,3046,3142
+ "51000","Virginia",5,SAOEMP,"Number of jobs",19,"   Educational services",2381,2549,2688,2791,2922,3017
+ "51000","Virginia",5,SAOEMP,"Number of jobs",20,"   Health care and social assistance",118,114,120,123,124,125
+ "51000","Virginia",5,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",52509,49330,52906,53682,53650,54370
+ "51000","Virginia",5,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",20132,20637,21568,21729,22881,24119
+ "51000","Virginia",5,SAOEMP,"Number of jobs",23,"   Accommodation and food services",32377,28693,31338,31953,30768,30251
+ "51000","Virginia",5,SAOEMP,"Number of jobs",24,"  Other services, except government",1748,1716,1772,1755,1720,1707
+ "51000","Virginia",5,SAOEMP,"Number of jobs",25," Government",9762,9795,9874,9962,10175,10370
+ "51000","Virginia",5,SAOEMP,"Number of jobs",26,"  Federal",969,1066,947,898,903,878
+ "51000","Virginia",5,SAOEMP,"Number of jobs",27,"  State and local",8794,8729,8927,9064,9271,9492
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

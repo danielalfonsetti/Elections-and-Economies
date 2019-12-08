@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",1,"All Industries",8035053,8189749,8481972,9059357,9073265,9285508
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",2," Private Industries",7402373,7484156,7749819,8292461,8295113,8470711
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",186487,219384,220060,237824,204347,213270
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",4,"  Mining",9068,6616,4721,3173,2764,5752
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",5,"  Utilities",14,15,13,14,16,16
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",6,"  Construction",125203,123040,139570,145380,163098,175341
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",7,"  Manufacturing",550561,557946,577349,642631,630007,594651
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",8,"   Durable goods",93033,93731,96463,100092,95746,102618
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",9,"   Nondurable goods",457528,464216,480886,542538,534261,492032
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",10,"  Wholesale trade",468616,461413,434971,471447,481722,490424
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",11,"  Retail trade",2169498,2218678,2194003,2266573,2263432,2341920
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",878084,981141,1081795,1204754,1200276,1266667
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",13,"  Information",35298,38344,38781,42831,45752,49154
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",425466,413724,364621,431353,447373,428290
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",15,"   Finance and insurance",74596,66666,82709,91439,91802,85602
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",350870,347058,281913,339914,355572,342688
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",17,"  Professional and business services",125132,119082,123629,131345,137142,156685
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",79360,77590,83218,84133,86124,88469
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",19,"   Educational services",65914,65242,70132,70444,72126,74139
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",13446,12347,13086,13689,13998,14330
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",2217807,2134448,2349325,2489837,2488815,2509682
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",791507,794559,837947,849846,902631,961205
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",1426300,1339889,1511378,1639991,1586184,1548477
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",24,"  Other services, except government",131778,132736,137764,141166,144243,150392
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",25," Government",632680,705593,732153,766896,778152,814797
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",26,"  Federal",141068,165735,155992,151583,155647,157748
+ "51000","Virginia",5,SAOVA,"Thousands of dollars",27,"  State and local",491611,539858,576160,615313,622505,657049
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

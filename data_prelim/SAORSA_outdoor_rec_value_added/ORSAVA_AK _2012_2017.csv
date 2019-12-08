@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",1,"All Industries",1844539,1910543,1942033,2135002,2176127,2187367
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",2," Private Industries",1621130,1672018,1688761,1866011,1903248,1902875
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",7426,9043,9141,9678,9549,10117
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",4,"  Mining",3492,3406,3347,2244,1896,2278
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",5,"  Utilities",27,29,25,30,35,37
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",6,"  Construction",28696,26392,24984,23716,24597,24782
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",7,"  Manufacturing",93966,101217,108534,116152,99440,133404
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",8,"   Durable goods",3499,3705,3706,3617,3662,3723
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",9,"   Nondurable goods",90467,97512,104828,112534,95778,129681
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",10,"  Wholesale trade",26810,26553,26278,25327,22782,23435
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",11,"  Retail trade",330926,334119,348784,375070,377775,387089
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",470598,498867,492508,561512,612199,582573
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",13,"  Information",2487,2744,2757,2968,3161,3354
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",137961,142634,118533,127355,133284,135789
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",15,"   Finance and insurance",7368,6473,7987,8789,8829,8260
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",130592,136161,110547,118565,124454,127529
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",17,"  Professional and business services",14455,14171,14774,16023,16598,18877
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",7034,6763,7126,7450,7623,7835
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",19,"   Educational services",5090,4912,5218,5386,5491,5613
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",1943,1851,1908,2064,2132,2223
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",478909,487357,512561,578652,574500,553672
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",133123,131374,137134,135889,137622,138851
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",345786,355982,375427,442763,436878,414822
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",24,"  Other services, except government",18344,18724,19410,19835,19809,19632
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",25," Government",223409,238525,253272,268991,272880,284492
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",26,"  Federal",40237,43996,44204,43986,46371,46582
+ "02000","Alaska",8,SAOVA,"Thousands of dollars",27,"  State and local",183172,194529,209067,225005,226509,237909
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

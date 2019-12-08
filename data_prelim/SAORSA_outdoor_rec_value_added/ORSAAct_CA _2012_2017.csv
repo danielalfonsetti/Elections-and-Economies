@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "06000","California",8,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",42124667,43115793,44553908,47108968,48359912,52120252
+ "06000","California",8,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",21591035,21997071,22800890,23884350,24485048,26006396
+ "06000","California",8,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",12510380,12783861,13222348,13873310,14080082,14903257
+ "06000","California",8,SAOACTVA,"Thousands of dollars",4,"   Bicycling",318428,324334,340295,337115,386817,392963
+ "06000","California",8,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",1548001,1545982,1598226,1661281,1701839,1805319
+ "06000","California",8,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",35885,36388,37661,39778,42267,44341
+ "06000","California",8,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",245362,240153,245193,254840,253654,269625
+ "06000","California",8,SAOACTVA,"Thousands of dollars",8,"    Sailing",80948,81159,85806,88920,93581,95657
+ "06000","California",8,SAOACTVA,"Thousands of dollars",9,"    Other Boating",1185806,1188281,1229567,1277743,1312336,1395697
+ "06000","California",8,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",356609,365876,380028,396862,405143,413198
+ "06000","California",8,SAOACTVA,"Thousands of dollars",11,"   Equestrian",409562,430612,487309,509934,542015,602016
+ "06000","California",8,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",445091,491635,468015,498323,490907,551102
+ "06000","California",8,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",193393,213773,200393,218126,200142,222655
+ "06000","California",8,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",251699,277862,267622,280197,290766,328448
+ "06000","California",8,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",758633,802623,852212,890518,908096,911623
+ "06000","California",8,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",157576,158285,162764,174020,187388,224448
+ "06000","California",8,SAOACTVA,"Thousands of dollars",17,"   RVing",1120359,1164770,1228914,1314338,1370187,1492339
+ "06000","California",8,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",567100,550625,595983,617890,610265,652463
+ "06000","California",8,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",318495,317702,344756,362614,371831,397728
+ "06000","California",8,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",248605,232923,251227,255277,238434,254735
+ "06000","California",8,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",1080172,1081200,1119778,1174828,1177117,1259314
+ "06000","California",8,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",894450,903815,935316,980282,982540,1065781
+ "06000","California",8,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",185722,177384,184462,194546,194577,193534
+ "06000","California",8,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",5748849,5867920,5988823,6298201,6300308,6598471
+ "06000","California",8,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",9080655,9213210,9578543,10011040,10404966,11103139
+ "06000","California",8,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",1717490,1712806,1791345,1962087,2161873,2463511
+ "06000","California",8,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",1445991,1552063,1719762,1723744,1893280,2017050
+ "06000","California",8,SAOACTVA,"Thousands of dollars",28,"   Field Sports",355499,347498,369640,387377,396098,406844
+ "06000","California",8,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",2167179,2124840,2112633,2131039,2205969,2261707
+ "06000","California",8,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",1187299,1193061,1242443,1236304,1223221,1328894
+ "06000","California",8,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",704799,708538,741272,754741,762165,814660
+ "06000","California",8,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",482500,484523,501172,481562,461055,514234
+ "06000","California",8,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",654810,705497,739841,802159,827342,876305
+ "06000","California",8,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",1061423,1040443,1097023,1226642,1178945,1201929
+ "06000","California",8,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",490963,537003,505856,541688,518240,546899
+ "06000","California",8,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",20533632,21118722,21753018,23224619,23874864,26113856
+ "06000","California",8,SAOACTVA,"Thousands of dollars",37,"   Construction",702950,740543,727387,975616,1091836,1175734
+ "06000","California",8,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",3946652,3954110,4163940,4254509,4043672,4348043
+ "06000","California",8,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",13170023,13724046,14154651,15287680,15928242,17659339
+ "06000","California",8,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",1928110,1648150,1737017,1879542,1993262,2163052
+ "06000","California",8,SAOACTVA,"Thousands of dollars",41,"    Lodging",3420258,3612081,3442982,3758764,4014533,4515777
+ "06000","California",8,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",2270396,2398064,2478052,2561263,2626660,2703665
+ "06000","California",8,SAOACTVA,"Thousands of dollars",43,"    Transportation",5551259,6065751,6496599,7088110,7293787,8276846
+ "06000","California",8,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",2714007,2700024,2707040,2706814,2811115,2930739
+ "06000","California",8,SAOACTVA,"Thousands of dollars",45,"    Federal Government",411456,451573,432688,430680,450276,454614
+ "06000","California",8,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",2302551,2248450,2274352,2276134,2360838,2476125
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

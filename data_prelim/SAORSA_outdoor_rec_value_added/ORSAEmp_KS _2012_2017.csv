@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "20000","Kansas",4,SAOEMP,"Number of jobs",1,"All Industries",38504,37647,37791,38589,39905,39776
+ "20000","Kansas",4,SAOEMP,"Number of jobs",2," Private Industries",35220,34346,34478,35269,36590,36383
+ "20000","Kansas",4,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",317,306,322,342,336,355
+ "20000","Kansas",4,SAOEMP,"Number of jobs",4,"  Mining",4,4,4,3,4,3
+ "20000","Kansas",4,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "20000","Kansas",4,SAOEMP,"Number of jobs",6,"  Construction",604,676,741,741,764,763
+ "20000","Kansas",4,SAOEMP,"Number of jobs",7,"  Manufacturing",2988,3008,2974,2982,3100,3131
+ "20000","Kansas",4,SAOEMP,"Number of jobs",8,"   Durable goods",1755,1783,1751,1762,1849,1908
+ "20000","Kansas",4,SAOEMP,"Number of jobs",9,"   Nondurable goods",1234,1225,1222,1219,1251,1223
+ "20000","Kansas",4,SAOEMP,"Number of jobs",10,"  Wholesale trade",1412,1407,1429,1437,1391,1389
+ "20000","Kansas",4,SAOEMP,"Number of jobs",11,"  Retail trade",14797,14220,13896,14129,14262,14636
+ "20000","Kansas",4,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",601,589,580,571,559,548
+ "20000","Kansas",4,SAOEMP,"Number of jobs",13,"  Information",83,85,86,84,81,74
+ "20000","Kansas",4,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",265,255,246,249,248,256
+ "20000","Kansas",4,SAOEMP,"Number of jobs",15,"   Finance and insurance",149,138,131,126,124,127
+ "20000","Kansas",4,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",116,116,115,123,124,130
+ "20000","Kansas",4,SAOEMP,"Number of jobs",17,"  Professional and business services",537,544,559,584,618,627
+ "20000","Kansas",4,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",851,914,962,994,1038,1066
+ "20000","Kansas",4,SAOEMP,"Number of jobs",19,"   Educational services",811,873,920,951,993,1023
+ "20000","Kansas",4,SAOEMP,"Number of jobs",20,"   Health care and social assistance",41,41,42,43,44,43
+ "20000","Kansas",4,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",12314,11899,12231,12710,13755,13119
+ "20000","Kansas",4,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",5499,5698,6007,6153,6521,6805
+ "20000","Kansas",4,SAOEMP,"Number of jobs",23,"   Accommodation and food services",6815,6201,6225,6557,7234,6314
+ "20000","Kansas",4,SAOEMP,"Number of jobs",24,"  Other services, except government",445,440,448,442,434,415
+ "20000","Kansas",4,SAOEMP,"Number of jobs",25," Government",3283,3301,3313,3320,3314,3392
+ "20000","Kansas",4,SAOEMP,"Number of jobs",26,"  Federal",24,23,23,22,23,23
+ "20000","Kansas",4,SAOEMP,"Number of jobs",27,"  State and local",3260,3277,3290,3298,3291,3369
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

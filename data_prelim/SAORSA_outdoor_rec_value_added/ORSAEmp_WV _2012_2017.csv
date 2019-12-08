@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",1,"All Industries",23670,23581,23054,24135,23104,22202
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",2," Private Industries",21870,21757,21221,22320,21310,20391
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",104,104,111,121,119,130
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",4,"  Mining",135,101,74,51,42,82
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",6,"  Construction",235,272,347,385,380,376
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",7,"  Manufacturing",292,279,278,277,275,274
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",8,"   Durable goods",76,70,71,72,69,68
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",9,"   Nondurable goods",216,209,207,204,206,206
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",10,"  Wholesale trade",477,450,445,416,377,374
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",11,"  Retail trade",9546,9749,9341,9615,9301,9213
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",414,418,411,401,396,393
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",13,"  Information",32,32,32,33,33,32
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",203,200,181,185,187,185
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",15,"   Finance and insurance",62,58,55,54,52,51
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",142,142,126,131,135,134
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",17,"  Professional and business services",318,320,324,333,345,344
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",310,329,344,357,369,375
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",19,"   Educational services",282,301,316,327,339,345
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",20,"   Health care and social assistance",28,28,28,30,30,29
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",9565,9270,9100,9912,9262,8398
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",3443,3479,3617,3543,3544,3454
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",23,"   Accommodation and food services",6122,5791,5483,6370,5718,4944
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",24,"  Other services, except government",238,232,232,234,225,216
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",25," Government",1800,1824,1832,1815,1794,1812
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",26,"  Federal",165,173,158,150,152,147
+ "54000","West Virginia",5,SAOEMP,"Number of jobs",27,"  State and local",1635,1652,1674,1665,1642,1665
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

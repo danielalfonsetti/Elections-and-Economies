@@ -1,0 +1,1381 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",1,"All Industries",1828163,1834179,1889505,1965490,2028312,2083927
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",2," Private Industries",1625197,1621114,1667517,1735178,1791945,1836504
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",24379,22298,22935,22127,21963,23236
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",4,"  Mining",3214,2630,1967,1442,1174,2483
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",8,9,7,7,8,7
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",6,"  Construction",20817,24321,26598,28394,32950,36669
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",174816,173220,172398,169804,170035,167396
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",91901,90566,87901,88564,91555,95733
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",82915,82654,84497,81240,78480,71663
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",147796,147563,152172,159238,153622,155725
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",577382,593142,598448,631432,640799,656008
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",72734,75406,75044,76538,76450,77041
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",13,"  Information",3499,3697,3851,3837,3883,3905
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",33836,31983,30193,32541,33102,35002
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",18514,17270,16802,16702,16430,17294
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",15322,14714,13390,15839,16672,17707
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",20259,18180,19535,21982,23274,26681
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",18912,19217,20873,21783,23028,24154
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",15614,15923,17421,18162,19218,20205
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",3297,3295,3451,3621,3809,3949
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",497065,478219,510803,531692,575525,589702
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",171741,179192,189100,190709,199665,206113
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",325323,299027,321703,340982,375860,383589
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",30480,31228,32692,34362,36133,38495
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",25," Government",202966,213065,221988,230312,236366,247424
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",26,"  Federal",9514,10089,9707,9427,9850,10264
+ "01000","Alabama",5,SAOCOMP,"Thousands of dollars",27,"  State and local",193452,202975,212281,220884,226517,237160
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",1,"All Industries",890354,905901,923435,995881,1028763,1030701
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",2," Private Industries",748938,750089,761608,829162,861650,855609
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",4376,4227,4406,4812,5590,5469
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",4,"  Mining",927,945,899,768,838,819
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",5,"  Utilities",17,21,18,22,26,26
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",6,"  Construction",18500,16697,15417,13738,14472,15145
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",12810,12688,12719,13362,13787,13367
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",8,"   Durable goods",2200,2140,2293,2295,2354,2143
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",10610,10548,10426,11068,11433,11224
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",7311,7330,7539,7574,6816,7149
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",11,"  Retail trade",174952,170150,177076,191170,192372,202798
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",226082,235169,227493,256096,284282,272467
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",13,"  Information",982,1048,1112,1121,1186,1238
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",9139,9314,8259,9137,9490,10053
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",1921,1815,1749,1759,1734,1825
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",7218,7498,6510,7378,7756,8229
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",7392,6938,7414,8396,8639,10101
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",5722,5777,6233,6512,6702,6829
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",19,"   Educational services",4753,4805,5228,5418,5565,5635
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",969,972,1005,1094,1137,1194
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",274443,273174,286133,309178,309923,302443
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",94603,96793,101506,99877,101076,100387
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",179840,176380,184626,209301,208848,202056
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",6287,6611,6890,7276,7527,7708
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",25," Government",141416,155813,161827,166719,167114,175091
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",26,"  Federal",26786,28494,28593,28629,30292,30436
+ "02000","Alaska",8,SAOCOMP,"Thousands of dollars",27,"  State and local",114630,127318,133233,138090,136822,144656
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",1,"All Industries",3507693,3510260,3667678,3851679,4049782,4327385
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",2," Private Industries",3150803,3141693,3294857,3468460,3652177,3911667
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",26385,25088,27258,27783,28205,28826
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",4,"  Mining",402,348,294,244,217,407
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",5,"  Utilities",5,6,5,6,7,7
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",6,"  Construction",59474,60570,50562,42665,48976,55847
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",130736,131577,131753,141942,151057,171258
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",8,"   Durable goods",102730,101994,99976,108552,116213,137813
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",28006,29582,31777,33389,34845,33444
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",149889,145024,147059,151252,145484,148701
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",11,"  Retail trade",863304,896437,925604,964714,986834,1033321
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",427810,419183,422140,448308,477865,488238
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",13,"  Information",5921,6332,6759,7105,7434,8006
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",72065,72283,68278,78397,82288,87207
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",24831,23984,24014,25416,26213,28539
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",47234,48298,44264,52981,56075,58668
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",116723,107060,113962,129447,136795,163315
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",37192,37358,40411,41730,43219,44406
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",19,"   Educational services",31519,31772,34466,35432,36605,37449
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",5673,5587,5945,6298,6614,6956
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1221091,1199004,1317045,1388259,1494487,1629962
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",560524,583879,635085,654437,710051,748683
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",660567,615126,681960,733822,784436,881278
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",39806,41423,43725,46609,49309,52169
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",25," Government",356891,368566,372820,383218,397605,415717
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",26,"  Federal",77020,82333,78486,79383,84816,87878
+ "04000","Arizona",6,SAOCOMP,"Thousands of dollars",27,"  State and local",279871,286234,294335,303835,312789,327840
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",1,"All Industries",1189778,1210939,1254618,1304502,1377956,1390053
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",2," Private Industries",1057253,1071513,1113179,1158610,1228335,1234191
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",10889,10679,11072,11974,12372,13195
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",4,"  Mining",273,263,241,189,186,178
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,2,2
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",6,"  Construction",17624,18356,21890,24863,27834,30576
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",186243,187043,193627,197706,225222,228658
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",100492,100637,108882,115600,117783,128317
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",85751,86406,84745,82106,107439,100341
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",85630,84137,87337,91678,88241,89649
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",336584,349773,356036,369236,379597,380557
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",58650,58980,59096,60093,59821,60649
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",13,"  Information",3395,3583,3720,3681,3561,3717
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",14135,13917,12966,14046,14829,15676
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",7451,7169,7063,7273,7308,7937
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",6684,6748,5904,6773,7521,7739
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",13635,12066,13056,14845,16016,17968
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",15384,15764,17176,17861,18668,19184
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",13229,13580,14890,15450,16112,16569
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2155,2185,2286,2411,2556,2615
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",296783,298099,317304,331852,360421,351977
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",117646,123681,131847,136334,147237,155889
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",179138,174418,185457,195518,213184,196088
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",18027,18851,19655,20585,21566,22206
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",25," Government",132525,139426,141439,145892,149621,155862
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",26,"  Federal",21661,22884,21489,21491,23267,24025
+ "05000","Arkansas",5,SAOCOMP,"Thousands of dollars",27,"  State and local",110863,116542,119950,124401,126354,131837
+ "06000","California",8,SAOCOMP,"Thousands of dollars",1,"All Industries",21943822,22323543,23184967,24497830,25659824,27383466
+ "06000","California",8,SAOCOMP,"Thousands of dollars",2," Private Industries",19192763,19519510,20345753,21567550,22605231,24223717
+ "06000","California",8,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",310949,292961,325251,333178,356360,379602
+ "06000","California",8,SAOCOMP,"Thousands of dollars",4,"  Mining",1538,1490,1471,1397,1323,1298
+ "06000","California",8,SAOCOMP,"Thousands of dollars",5,"  Utilities",29,33,28,32,35,31
+ "06000","California",8,SAOCOMP,"Thousands of dollars",6,"  Construction",446159,446129,431330,533513,605640,675478
+ "06000","California",8,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",1980256,1988893,2039492,2097623,2020154,2139669
+ "06000","California",8,SAOCOMP,"Thousands of dollars",8,"   Durable goods",678544,663475,682061,747833,745856,809268
+ "06000","California",8,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",1301712,1325418,1357431,1349791,1274299,1330401
+ "06000","California",8,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",1625164,1580161,1684426,1809290,1783684,1808224
+ "06000","California",8,SAOCOMP,"Thousands of dollars",11,"  Retail trade",4985020,5132253,5251818,5525742,5664238,5804727
+ "06000","California",8,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",1779511,1969904,2049751,2247460,2482401,2825285
+ "06000","California",8,SAOCOMP,"Thousands of dollars",13,"  Information",48289,53142,57173,64384,67609,76148
+ "06000","California",8,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",355804,344713,336678,374267,391085,429890
+ "06000","California",8,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",190253,181005,177773,180501,180328,193866
+ "06000","California",8,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",165551,163707,158905,193767,210757,236024
+ "06000","California",8,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",373443,347682,370623,421218,442531,532744
+ "06000","California",8,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",336330,346270,377991,397207,421259,444804
+ "06000","California",8,SAOCOMP,"Thousands of dollars",19,"   Educational services",309278,319122,349588,367101,389502,411637
+ "06000","California",8,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",27051,27148,28403,30107,31757,33167
+ "06000","California",8,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",6661941,6714758,7100301,7417438,8003577,8708819
+ "06000","California",8,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",3954416,4109738,4388780,4553592,4915131,5275931
+ "06000","California",8,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",2707525,2605020,2711521,2863847,3088446,3432888
+ "06000","California",8,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",288331,301120,319420,344799,365334,396998
+ "06000","California",8,SAOCOMP,"Thousands of dollars",25," Government",2751059,2804032,2839213,2930280,3054593,3159749
+ "06000","California",8,SAOCOMP,"Thousands of dollars",26,"  Federal",286991,310349,297711,297155,311927,315498
+ "06000","California",8,SAOCOMP,"Thousands of dollars",27,"  State and local",2464068,2493683,2541502,2633125,2742666,2844250
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",1,"All Industries",4633173,4690878,4953690,5216881,5489399,5963912
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",2," Private Industries",4081444,4127222,4372044,4610288,4849170,5294002
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",32774,32535,37178,40027,41924,45877
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",4,"  Mining",2796,2516,2211,1840,1776,2359
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",5,"  Utilities",3,4,3,3,4,4
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",6,"  Construction",89339,68877,66081,67994,79312,88977
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",151654,153058,157201,165717,163656,186924
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",8,"   Durable goods",92140,91036,91627,97577,91099,112614
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",59514,62021,65574,68140,72557,74310
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",205875,199499,215657,234434,231676,237733
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",11,"  Retail trade",994838,1038842,1073973,1113880,1123277,1200145
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",367283,408839,469576,523813,563251,644052
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",13,"  Information",12644,13200,14035,14754,15276,16047
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",191060,182332,176690,190153,195694,210520
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",144447,135849,131120,129947,128025,135949
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",46613,46482,45570,60206,67669,74571
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",77239,70152,74295,82612,85448,98423
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",96341,98294,107908,112704,119971,126889
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",19,"   Educational services",91040,93102,102469,106861,113676,119990
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",5301,5192,5440,5842,6295,6899
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1809637,1806981,1922054,2002882,2164418,2367734
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",972640,1004397,1079050,1115650,1210705,1269076
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",836996,802583,843005,887232,953713,1098658
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",49961,52092,55182,59476,63488,68318
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",25," Government",551729,563656,581646,606593,640229,669910
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",26,"  Federal",71439,73925,74069,74225,80397,83521
+ "08000","Colorado",7,SAOCOMP,"Thousands of dollars",27,"  State and local",480289,489732,507577,532368,559832,586389
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",1,"All Industries",1744169,1775353,1793982,1834523,1883021,1923607
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",2," Private Industries",1603748,1634762,1646741,1681432,1723734,1756921
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",22052,21011,23210,24437,26641,27567
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",4,"  Mining",6,6,6,5,5,6
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",5,"  Utilities",8,10,8,10,11,11
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",6,"  Construction",21744,21714,35220,37690,38670,42525
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",147092,156617,158326,166241,160013,163870
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",8,"   Durable goods",108350,117363,115034,122534,119388,128305
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",38742,39253,43292,43707,40625,35565
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",154843,150159,156551,165458,158925,156865
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",11,"  Retail trade",512206,524256,512277,518192,525709,523014
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",87701,88688,85859,86894,86222,84956
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",13,"  Information",5182,5493,5695,5775,5836,5948
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",65928,62983,61840,64574,64502,68330
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",53308,50757,50075,50281,49335,52193
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",12620,12226,11765,14293,15167,16138
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",41299,37496,39514,43074,43416,49214
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",41531,42741,45747,47157,48912,49709
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",19,"   Educational services",37788,38890,41825,43102,44659,45404
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",3743,3851,3922,4056,4253,4304
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",478073,496557,494368,492578,534610,553263
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",273752,288792,307726,316086,332104,339726
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",204322,207765,186641,176491,202505,213537
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",26083,27033,28120,29349,30262,31643
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",25," Government",140421,140591,147241,153091,159287,166686
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",26,"  Federal",2302,2339,2288,2160,2176,2285
+ "09000","Connecticut",1,SAOCOMP,"Thousands of dollars",27,"  State and local",138119,138252,144953,150931,157111,164400
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",1,"All Industries",517238,512565,533741,561823,602769,611026
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",2," Private Industries",477692,473333,494864,523078,563537,570365
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting","(D)","(D)","(D)","(D)","(D)","(D)"
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",4,"  Mining","(D)","(D)","(D)","(D)","(D)","(D)"
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",6,"  Construction",7278,7882,8685,9279,10601,11759
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",23826,23397,24144,24170,25604,25609
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",8,"   Durable goods",3751,3524,3650,3479,3157,2813
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",20075,19873,20494,20691,22447,22796
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",18182,17464,18317,18336,16876,16134
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",11,"  Retail trade",189745,195038,202104,213138,221242,222975
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",9121,8974,8926,9121,9202,9661
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",13,"  Information",930,968,1007,1000,1002,1020
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",10636,10675,9524,10050,10461,10668
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",4890,4724,4567,4531,4281,4352
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",5745,5951,4957,5520,6180,6315
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",18957,16978,17887,19723,20244,23399
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",5902,5958,6427,6706,6932,7054
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",19,"   Educational services",4567,4648,5050,5237,5382,5471
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1335,1311,1376,1470,1550,1583
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",184970,177989,189255,202567,231817,231965
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",50596,52329,55250,56387,60340,62596
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",134374,125660,134005,146180,171477,169369
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",5519,5606,5866,6227,6572,7007
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",25," Government",39546,39232,38877,38745,39232,40661
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",26,"  Federal",1258,1261,1243,1194,1219,1283
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",27,"  State and local",38288,37972,37634,37551,38013,39378
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",1,"All Industries",864294,827666,825278,912246,911408,977279
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",2," Private Industries",691372,634866,636721,707376,689961,751938
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",0,0,0,0,0,0
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",4,"  Mining",0,0,0,0,0,0
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",6,"  Construction",20048,19662,19522,28907,31906,"(D)"
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",1576,1651,1637,1624,1514,"(D)"
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",8,"   Durable goods",496,515,436,430,392,"(D)"
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",1080,1136,1201,1194,1122,"(D)"
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",12137,11553,11985,12352,11925,12082
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",11,"  Retail trade",107318,108240,106532,123135,120747,128943
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",14703,15304,15455,16316,18260,17588
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",13,"  Information",4747,4947,4993,4909,4720,4635
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",5756,5775,5658,6077,5923,6099
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",4092,3892,3847,3898,3771,3756
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",1663,1883,1812,2179,2152,2343
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",20955,19508,20749,23223,23628,26948
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",28150,28595,30354,31308,30803,30073
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",19,"   Educational services",25655,26388,28172,28908,28506,27579
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2495,2206,2182,2400,2296,2494
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",464277,408421,408055,446807,428189,475665
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",95670,99897,110565,115737,127847,137529
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",368607,308523,297490,331069,300342,338136
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",11705,11210,11780,12719,12345,14000
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",25," Government",172922,192800,188558,204869,221447,225341
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",26,"  Federal",93880,106027,103837,109207,120196,124005
+ "11000","District of Columbia",2,SAOCOMP,"Thousands of dollars",27,"  State and local",79042,86773,84720,95662,101251,101336
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",1,"All Industries",16526350,16615245,17316855,18544564,19272028,20690183
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",2," Private Industries",15501340,15575372,16261377,17478218,18190676,19566765
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",137878,136916,148420,162128,168141,180087
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",4,"  Mining",304,226,191,171,181,287
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",21,25,21,24,28,29
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",6,"  Construction",241815,197389,203690,203708,226008,255680
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",458367,463326,491544,515362,536256,529000
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",335686,337644,357966,377812,396123,391259
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",122681,125682,133578,137549,140133,137742
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",604583,592502,620436,663726,652908,670797
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",3346229,3522682,3612004,3822741,3877305,3982411
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",1506707,1633875,1799265,2186870,2277299,2531548
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",13,"  Information",21249,22267,23293,23762,24308,25352
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",257149,253085,233548,262637,276610,298301
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",86871,83108,82441,85346,87143,96218
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",170278,169977,151108,177290,189468,202083
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",389513,358206,377942,418925,434069,520211
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",142577,143357,155034,159652,164803,168889
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",121340,122728,133334,136862,141021,144128
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",21237,20628,21700,22790,23782,24761
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",8208161,8054465,8385607,8827430,9301337,10132044
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",4059975,4139241,4362192,4502842,4894898,5411340
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",4148186,3915224,4023415,4324588,4406439,4720704
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",186788,197051,210382,231081,251421,272128
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",25," Government",1025010,1039873,1055478,1066346,1081352,1123418
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",26,"  Federal",75606,83448,79860,79775,82159,81547
+ "12000","Florida",5,SAOCOMP,"Thousands of dollars",27,"  State and local",949404,956424,975619,986571,999193,1041871
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",1,"All Industries",4967677,5042833,5265036,5635321,5962343,6274833
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",2," Private Industries",4461519,4514299,4730220,5081841,5395700,5687701
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",67303,69978,67908,74869,64542,66433
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",4,"  Mining",86,81,89,83,85,111
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",6,7,6,7,8,8
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",6,"  Construction",74715,69021,71431,110786,130173,143998
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",423942,436985,456371,467794,484854,541765
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",264842,278681,290673,305454,318467,381333
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",159099,158304,165698,162340,166387,160432
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",316538,314045,327364,349907,366762,373351
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1207544,1233131,1248811,1315226,1300177,1392935
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",806248,831272,890012,999650,1155613,1193289
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",13,"  Information",17497,18176,19303,19496,20000,20907
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",77948,77136,76512,85464,88138,92768
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",40178,38611,38015,38264,37127,38733
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",37770,38526,38497,47200,51011,54035
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",113289,104281,109649,119453,117513,130621
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",63919,65348,70562,72948,76149,78260
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",57009,58407,63298,65290,68027,69739
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",6909,6941,7264,7658,8122,8521
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1218668,1218340,1311684,1380636,1502188,1557261
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",611143,644333,698327,733365,799297,849054
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",607524,574007,613356,647271,702891,708207
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",73818,76498,80518,85523,89498,95995
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",25," Government",506158,528534,534816,553481,566643,587132
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",26,"  Federal",56860,63529,60870,60278,61632,60852
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",27,"  State and local",449298,465006,473946,493202,505010,526280
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",1,"All Industries",1912016,2031942,2038393,2146431,2143012,2437813
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",2," Private Industries",1758333,1867456,1866292,1963908,1950719,2237381
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",17721,16408,17851,18336,20595,20912
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",4,"  Mining",10,9,10,9,9,14
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",5,"  Utilities",2,2,2,2,2,2
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",6,"  Construction",22355,22049,22830,30693,36278,39852
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",24571,25495,25622,26390,27686,27906
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",8,"   Durable goods",3258,2984,2772,2753,2840,2742
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",21313,22511,22850,23637,24846,25164
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",23568,22986,24059,25414,24862,25256
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",11,"  Retail trade",310771,325208,318302,330541,328991,351466
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",498431,595933,614660,641597,672833,758498
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",13,"  Information",1444,1547,1636,1650,1723,1793
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",22104,22402,20838,24459,25318,26970
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",6212,5881,5752,5685,5486,5777
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",15892,16521,15087,18774,19831,21192
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",53643,49857,52419,58244,58750,68447
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",13558,13550,14361,14743,14679,15165
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",19,"   Educational services",11079,11168,11959,12170,12085,12304
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2479,2381,2402,2572,2594,2861
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",758688,760405,741639,778952,725702,886599
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",187764,195212,207037,208886,215397,217816
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",570923,565193,534602,570067,510305,668783
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",11465,11605,12062,12880,13291,14503
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",25," Government",153683,164486,172101,182523,192293,200432
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",26,"  Federal",37701,42487,41218,41500,43606,44492
+ "15000","Hawaii",8,SAOCOMP,"Thousands of dollars",27,"  State and local",115982,121999,130883,141023,148687,155940
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",1,"All Industries",945104,960896,1003001,1044478,1096577,1182979
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",2," Private Industries",858657,869546,907013,942373,988906,1071911
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",20553,20814,22063,25361,24479,25551
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",4,"  Mining",116,89,81,75,76,119
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",6,"  Construction",9584,11554,12128,12367,14074,16078
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",76076,80639,85772,92337,94444,123291
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",8,"   Durable goods",52352,55887,60116,65827,66320,93409
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",23724,24752,25656,26509,28124,29881
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",37747,38049,40254,42922,43230,44768
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",11,"  Retail trade",317464,328566,334128,352148,359084,379802
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",65073,66507,63823,66423,84217,77924
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",13,"  Information",1184,1267,1318,1340,1385,1455
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",18256,17353,16686,17432,17546,19116
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",11605,10944,10560,10337,10096,11012
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",6650,6408,6126,7095,7451,8105
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",18478,16563,17324,18713,18781,20833
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",12664,12920,14064,14418,14952,15628
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",19,"   Educational services",11506,11783,12855,13159,13612,14165
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1159,1137,1210,1259,1341,1463
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",272652,266043,289645,288312,304932,334139
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",128659,133348,141990,145714,155161,161860
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",143992,132695,147655,142598,149771,172278
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",8809,9181,9724,10525,11704,13206
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",25," Government",86447,91349,95988,102105,107672,111069
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",26,"  Federal",20542,20160,21047,20778,22102,22426
+ "16000","Idaho",7,SAOCOMP,"Thousands of dollars",27,"  State and local",65905,71189,74941,81328,85569,88643
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",1,"All Industries",6810812,6819819,6941225,7221319,7501624,7737696
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",2," Private Industries",5764086,5758965,5866344,6119591,6380090,6571896
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",49585,46827,48010,48267,47674,50825
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",4,"  Mining",2736,2263,1747,1335,1171,2515
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",5,"  Utilities",11,13,11,13,14,14
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",6,"  Construction",167966,141679,138944,134149,150459,166167
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",656753,672900,679659,691735,686748,731439
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",8,"   Durable goods",366802,369966,365835,370151,339808,380822
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",289951,302934,313824,321584,346940,350617
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",470494,456993,476807,490887,479786,493297
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1456839,1506027,1487427,1533402,1539570,1547051
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",857463,880392,892930,976553,1058078,1083316
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",13,"  Information",19378,20426,21170,21243,21540,22325
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",146101,141223,139813,154534,161548,178949
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",98910,94045,92228,93777,94004,103061
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",47191,47178,47586,60758,67544,75889
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",166963,151104,157970,173163,176398,203172
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",102742,104813,112421,116052,121214,125174
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",19,"   Educational services",91713,93729,100921,103893,108379,112100
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",11028,11084,11500,12159,12835,13074
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1578148,1542224,1612563,1675183,1827917,1851544
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",978903,1007571,1070708,1076512,1143957,1197759
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",599245,534653,541855,598671,683961,653786
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",88907,92082,96872,103076,107973,116107
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",25," Government",1046726,1060853,1074882,1101728,1121534,1165800
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",26,"  Federal",8564,8620,8234,7672,7679,8000
+ "17000","Illinois",3,SAOCOMP,"Thousands of dollars",27,"  State and local",1038162,1052234,1066647,1094056,1113855,1157800
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",1,"All Industries",3628723,3670124,3720261,3757886,3885219,4486832
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",2," Private Industries",3414721,3455353,3498719,3527162,3644767,4236457
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",17279,16013,18077,19188,20298,21258
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",4,"  Mining",2269,1905,1475,1153,1004,2229
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",5,"  Utilities",4,4,3,4,4,4
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",6,"  Construction",70091,45091,47495,52430,61215,68581
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",1407000,1435436,1419448,1402249,1459698,1955843
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",8,"   Durable goods",1246788,1270976,1246440,1226622,1283178,1778155
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",160212,164460,173008,175627,176520,177689
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",144742,142265,149288,154669,149261,154130
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",11,"  Retail trade",753609,776509,777068,787956,798837,853596
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",194897,208023,209559,192768,195245,209011
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",13,"  Information",5531,5795,6045,6047,5991,5944
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",47354,45735,44778,48900,49744,52943
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",30543,28728,28038,27710,26948,28371
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",16811,17007,16741,21190,22796,24573
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",56706,50862,53541,58504,59874,67912
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",37535,38278,41331,42925,45015,46320
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",19,"   Educational services",32493,33108,35921,37185,39002,40148
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",5043,5170,5410,5740,6013,6173
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",629520,639168,678115,705209,740682,737859
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",371796,390196,417873,424611,454801,475626
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",257724,248972,260242,280598,285881,262233
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",48184,50267,52496,55159,57897,60827
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",25," Government",214002,214772,221543,230724,240452,250375
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",26,"  Federal",15535,16275,14774,13961,13976,14017
+ "18000","Indiana",3,SAOCOMP,"Thousands of dollars",27,"  State and local",198468,198497,206769,216764,226476,236357
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",1,"All Industries",1425118,1448523,1456656,1465569,1549365,1634494
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",2," Private Industries",1282531,1304576,1309066,1314310,1395437,1474390
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",17965,16494,18126,18749,19176,20305
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",4,"  Mining",11,10,10,8,8,11
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",5,"  Utilities",2,2,2,2,2,2
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",6,"  Construction",50198,47732,40437,37106,40759,44635
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",275240,284511,280077,280405,297441,342683
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",8,"   Durable goods",206567,214010,203505,203114,214858,249148
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",68673,70500,76572,77290,82583,93535
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",92839,91068,97818,99520,100287,103268
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",11,"  Retail trade",411125,427788,423178,419593,434846,459026
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",54429,54555,54239,55062,54987,56754
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",13,"  Information",3882,4027,4162,4267,4303,4432
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",23607,23021,22541,24188,25028,26988
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",18560,17747,17510,17961,18095,19646
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",5046,5274,5031,6226,6933,7342
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",21280,18627,19808,21751,22876,25473
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",18571,18947,20428,21098,22167,22874
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",19,"   Educational services",16357,16688,18097,18666,19558,20200
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2215,2258,2332,2433,2610,2675
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",295229,299037,308710,312292,352603,346352
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",153202,158107,167801,172076,185146,193816
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",142026,140930,140909,140216,167457,152537
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",18153,18757,19529,20269,20954,21586
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",25," Government",142587,143947,147591,151259,153928,160103
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",26,"  Federal",3198,3261,3213,3091,3234,3252
+ "19000","Iowa",4,SAOCOMP,"Thousands of dollars",27,"  State and local",139389,140686,144377,148169,150694,156851
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",1,"All Industries",1280018,1273192,1301006,1348986,1386449,1425887
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",2," Private Industries",1114873,1100127,1123375,1169542,1207186,1238015
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",15884,15803,16176,17862,16363,17130
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",4,"  Mining",271,278,275,241,254,266
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",5,"  Utilities",2,2,1,1,2,1
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",6,"  Construction",22339,23478,26105,24684,28018,30761
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",194897,193177,199806,201149,204472,215912
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",8,"   Durable goods",118695,114989,117209,117096,118415,117802
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",76202,78188,82597,84053,86058,98110
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",110061,109379,115620,117641,111271,110723
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",11,"  Retail trade",373742,369052,360561,379201,383306,410667
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",31850,32011,31903,33036,32673,33151
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",13,"  Information",5415,5857,6232,6151,6009,5556
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",17711,16787,16469,17575,17756,19322
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",13109,12348,12086,12126,12090,13116
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",4601,4439,4383,5449,5666,6206
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",22627,20237,21684,24349,25748,29343
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",19298,19472,20948,21293,21924,22323
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",19,"   Educational services",17025,17208,18615,18850,19350,19772
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2273,2263,2332,2443,2574,2551
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",282869,276154,288555,306814,339489,322505
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",116653,122042,129362,132827,142383,149186
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",166215,154112,159194,173986,197107,173319
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",17907,18441,19040,19545,19901,20355
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",25," Government",165145,173065,177632,179444,179264,187872
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",26,"  Federal",6728,7355,7193,6787,6686,6812
+ "20000","Kansas",4,SAOCOMP,"Thousands of dollars",27,"  State and local",158418,165710,170439,172656,172578,181060
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",1,"All Industries",1721634,1713295,1760948,1849821,1898061,1973149
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",2," Private Industries",1551276,1533472,1576242,1658893,1703580,1771477
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",34819,32957,34180,36562,41065,41555
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",4,"  Mining",8045,6389,4689,3271,2564,5185
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",3,4,3,4,5,5
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",6,"  Construction",25994,24369,24518,24881,29572,32876
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",179384,183183,188177,202330,198658,207078
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",87561,89150,89976,104055,98795,111504
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",91823,94033,98201,98275,99863,95574
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",98708,96744,103257,108810,102619,103842
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",461547,466081,470056,493767,505373,528650
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",152763,145617,145682,156352,162827,169006
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",13,"  Information",3535,3683,3833,3811,3822,3877
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",33138,31550,31214,33815,35221,38676
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",23520,22434,22303,23018,23621,26282
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",9618,9116,8912,10797,11600,12394
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",28626,25330,27290,30749,32825,36635
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",25493,25672,27545,27921,28743,29538
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",22177,22374,24129,24356,25035,25698
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",3316,3298,3417,3565,3708,3839
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",477014,469032,491850,511236,533223,545418
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",236972,252552,267854,274044,291546,301065
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",240041,216479,223996,237192,241677,244352
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",22207,22861,23948,25383,27063,29136
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",25," Government",170358,179823,184706,190928,194481,201673
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",26,"  Federal",20616,22232,21169,20225,20391,20444
+ "21000","Kentucky",5,SAOCOMP,"Thousands of dollars",27,"  State and local",149742,157590,163537,170703,174090,181229
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",1,"All Industries",2272067,2315431,2383278,2490716,2560058,2588692
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",2," Private Industries",1978753,2018768,2086156,2186284,2247925,2263917
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",18654,17789,17577,18675,18089,19179
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",4,"  Mining",2384,2453,2369,2045,2262,2169
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",3,3,3,3,4,3
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",6,"  Construction",100043,112708,121882,121380,120956,131650
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",241160,245513,246324,256420,269829,294475
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",53433,51382,54283,53965,54627,50708
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",187727,194131,192041,202454,215202,243767
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",94554,93995,98432,100536,93885,96480
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",589652,593668,597086,625128,622373,613824
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",286683,326177,334037,358413,367757,369316
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",13,"  Information",2948,3109,3252,3246,3328,3470
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",28131,27067,25538,30051,31119,34860
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",9067,8608,8427,8621,8668,9334
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",19064,18459,17112,21430,22451,25526
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",22683,20212,21444,23559,24451,27416
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",20919,21246,22924,23984,25389,26510
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",17811,18173,19719,20580,21758,22773
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",3108,3072,3206,3404,3631,3737
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",541268,524145,563145,588981,633283,607864
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",251608,263199,285245,290478,310105,322617
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",289660,260946,277899,298503,323178,285247
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",29670,30682,32143,33865,35201,36703
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",25," Government",293314,296664,297123,304432,312133,324775
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",26,"  Federal",9285,10235,10049,9600,9504,9423
+ "22000","Louisiana",5,SAOCOMP,"Thousands of dollars",27,"  State and local",284029,286429,287074,294831,302629,315352
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",1,"All Industries",1200264,1210269,1226810,1278780,1321893,1373098
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",2," Private Industries",1136777,1143459,1157911,1205761,1245227,1293114
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting","(D)",10014,10951,11394,12765,13774
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",4,"  Mining","(D)",3,3,3,3,5
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",6,"  Construction",23993,17635,10399,9208,10780,11981
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",116825,117084,110318,109993,158773,157644
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",8,"   Durable goods",71147,70527,72535,73279,73951,70656
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",45679,46557,37782,36714,84822,86988
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",24852,24245,26442,27570,26583,26923
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",11,"  Retail trade",286508,295143,290693,301847,295793,313821
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",26925,28296,29530,31893,32506,34324
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",13,"  Information",1278,1350,1391,1388,1394,1454
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",33384,32205,29216,31978,33252,34284
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",15288,14614,14155,14056,13528,14061
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",18096,17591,15061,17922,19724,20223
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",8754,8000,8588,9582,9978,11408
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",13101,13417,14482,14994,15346,15862
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",19,"   Educational services",11261,11601,12610,13040,13399,13824
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1840,1815,1872,1954,1948,2038
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",582723,587934,617274,646431,637920,660745
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",152695,158019,167205,169424,176938,182207
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",430028,429915,450069,477007,460983,478538
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",7709,8133,8623,9478,10131,10887
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",25," Government",63487,66809,68899,73019,76666,79984
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",26,"  Federal",15127,16316,15222,15353,16838,17966
+ "23000","Maine",1,SAOCOMP,"Thousands of dollars",27,"  State and local",48360,50494,53677,57666,59828,62017
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",1,"All Industries",3342570,3274266,3397043,3559578,3662827,3746066
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",2," Private Industries",2880554,2784792,2885488,3021103,3107786,3167505
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",33679,32990,34310,36015,35772,37493
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",4,"  Mining",97,82,71,57,51,89
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",5,"  Utilities",9,10,8,9,11,11
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",6,"  Construction",59259,60047,66280,62579,72785,81531
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",106598,109036,109632,111069,108274,118826
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",8,"   Durable goods",53091,54171,52634,53224,46215,59167
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",53507,54865,56998,57845,62058,59659
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",159088,154811,161827,172987,169503,173033
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",11,"  Retail trade",911733,897237,900078,937000,923476,935491
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",209088,210782,217552,238079,265773,285567
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",13,"  Information",7135,7497,7845,7948,8124,8503
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",66321,63297,62128,66916,67402,69292
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",34784,32219,31023,29597,27839,28502
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",31537,31078,31105,37319,39563,40790
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",60528,55879,59159,66272,67937,79139
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",59182,59335,63785,65270,67833,69955
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",19,"   Educational services",52777,53182,57385,58572,60910,62930
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",6405,6153,6400,6698,6923,7025
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1145388,1069688,1136095,1187621,1249599,1235134
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",461979,484755,523580,536925,575496,601959
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",683409,584934,612515,650696,674104,633175
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",62448,64101,66716,69281,71247,73442
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",25," Government",462016,489474,511554,538475,555041,578561
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",26,"  Federal",44324,49194,47205,47222,48676,47810
+ "24000","Maryland",2,SAOCOMP,"Thousands of dollars",27,"  State and local",417692,440280,464349,491253,506365,530751
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",1,"All Industries",4066586,4152258,4230001,4464489,4732883,4907443
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",2," Private Industries",3767512,3834091,3903504,4125097,4383964,4546628
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",29645,28527,29111,30783,34443,33714
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",4,"  Mining",9,8,8,8,7,9
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",5,"  Utilities",32,39,34,43,50,46
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",6,"  Construction",54453,57488,66983,67997,79416,90402
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",373600,372239,352126,370034,451308,487878
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",8,"   Durable goods",245912,239479,226883,241919,244239,280139
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",127688,132760,125243,128115,207069,207740
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",288054,279537,294156,312362,306185,307060
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",11,"  Retail trade",967902,1005730,984388,1029810,1045321,1056129
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",282333,291561,302086,334361,370180,388171
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",13,"  Information",15201,15314,15829,16777,16528,17488
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",98846,95795,92142,101821,104434,111983
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",61679,58684,57845,59621,60729,66538
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",37167,37110,34297,42200,43705,45445
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",128328,118102,123930,136559,140639,170494
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",125353,128905,138363,143731,150983,157227
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",19,"   Educational services",117699,121112,130363,135269,142111,148091
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",7654,7793,8000,8462,8872,9136
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1347706,1382280,1442728,1514655,1615025,1651164
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",733274,764950,823840,843714,907797,958112
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",614431,617330,618888,670941,707227,693052
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",56050,58567,61620,66157,69446,74864
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",25," Government",299074,318166,326497,339391,348919,360815
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",26,"  Federal",59923,66577,62004,60681,61753,60301
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",27,"  State and local",239151,251590,264493,278710,287166,300513
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",1,"All Industries",4023562,4015466,4175085,4298035,4454728,4755614
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",2," Private Industries",3736167,3716639,3871815,3983619,4131256,4419974
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",78718,75612,79915,84371,87059,93527
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",4,"  Mining",162,163,174,165,175,189
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",5,"  Utilities",20,23,20,23,25,24
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",6,"  Construction",72689,81347,93741,92449,102202,113546
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",361102,362675,371725,379718,387183,412051
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",8,"   Durable goods",246702,245337,252493,257891,252849,274095
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",114400,117338,119232,121827,134334,137956
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",205131,200085,210758,221562,216784,231829
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1223290,1193215,1193984,1235895,1254363,1363076
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",327457,334693,338504,353217,393035,423399
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",13,"  Information",8269,8632,9051,9362,9516,9873
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",95519,92688,87585,93676,95751,100435
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",46669,44298,43563,43981,43618,46526
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",48850,48390,44023,49695,52133,53908
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",77285,70611,74949,83106,85009,96998
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",47797,48537,52493,53769,55711,57586
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",19,"   Educational services",40522,41189,44822,45833,47473,48952
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",7275,7348,7671,7936,8238,8634
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1175977,1182764,1289598,1301728,1362825,1428312
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",660984,688085,741780,751925,798099,827337
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",514993,494678,547817,549803,564726,600975
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",62750,65596,69318,74579,81618,89130
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",25," Government",287395,298827,303270,314416,323473,335640
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",26,"  Federal",16293,17716,17370,17475,18655,19451
+ "26000","Michigan",3,SAOCOMP,"Thousands of dollars",27,"  State and local",271101,281111,285900,296941,304817,316189
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",1,"All Industries",3690281,3741344,3881129,4070116,4287815,4505794
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",2," Private Industries",3267442,3281719,3397449,3551474,3751502,3945849
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",48802,46483,46445,46933,44505,46932
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",4,"  Mining",26,21,22,19,17,24
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",5,"  Utilities",21,25,21,23,24,21
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",6,"  Construction",77225,65939,70543,69296,75937,84279
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",475230,502208,512962,542100,583211,646592
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",8,"   Durable goods",358579,380101,392107,417804,419708,475183
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",116651,122107,120855,124296,163503,171410
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",373776,374890,390965,399403,385727,396345
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",11,"  Retail trade",839887,829864,833434,882311,930468,969545
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",398896,405232,423697,463536,517642,538827
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",13,"  Information",7585,7830,8082,8308,8323,8689
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",109925,104823,100496,103332,101825,103269
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",82020,76860,74588,72826,68805,69914
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",27905,27963,25908,30506,33019,33355
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",50613,46059,48513,53191,53878,61302
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",50695,51721,55953,57413,59694,61335
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",19,"   Educational services",44955,45861,49839,51021,53003,54363
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",5740,5860,6114,6392,6691,6972
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",796316,806505,863991,880393,942011,976977
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",491830,512566,553464,566730,609486,643558
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",304487,293939,310527,313663,332525,333420
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",38444,40120,42325,45216,48239,51711
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",25," Government",422840,459625,483680,518641,536314,559945
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",26,"  Federal",9684,9918,10144,10239,11034,11520
+ "27000","Minnesota",4,SAOCOMP,"Thousands of dollars",27,"  State and local",413155,449707,473537,508403,525280,548425
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",1,"All Industries",988820,996668,1023466,1056466,1084703,1119665
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",2," Private Industries",868181,866898,894327,925187,951948,984995
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",12022,11385,11726,12350,12909,13205
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",4,"  Mining",324,312,278,234,236,324
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",3,3,3,3,4,4
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",6,"  Construction",26463,22817,20088,17388,18390,19559
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",135883,136404,136613,141079,141103,162806
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",71479,70976,70054,73746,72132,91884
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",64404,65428,66558,67332,68971,70921
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",40351,39024,41145,43053,41969,42319
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",339966,346335,352797,366599,372463,376121
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",48010,50645,50641,52500,53577,56374
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",13,"  Information",1763,1868,1968,1951,2002,2056
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",11106,10829,10288,11655,12113,12568
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",4127,3944,3824,3895,3839,4032
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",6979,6886,6464,7760,8274,8536
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",9071,7979,8650,9799,10563,11697
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",10653,10642,11509,11810,12292,12583
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",8818,8810,9577,9792,10179,10421
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1835,1833,1932,2018,2113,2162
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",217218,212714,231999,239415,256326,256875
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",77664,79873,83924,83464,86760,88970
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",139555,132840,148075,155951,169566,167905
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",15348,15941,16622,17350,18002,18504
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",25," Government",120639,129771,129139,131279,132755,134670
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",26,"  Federal",41957,46915,43551,42969,43624,42580
+ "28000","Mississippi",5,SAOCOMP,"Thousands of dollars",27,"  State and local",78682,82856,85588,88310,89131,92090
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",1,"All Industries",3060362,3078377,3163519,3301350,3361727,3586118
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",2," Private Industries",2739928,2733335,2809341,2933510,2992824,3203870
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",21446,19885,21752,22606,23368,25295
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",4,"  Mining",429,351,265,197,167,363
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",5,"  Utilities",12,14,12,14,16,16
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",6,"  Construction",45714,47869,51822,53412,61876,68898
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",384821,399769,422523,431796,448305,462395
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",8,"   Durable goods",269417,281602,301316,310633,305943,315679
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",115404,118167,121207,121163,142362,146715
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",169947,165414,173397,179800,173286,176322
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",11,"  Retail trade",846251,806876,794462,829993,816864,891515
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",193874,203046,201473,210029,211049,217489
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",13,"  Information",10365,10702,11110,11053,10960,11489
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",52642,50765,49179,54297,54706,57478
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",27799,26207,25509,25249,24309,25119
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",24843,24558,23670,29047,30397,32359
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",75349,68450,72510,81607,86135,102550
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",44420,45595,49182,50847,52258,52871
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",19,"   Educational services",39654,40785,44250,45685,46992,47407
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",4766,4810,4932,5161,5267,5464
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",850452,868819,913728,957011,1000485,1080818
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",512786,542455,592035,617259,665354,700363
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",337667,326364,321694,339752,335131,380455
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",44206,45781,47926,50848,53349,56371
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",25," Government",320434,345043,354177,367840,368903,382248
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",26,"  Federal",30500,32973,30886,29398,28589,26760
+ "29000","Missouri",4,SAOCOMP,"Thousands of dollars",27,"  State and local",289934,312069,323291,338443,340314,355488
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",1,"All Industries",825117,873228,895623,959327,971374,1068201
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",2," Private Industries",749097,793619,815185,876815,884199,978075
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",13113,13529,14658,14534,15494,15436
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",4,"  Mining",1049,914,772,625,585,1066
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",6,"  Construction",9352,11381,9593,9575,11148,12484
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",37955,39851,39103,43074,47075,55391
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",8,"   Durable goods",16988,18387,17775,20894,23444,28729
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",20967,21464,21327,22180,23630,26663
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",54786,57172,58245,61967,59026,59547
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",11,"  Retail trade",217122,233761,241792,253775,246931,256506
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",53694,58414,57374,72254,63973,81163
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",13,"  Information",936,991,1032,1025,1034,1046
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",11812,11877,11290,12344,12505,13520
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",6012,5638,5413,5306,5150,5405
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",5800,6239,5878,7038,7354,8116
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",12324,10917,11736,13285,14223,16027
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",8408,8610,9369,9707,10059,10501
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",19,"   Educational services",7524,7705,8431,8695,9020,9376
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",884,905,939,1012,1039,1125
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",323365,340817,354543,378521,395518,448190
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",156730,161827,173191,178742,191927,198144
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",166635,178991,181352,199779,203591,250047
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",5180,5382,5675,6128,6629,7196
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",25," Government",76020,79609,80438,82513,87175,90125
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",26,"  Federal",37501,39221,38566,38875,42397,44163
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",27,"  State and local",38519,40388,41872,43638,44778,45962
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",1,"All Industries",943783,955801,965189,1012947,1042363,1095738
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",2," Private Industries",853198,861807,867726,910573,935953,985653
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",11397,10244,11699,11921,12986,13986
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",4,"  Mining",12,11,11,8,8,9
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",5,"  Utilities",5,7,6,8,9,9
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",6,"  Construction",29593,27268,27388,24137,26061,28780
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",116190,124060,128838,132187,138438,168047
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",8,"   Durable goods",80480,88256,90657,92937,94176,114658
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",35709,35804,38181,39251,44262,53390
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",58571,58443,63147,64400,63561,65789
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",11,"  Retail trade",264930,277023,265397,276034,276769,288977
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",44090,44424,44257,45399,45090,46369
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",13,"  Information",2044,2090,2170,2274,2357,2549
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",19867,19183,18809,19510,19408,20613
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",15995,15238,14973,14973,14679,15698
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",3872,3946,3836,4537,4729,4915
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",44695,40110,42029,45717,46081,51780
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",15826,16226,17561,18338,19286,20056
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",19,"   Educational services",14066,14468,15767,16449,17322,18049
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1760,1758,1794,1889,1964,2007
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",231085,227299,230327,253662,268001,259852
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",98185,102826,109963,113850,122486,127509
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",132900,124473,120364,139811,145515,132343
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",14893,15419,16086,16978,17897,18836
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",25," Government",90585,93993,97462,102374,106410,110085
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",26,"  Federal",5818,5977,6071,5796,5942,5858
+ "31000","Nebraska",4,SAOCOMP,"Thousands of dollars",27,"  State and local",84767,88016,91392,96578,100468,104227
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",1,"All Industries",1842229,1834813,1913800,2020315,2141243,2239107
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",2," Private Industries",1615919,1599196,1668344,1764912,1875847,1961778
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",3905,3633,4007,4255,4533,4833
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",4,"  Mining",317,298,346,331,327,406
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",5,"  Utilities",13,17,15,19,23,23
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",6,"  Construction",60609,57320,82416,59706,55959,62544
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",29769,31047,32450,34057,35805,37992
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",8,"   Durable goods",19462,20436,21357,22629,23804,27064
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",10306,10611,11093,11428,12001,10928
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",66199,64825,68583,74497,73352,76405
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",11,"  Retail trade",489308,505450,512397,535857,544176,556264
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",301866,312523,326027,362035,395634,417021
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",13,"  Information",1719,1807,1897,1929,1986,2118
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",25494,25890,24049,26496,27602,29493
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",11219,10633,10306,10244,10036,10760
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",14275,15257,13743,16252,17566,18733
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",46700,41734,43362,46519,46870,54159
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",14835,14641,15763,16636,17661,18309
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",19,"   Educational services",12065,12037,13116,13754,14499,14963
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2770,2603,2647,2882,3162,3346
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",558661,523135,539346,583545,651389,680020
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",221227,228811,243624,251554,275627,294709
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",337434,294324,295721,331992,375762,385311
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",16523,16878,17686,19028,20530,22192
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",25," Government",226310,235617,245457,255403,265397,277329
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",26,"  Federal",37526,39244,37176,37270,39873,40673
+ "32000","Nevada",8,SAOCOMP,"Thousands of dollars",27,"  State and local",188784,196373,208281,218133,225523,236656
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",1,"All Industries",1138234,1148018,1179977,1243999,1266658,1315354
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",2," Private Industries",1088951,1095522,1125207,1186903,1208902,1255150
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",5765,5446,6054,6146,6390,6547
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",4,"  Mining",3,2,2,2,2,2
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",5,"  Utilities",2,3,2,3,3,3
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",6,"  Construction",7108,8317,8858,8547,10018,11472
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",79363,86701,83053,93084,96513,120739
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",8,"   Durable goods",64596,71546,67429,76785,78427,101684
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",14768,15155,15624,16299,18086,19054
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",82161,78369,84012,91361,85499,86169
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",11,"  Retail trade",360361,370938,376415,393789,392359,399670
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",35912,33621,31478,33101,35791,36258
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",13,"  Information",1915,1954,2050,2184,2208,2303
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",38879,37172,34809,37014,37362,38796
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",24836,23354,22684,22337,21708,22356
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",14044,13818,12124,14676,15655,16439
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",13340,12384,13321,15188,15883,18383
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",19386,19764,21272,21905,22727,23589
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",19,"   Educational services",17745,18153,19603,20164,20943,21758
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1641,1611,1670,1741,1784,1830
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",433036,428787,451407,471685,490857,497461
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",167713,172587,181850,183928,192348,198070
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",265324,256201,269556,287757,298509,299392
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",11719,12063,12472,12896,13290,13757
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",25," Government",49283,52497,54770,57096,57756,60205
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",26,"  Federal",2409,2224,2313,2299,2328,2276
+ "33000","New Hampshire",1,SAOCOMP,"Thousands of dollars",27,"  State and local",46874,50272,52457,54797,55428,57929
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",1,"All Industries",5354477,5343968,5592079,5797790,6025044,6070879
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",2," Private Industries",4805913,4746760,4975630,5141598,5356675,5380208
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",34641,32945,35337,36964,38228,40125
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",4,"  Mining",25,22,23,20,19,24
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",5,"  Utilities",9,11,9,11,12,11
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",6,"  Construction",69621,73017,72470,73687,87002,96968
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",347094,349856,364668,371139,373311,361543
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",8,"   Durable goods",106400,102453,109810,119724,122028,122532
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",240694,247403,254858,251415,251283,239011
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",432383,416920,438323,462337,453416,454385
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1448811,1483056,1508423,1539943,1542168,1523860
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",547602,541953,573309,595275,646404,654190
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",13,"  Information",19200,20276,21077,21145,21421,21816
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",128218,126053,122746,136683,138375,139805
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",60578,57357,56265,56775,56369,61009
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",67640,68696,66481,79908,82006,78796
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",125644,112713,117287,125424,124738,141200
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",88442,89598,97087,99288,102453,104794
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",19,"   Educational services",80121,81410,88442,90161,92759,94909
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",8321,8188,8645,9127,9694,9885
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1497729,1430336,1550641,1599788,1745500,1755235
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",807476,834488,893916,910090,977342,1032284
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",690252,595848,656725,689697,768158,722952
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",66496,70006,74230,79894,83627,86251
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",25," Government",548564,597208,616449,656192,668369,690671
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",26,"  Federal",34482,36275,32225,30461,30054,29308
+ "34000","New Jersey",2,SAOCOMP,"Thousands of dollars",27,"  State and local",514082,560933,584224,625730,638315,661363
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",1,"All Industries",1027075,1047113,1066475,1124042,1145981,1167986
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",2," Private Industries",858465,870526,883950,935616,953040,966658
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",9491,9204,10407,10527,11020,11700
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",4,"  Mining",1882,1703,1487,1324,1324,1685
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,2,1,1,2,2
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",6,"  Construction",27229,24407,27482,24412,25055,27421
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",23639,23978,24078,25050,25473,27915
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",8,"   Durable goods",6499,6209,6311,6374,5853,6699
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",17140,17769,17767,18676,19621,21216
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",22985,22554,23748,24885,23320,23902
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",11,"  Retail trade",293493,303622,300878,317169,319971,325587
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",40792,39840,40003,41117,42717,44068
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",13,"  Information",1567,1635,1716,1634,1636,1717
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",18373,18499,17187,18480,19672,22621
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",10401,9842,9623,9949,10474,12157
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",7972,8657,7565,8531,9198,10464
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",18758,16440,17292,18582,18891,20687
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",13083,13174,14159,14569,15237,16106
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",19,"   Educational services",11475,11571,12530,12837,13440,14238
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1609,1603,1629,1731,1797,1868
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",376643,384609,394245,425994,436290,430188
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",98995,101786,108056,111350,120987,126951
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",277647,282823,286188,314643,315303,303237
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",10528,10858,11266,11872,12434,13059
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",25," Government",168610,176587,182525,188426,192940,201328
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",26,"  Federal",22967,23223,23517,23126,24817,25375
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",27,"  State and local",145642,153364,159007,165301,168124,175953
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",1,"All Industries",12345918,12556792,12955648,13605008,14234050,14178838
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",2," Private Industries",10611490,10693904,11087740,11612100,12216985,12108598
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",65921,64095,66829,68038,68111,68560
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",4,"  Mining",306,287,336,336,362,455
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",5,"  Utilities",18,20,17,20,24,24
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",6,"  Construction",311366,281428,292376,299375,329492,362280
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",684072,683719,721873,760327,681763,702857
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",8,"   Durable goods",184275,185283,195250,234556,200972,206585
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",499797,498437,526624,525771,480790,496272
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",1469160,1381437,1450911,1540062,1498548,1440937
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",11,"  Retail trade",2824783,2985284,2976261,3058517,3132462,3093606
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",1035234,1091453,1146240,1262751,1465112,1384226
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",13,"  Information",51497,54835,56461,57679,59356,60820
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",223777,220640,208036,226328,231164,244301
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",142688,136246,134359,137529,137583,147578
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",81089,84394,73677,88800,93581,96723
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",234415,214417,224697,251848,258966,306130
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",266809,272897,294999,307215,325379,339829
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",19,"   Educational services",247468,253527,274842,286066,302935,317203
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",19342,19370,20157,21148,22445,22626
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",3307062,3301578,3499281,3621929,4002970,3932697
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",1754966,1847913,1986875,2052000,2210220,2314439
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",1552096,1453664,1512407,1569928,1792750,1618258
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",137069,141814,149422,157675,163277,171875
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",25," Government",1734428,1862888,1867908,1992908,2017064,2070240
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",26,"  Federal",101081,102761,88936,86427,95942,103123
+ "36000","New York",2,SAOCOMP,"Thousands of dollars",27,"  State and local",1633347,1760127,1778972,1906482,1921122,1967117
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",1,"All Industries",4767034,4845759,5064411,5364036,5477974,5758490
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",2," Private Industries",4258362,4324099,4548699,4847087,4951569,5212748
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",39169,38041,40673,42448,45278,50501
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",4,"  Mining",61,53,51,42,39,55
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",8,9,7,7,8,8
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",6,"  Construction",83810,79619,84166,95059,108565,121202
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",400349,392050,420082,459602,428555,434113
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",197499,190588,205952,245762,214054,233088
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",202850,201462,214129,213839,214501,201026
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",264102,257512,273662,293824,289659,299243
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1179627,1240978,1259192,1322328,1329556,1411882
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",369599,389880,414479,469975,513611,542718
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",13,"  Information",9973,10279,10817,11416,11797,12931
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",74021,72571,68401,75304,77607,82776
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",38525,36881,36239,37620,38255,41355
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",35496,35690,32162,37685,39352,41421
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",53759,48866,52181,58321,60822,69655
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",72109,70856,74934,74236,76416,79450
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",64808,63618,67363,66270,68229,70846
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",7301,7238,7572,7966,8187,8604
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1642221,1650388,1773116,1861935,1921174,2014209
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",798483,843268,894557,908890,992214,1034961
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",843737,807120,878558,953045,928960,979248
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",69554,72998,76937,82589,88481,94005
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",25," Government",508672,521660,515712,516949,526405,545743
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",26,"  Federal",119922,133290,124187,121619,125213,126459
+ "37000","North Carolina",5,SAOCOMP,"Thousands of dollars",27,"  State and local",388749,388370,391525,395330,401192,419283
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",1,"All Industries",474298,499685,527029,551444,541565,542894
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",2," Private Industries",407446,426689,449203,466971,451871,449310
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",7014,6025,6635,6481,6799,6458
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",4,"  Mining",1717,1670,1494,1202,1331,1828
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",6,"  Construction",23603,30260,39420,29966,27666,29010
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",13802,14205,14362,14923,17059,19467
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",8,"   Durable goods",3777,3793,3786,3693,3400,4089
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",10025,10412,10576,11230,13659,15379
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",32897,33875,37171,37314,34232,35962
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",11,"  Retail trade",149141,160801,162877,175858,173048,174464
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",33709,34137,34320,34766,33189,30817
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",13,"  Information",877,901,947,999,1018,1059
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",5919,5757,5573,6075,6146,6340
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",3568,3405,3336,3390,3375,3610
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",2351,2353,2237,2685,2771,2731
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",12494,11103,11557,12308,12171,13271
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",5111,5212,5636,5884,6097,6317
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",19,"   Educational services",4235,4325,4721,4894,5076,5260
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",876,887,915,990,1022,1057
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",116774,118197,124409,135937,127419,118179
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",45901,47038,49933,50424,53039,54058
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",70872,71159,74476,85513,74380,64121
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",4386,4544,4801,5258,5696,6138
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",25," Government",66852,72996,77826,84473,89695,93585
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",26,"  Federal",6766,7150,7012,6810,7216,7442
+ "38000","North Dakota",4,SAOCOMP,"Thousands of dollars",27,"  State and local",60086,65846,70814,77663,82478,86143
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",1,"All Industries",4611856,4635896,4783813,4975549,5140434,5348251
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",2," Private Industries",3966035,3940977,4063019,4212047,4355819,4529076
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",55944,51809,55776,57124,61517,68410
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",4,"  Mining",1790,1529,1281,1102,1032,1662
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",5,"  Utilities",18,21,18,22,25,24
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",6,"  Construction",92289,87124,96780,102920,116961,129280
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",380229,390612,406098,426149,431133,484790
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",8,"   Durable goods",188155,189832,195372,203950,202426,250079
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",192074,200779,210726,222198,228707,234711
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",346738,342102,355887,370193,356510,367278
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1319511,1300019,1276105,1307196,1327456,1365860
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",242816,248589,249650,258561,260073,266517
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",13,"  Information",15886,16909,17463,17914,18046,19868
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",113218,109486,109382,119164,121818,130263
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",81994,78662,78211,80144,80284,86828
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",31224,30824,31171,39021,41534,43435
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",63496,57344,61130,68042,70968,81074
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",64526,66321,72087,75070,78215,79668
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",19,"   Educational services",55828,57479,62820,65316,67997,69296
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",8698,8841,9267,9754,10218,10372
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1193830,1190171,1278239,1320155,1419067,1436336
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",832402,866470,933848,957111,1022966,1070871
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",361428,323701,344391,363045,396101,365465
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",75743,78941,83122,88435,92998,98047
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",25," Government",645821,694918,720794,763501,784615,819174
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",26,"  Federal",19759,21094,19799,19336,20072,20196
+ "39000","Ohio",3,SAOCOMP,"Thousands of dollars",27,"  State and local",626061,673824,700995,744166,764543,798978
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",1,"All Industries",1558188,1560368,1616768,1694780,1756370,1793835
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",2," Private Industries",1397685,1388927,1438588,1507867,1565102,1594219
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",25528,24329,26018,26994,25678,25789
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",4,"  Mining",2173,2215,2185,2067,2127,1965
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",5,"  Utilities",3,3,2,3,3,3
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",6,"  Construction",41515,42942,49459,50504,53698,58059
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",102641,103789,107469,109608,114996,129849
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",8,"   Durable goods",47885,47829,49344,50129,52893,64819
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",54756,55960,58125,59479,62103,65031
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",68983,67372,72106,73515,68208,68858
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",11,"  Retail trade",469661,465992,473865,503230,509603,526156
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",165095,160869,147383,155893,158791,174331
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",13,"  Information",3756,4000,4168,4131,4145,4180
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",46285,42919,40371,40938,36311,33557
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",10103,9707,9526,9799,9650,10077
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",36182,33211,30846,31139,26661,23480
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",40110,35493,37384,40843,42155,46801
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",22360,22838,24905,25898,27311,28317
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",19,"   Educational services",20079,20524,22481,23330,24549,25485
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2281,2314,2424,2568,2762,2832
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",385627,390523,425837,443926,488999,461137
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",203870,211799,226384,233015,254228,272265
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",181757,178724,199453,210911,234771,188872
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",23948,25643,27434,30317,33077,35216
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",25," Government",160503,171441,178180,186914,191269,199616
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",26,"  Federal",14366,15626,15137,14404,14893,15345
+ "40000","Oklahoma",6,SAOCOMP,"Thousands of dollars",27,"  State and local",146137,155815,163043,172510,176376,184272
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",1,"All Industries",3029096,2952251,3101218,3275601,3370897,3583571
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",2," Private Industries",2709426,2618411,2753128,2908063,2984609,3180745
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",84558,80114,89612,93656,100089,105221
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",4,"  Mining",71,62,64,58,58,88
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",6,"  Construction",42399,45240,47324,42304,47262,53314
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",201710,205544,208869,217525,237990,274546
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",8,"   Durable goods",139096,140364,146820,156008,160057,202167
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",62614,65181,62049,61516,77932,72378
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",451640,402363,417123,427803,426892,439508
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",11,"  Retail trade",728384,744825,775256,826890,828377,860625
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",192698,192828,198206,237633,250684,266426
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",13,"  Information",4069,4089,4249,4531,4443,4678
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",41431,40653,38826,41034,41302,44450
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",28166,26800,25894,25357,24287,25648
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",13264,13853,12931,15678,17015,18802
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",39600,35545,37698,41591,43642,51003
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",35337,35521,38560,39785,41330,43079
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",19,"   Educational services",31065,31411,34221,35172,36545,38001
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",4271,4111,4339,4613,4785,5078
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",862917,806550,870990,907669,933841,1007677
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",299949,309092,329203,332405,354163,374616
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",562968,497458,541787,575265,579677,633061
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",24610,25074,26351,27583,28700,30128
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",25," Government",319671,333840,348090,367537,386288,402826
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",26,"  Federal",23653,22786,23586,24276,26642,27998
+ "41000","Oregon",8,SAOCOMP,"Thousands of dollars",27,"  State and local",296017,311054,324504,343261,359646,374828
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",1,"All Industries",5917446,6019183,6202814,6499764,6666033,6826124
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",2," Private Industries",5316728,5339863,5501719,5737132,5884827,6021655
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",95378,91032,98635,102349,106279,111640
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",4,"  Mining",6173,5323,4158,3390,3048,5159
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",5,"  Utilities",62,70,58,64,72,72
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",6,"  Construction",100263,89306,92054,106427,125061,138840
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",554577,562565,587331,585457,593859,617055
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",8,"   Durable goods",266789,272123,291362,294380,294263,320601
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",287788,290442,295969,291076,299596,296454
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",321447,313385,332669,364907,353043,354180
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1507525,1535179,1504629,1533406,1527479,1553903
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",433007,446714,464609,524491,561111,580901
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",13,"  Information",16984,17898,18497,18535,18509,18762
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",155524,151277,147245,157646,158142,164706
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",105197,100635,99146,99437,96299,100692
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",50327,50642,48099,58209,61842,64014
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",123337,113115,119417,131780,133666,153074
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",123612,128713,138891,146065,152893,156963
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",19,"   Educational services",111741,116679,126403,132953,139276,143017
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",11871,12034,12488,13112,13617,13947
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1789392,1792845,1897164,1961998,2048336,2058553
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",1130198,1183383,1273411,1302695,1376783,1415369
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",659195,609462,623753,659303,671553,643184
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",89447,92441,96362,100618,103330,107847
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",25," Government",600718,679320,701095,762631,781206,804469
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",26,"  Federal",55913,61088,57740,58511,62441,63848
+ "42000","Pennsylvania",2,SAOCOMP,"Thousands of dollars",27,"  State and local",544805,618232,643355,704121,718764,740621
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",1,"All Industries",661571,674445,686117,725852,740208,748122
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",2," Private Industries",629862,641879,652720,690996,704203,710837
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",3389,"(D)","(D)","(D)","(D)","(D)"
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",4,"  Mining",1,"(D)","(D)","(D)","(D)","(D)"
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",5,"  Utilities",0,0,0,0,0,0
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",6,"  Construction",5466,6284,6722,6904,7927,"(D)"
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",48563,47835,50445,49666,47879,39611
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",8,"   Durable goods",37157,35929,37675,36549,34550,27976
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",11406,11906,12770,13117,13329,11635
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",29161,28346,29357,30260,29084,29157
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",11,"  Retail trade",157412,165230,164145,174246,172634,171309
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",34893,33045,32359,33438,35104,35537
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",13,"  Information",1439,1441,1484,1485,1434,1430
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",11551,11840,11073,11967,12440,13368
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",7380,7094,7053,7343,7488,8253
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",4171,4746,4020,4624,4952,5115
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",25308,23395,24853,27793,28234,32478
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",13230,13544,14398,14944,15387,15526
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",19,"   Educational services",11638,11950,12783,13229,13611,13723
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1593,1594,1615,1715,1776,1803
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",291742,299796,306187,327828,340779,349477
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",91139,97136,104203,108952,116228,121237
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",200603,202660,201985,218876,224551,228240
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",7706,7872,8225,8831,9368,10057
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",25," Government",31710,32567,33397,34856,36005,37284
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",26,"  Federal",1556,1496,1433,1364,1356,1425
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",27,"  State and local",30154,31070,31964,33492,34649,35859
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",1,"All Industries",2746878,2745644,2877072,3038789,3084714,3466434
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",2," Private Industries",2529688,2508510,2621672,2758103,2786701,3154607
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",25681,25484,25674,28077,26097,28882
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",4,"  Mining",126,107,109,93,83,107
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",4,4,3,3,4,4
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",6,"  Construction",34193,37088,42445,43107,48935,55113
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",302256,306379,315986,320839,326784,384565
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",239992,244117,250815,255351,260567,323485
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",62264,62262,65171,65488,66216,61080
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",130052,130838,136460,145737,143833,148778
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",708233,738504,761775,798813,800281,869506
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",58028,60175,61098,63707,66114,67775
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",13,"  Information",3685,3905,4137,4245,4388,4619
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",36132,36750,34604,38052,39171,41835
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",16723,16126,15895,16098,15729,16547
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",19409,20624,18709,21954,23442,25289
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",30137,27870,30004,34971,38593,48245
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",22234,22069,23846,25060,25580,27019
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",17582,17691,19226,20121,20701,21642
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",4653,4378,4620,4939,4879,5376
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1144960,1084366,1148706,1215681,1224196,1432065
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",284819,295711,314300,322877,344680,358725
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",860140,788655,834407,892804,879516,1073339
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",33969,34972,36825,39718,42642,46094
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",25," Government",217190,237134,255400,280687,298013,311827
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",26,"  Federal",17635,18880,17989,17464,17700,17998
+ "45000","South Carolina",5,SAOCOMP,"Thousands of dollars",27,"  State and local",199555,218253,237411,263223,280313,293829
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",1,"All Industries",521138,544011,555704,582996,581726,615661
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",2," Private Industries",440637,457745,468663,493813,489429,520305
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",12916,13023,13350,13911,12470,11447
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",4,"  Mining",5,4,4,4,3,4
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",5,"  Utilities",0,1,0,1,1,1
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",6,"  Construction",17801,23462,21580,13967,14243,15503
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",25097,25751,27739,29467,30972,35646
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",8,"   Durable goods",15960,16938,18268,19735,20044,22105
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",9138,8813,9470,9732,10928,13541
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",24262,24458,26765,28020,28188,29844
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",11,"  Retail trade",153242,160274,160525,171447,168707,176065
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",13089,13289,13399,14438,15262,15897
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",13,"  Information",845,887,928,922,948,978
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",5346,5189,4856,5184,5470,5796
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",3425,3259,3165,3204,3174,3363
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",1922,1930,1690,1980,2296,2434
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",11976,10542,11251,12614,13230,14393
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",7704,7854,8511,8842,9261,9744
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",19,"   Educational services",6843,6971,7595,7854,8252,8670
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",861,883,916,987,1008,1075
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",163064,167521,174002,188853,184165,198051
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",46543,47713,50611,51870,56276,59883
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",116521,119808,123391,136983,127889,138167
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",5289,5488,5751,6145,6508,6935
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",25," Government",80501,86266,87041,89183,92296,95356
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",26,"  Federal",26821,28721,27041,26973,28458,28790
+ "46000","South Dakota",4,SAOCOMP,"Thousands of dollars",27,"  State and local",53680,57545,60000,62210,63839,66566
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",1,"All Industries",3340092,3243226,3424413,3449632,3542438,3707056
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",2," Private Industries",3044506,2939469,3115075,3137710,3222493,3375504
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",30597,29164,31955,32955,35058,37429
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",4,"  Mining",125,106,86,69,61,110
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",6,"  Construction",41028,49971,62623,52902,57388,64259
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",376067,367402,375133,373957,377527,374536
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",250062,239014,243475,240998,236689,235625
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",126005,128389,131658,132959,140838,138911
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",189111,185224,194936,206678,204424,208093
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",936295,869920,926879,919363,934222,988271
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",240282,234466,224053,216997,213526,221638
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",13,"  Information",6002,6343,6636,6790,6881,7348
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",48213,47555,45789,51130,53102,57641
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",27817,26568,26048,26204,25693,27273
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",20396,20987,19741,24926,27409,30368
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",50632,46319,49310,55468,57902,67418
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",36014,36462,39119,39955,41215,42410
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",30483,30944,33335,33893,34825,35641
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",5531,5518,5784,6062,6389,6769
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1048575,1023805,1113518,1133706,1191075,1251824
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",434553,449156,482335,496190,540563,589153
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",614023,574648,631183,637516,650512,662672
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",41564,42730,45036,47739,50112,54526
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",25," Government",295586,303757,309338,311922,319945,331551
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",26,"  Federal",48289,53575,51072,51671,54752,55131
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",27,"  State and local",247297,250182,258267,260251,265193,276420
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",1,"All Industries",11479338,11812062,12209651,12995069,13609170,14285680
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",2," Private Industries",10567803,10861826,11209186,11910175,12444524,13073825
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",198999,213970,221777,264550,239666,249162
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",4,"  Mining",14514,14376,14227,14167,14609,13541
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",5,"  Utilities",39,46,39,48,58,61
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",6,"  Construction",276772,287563,307608,304162,346630,386395
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",1019177,1040050,1030741,1062968,1158428,1267875
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",8,"   Durable goods",339537,339212,355409,378949,380075,436656
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",679640,700838,675332,684020,778353,831219
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",680466,668656,704786,742939,706496,744809
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",11,"  Retail trade",3421741,3659585,3678946,3880751,3865044,3940372
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",1402021,1460426,1498537,1680731,1813657,1894874
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",13,"  Information",31752,33658,35814,37135,38405,40905
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",204580,199499,197268,222847,232005,248482
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",110206,105936,105403,109573,110758,119262
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",94375,93562,91865,113274,121247,129220
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",274496,250622,268884,305717,324370,382513
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",152655,155759,168813,174406,183066,191689
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",19,"   Educational services",135658,138559,150824,155348,162640,170170
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",16997,17201,17989,19058,20426,21519
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",2696466,2672304,2864478,2985520,3273042,3447215
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",1656713,1720818,1858092,1934761,2124830,2286128
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",1039753,951486,1006386,1050759,1148212,1161087
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",194124,205314,217268,234234,249048,265933
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",25," Government",911535,950236,1000465,1084894,1164646,1211855
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",26,"  Federal",58130,60601,56443,54232,57127,60447
+ "48000","Texas",6,SAOCOMP,"Thousands of dollars",27,"  State and local",853405,889635,944022,1030662,1107519,1151408
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",1,"All Industries",2220500,2274111,2311103,2420401,2574501,2844732
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",2," Private Industries",1972144,2015082,2046930,2145643,2284308,2539561
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",16731,17039,18854,19698,20147,21521
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",4,"  Mining",1352,1150,958,750,689,1199
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",5,"  Utilities",2,2,2,2,2,2
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",6,"  Construction",40884,33716,31954,35205,41368,46804
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",199594,193394,187091,197955,210662,229323
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",8,"   Durable goods",150860,142688,134578,143079,153627,169004
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",48734,50706,52513,54876,57034,60319
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",118419,119102,122639,128060,124967,130003
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",11,"  Retail trade",563372,601513,598674,635069,661870,726438
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",191726,195826,202651,223827,249082,267931
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",13,"  Information",2936,3028,3205,3586,3696,4179
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",60486,57622,55964,58875,61021,67217
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",45601,42928,41228,40300,39722,43353
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",14884,14693,14736,18575,21299,23863
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",53122,48355,50864,56399,58855,70336
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",35937,36927,40112,41415,43834,47119
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",19,"   Educational services",33889,34863,37996,39201,41467,44483
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",2048,2064,2116,2214,2367,2636
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",656191,674853,699983,709247,770523,886936
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",347617,359959,383330,391015,419475,448569
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",308574,314894,316653,318233,351048,438367
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",31392,32555,33980,35555,37591,40553
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",25," Government",248356,259029,264173,274758,290193,305171
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",26,"  Federal",73810,79160,77080,78972,87003,92850
+ "49000","Utah",7,SAOCOMP,"Thousands of dollars",27,"  State and local",174547,179869,187093,195787,203190,212320
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",1,"All Industries",551981,564301,546460,608390,602447,612583
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",2," Private Industries",525353,535780,517081,577530,570989,580133
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",2440,2310,2523,2501,2598,2647
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",4,"  Mining",134,114,116,96,84,110
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,0,1,1,1
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",6,"  Construction",4693,4903,4739,5034,6113,6735
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",42308,43080,40786,42484,41981,44766
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",8,"   Durable goods",31878,32264,28963,30119,29720,32556
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",10430,10816,11823,12365,12261,12210
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",19383,18655,19604,20814,20324,19752
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",11,"  Retail trade",163513,168814,158533,169871,165458,175469
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",15466,15175,15273,15757,15302,15788
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",13,"  Information",752,795,817,815,800,804
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",13244,13171,11712,12508,12873,13435
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",5499,5189,4988,4892,4652,4712
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",7745,7982,6724,7616,8221,8723
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",7875,7156,7454,8011,7947,8900
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",17225,17911,19643,20909,22624,24328
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",19,"   Educational services",16371,17054,18797,19971,21647,23284
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",854,857,846,939,977,1044
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",234304,239595,231662,274234,270155,262355
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",49494,51331,54522,55203,57154,56407
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",184810,188263,177141,219031,213002,205948
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",4014,4103,4219,4495,4730,5044
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",25," Government",26628,28521,29378,30860,31457,32449
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",26,"  Federal",1129,1064,1111,1090,1178,1214
+ "50000","Vermont",1,SAOCOMP,"Thousands of dollars",27,"  State and local",25499,27457,28267,29770,30279,31235
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",1,"All Industries",4132936,4141390,4339699,4544112,4614250,4795163
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",2," Private Industries",3554110,3537164,3722564,3907431,3954515,4106889
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",53065,54554,56911,62361,60011,62469
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",4,"  Mining",2864,2341,1724,1237,988,2037
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",4,5,4,4,5,5
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",6,"  Construction",77458,74372,82558,79863,90459,100636
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",138626,136898,141318,143608,146485,146074
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",53949,51269,52278,52988,51732,54941
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",84677,85628,89040,90619,94753,91133
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",156435,152117,153972,163374,158804,163427
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1092675,1118374,1123449,1171483,1160134,1202353
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",412377,442961,471370,519252,531500,564514
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",13,"  Information",13915,14765,15564,16179,16897,17647
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",63943,62207,59816,66558,67923,70598
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",35490,33852,33620,34235,34012,36118
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",28453,28354,26197,32323,33910,34480
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",76194,68333,71967,79293,82210,96236
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",66889,67598,73295,75213,77431,79722
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",59371,60261,65514,67053,69040,71043
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",7518,7338,7781,8160,8390,8679
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1339183,1280417,1405569,1460840,1490710,1526481
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",542200,561003,596615,608994,653904,694592
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",796983,719414,808954,851846,836806,831889
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",60483,62222,65045,68167,70958,74690
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",25," Government",578826,604226,617135,636680,659735,688274
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",26,"  Federal",93600,104173,98333,96320,99414,100706
+ "51000","Virginia",5,SAOCOMP,"Thousands of dollars",27,"  State and local",485226,500053,518801,540360,560321,587568
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",1,"All Industries",4723174,4742510,4997638,5295303,5566956,5850632
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",2," Private Industries",4159017,4145230,4384460,4650120,4892733,5153886
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",82865,75121,80440,79421,83532,85017
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",4,"  Mining",89,75,70,56,50,75
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",5,"  Utilities",8,10,9,10,11,11
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",6,"  Construction",90466,106028,123693,119931,129178,144733
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",519843,511691,533903,546144,565099,537080
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",8,"   Durable goods",404219,393136,412545,421639,432808,399161
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",115624,118555,121358,124505,132292,137919
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",316787,309279,326329,346412,345540,357157
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1115058,1168150,1186864,1260446,1297606,1375660
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",478246,495230,519206,578619,647035,691391
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",13,"  Information",18114,17196,18267,20981,20450,22507
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",68222,66502,62756,67680,68524,73490
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",42090,39823,38732,38252,37329,39304
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",26132,26679,24024,29429,31196,34186
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",188879,174402,185570,210487,223016,273085
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",60347,60440,65622,66921,69189,71479
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",19,"   Educational services",54074,54362,59145,59999,61906,63835
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",6273,6078,6477,6922,7282,7644
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1154245,1091403,1208339,1275059,1362505,1438729
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",542402,567901,613166,631675,678446,711594
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",611842,523502,595173,643384,684059,727135
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",65846,69703,73394,77952,80998,83472
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",25," Government",564157,597281,613178,645183,674223,696746
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",26,"  Federal",64585,70280,67499,66909,69724,70815
+ "53000","Washington",8,SAOCOMP,"Thousands of dollars",27,"  State and local",499572,527001,545679,578274,604499,625932
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",1,"All Industries",677124,682880,674029,719156,693451,688507
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",2," Private Industries",601389,602757,591570,634743,608384,600895
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",5291,5184,5663,6088,6252,6824
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",4,"  Mining",14961,12156,9040,6467,5239,11014
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",6,"  Construction",8373,9477,12874,13430,13811,14799
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",18500,18028,18513,18881,18790,19219
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",4857,4237,4383,4534,4243,4527
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",13643,13791,14130,14347,14547,14692
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",27400,26247,27756,28145,25433,26269
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",236282,245224,230406,244222,236348,242725
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",23416,24217,23944,23940,23540,23742
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",13,"  Information",1542,1608,1674,1692,1739,1757
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",9750,9474,8742,9448,9640,9992
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",4623,4398,4283,4299,4188,4386
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",5128,5076,4459,5149,5452,5606
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",11193,9915,10453,11365,11644,12963
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",7305,7371,7814,8153,8289,8354
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",5785,5852,6277,6471,6570,6608
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1520,1519,1537,1682,1719,1747
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",230748,227154,227840,255791,240395,215763
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",78878,80346,84016,82302,83326,81427
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",151870,146808,143824,173489,157069,134336
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",6627,6700,6849,7119,7264,7469
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",25," Government",75735,80124,82459,84413,85067,87612
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",26,"  Federal",12792,13373,12916,12746,13390,13365
+ "54000","West Virginia",5,SAOCOMP,"Thousands of dollars",27,"  State and local",62943,66751,69543,71667,71677,74247
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",1,"All Industries",3419092,3479358,3619932,3667657,3774888,3889401
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",2," Private Industries",3124991,3189525,3328578,3382071,3488133,3591160
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",38390,37067,39515,41416,42382,43486
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",4,"  Mining",110,93,96,80,72,99
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",5,"  Utilities",16,19,16,19,22,21
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",6,"  Construction",60425,74390,86354,72403,73291,81140
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",730936,794391,846436,845419,901612,886836
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",8,"   Durable goods",595741,656117,708197,702842,724539,703589
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",135195,138274,138239,142577,177073,183246
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",322880,324271,341097,354536,354044,360220
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",11,"  Retail trade",743253,754172,749434,772233,775428,830992
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",127646,125037,123177,124482,125961,128454
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",13,"  Information",6220,6377,6665,7095,7137,7493
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",78246,75076,70087,72558,71550,74788
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",51408,48539,47049,45898,43649,45412
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",26838,26537,23038,26660,27901,29375
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",50577,45798,48642,54149,56872,66809
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",44096,45081,48671,50224,52272,54251
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",19,"   Educational services",39246,40191,43561,44865,46751,48594
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",4849,4890,5111,5359,5522,5658
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",886986,871195,930050,946727,984377,1010867
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",516278,536543,577904,585001,616996,634183
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",370709,334651,352145,361727,367381,376684
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",35210,36560,38337,40728,43111,45706
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",25," Government",294101,289833,291354,285587,286755,298240
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",26,"  Federal",7179,7086,7486,7605,8437,8670
+ "55000","Wisconsin",3,SAOCOMP,"Thousands of dollars",27,"  State and local",286922,282747,283868,277982,278318,289570
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",1,"All Industries",674239,709067,751583,788078,787743,829955
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",2," Private Industries",567712,596817,638610,671185,664958,702435
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",21152,23463,23090,26202,21814,"(D)"
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",4,"  Mining",5131,4363,3469,2754,2517,4848
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",5,"  Utilities",2,2,2,2,2,2
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",6,"  Construction",18946,19496,20165,16438,15872,16868
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",16261,17107,17208,19140,21310,"(D)"
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",8,"   Durable goods",1024,1044,1032,1159,1258,"(D)"
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",15237,16064,16176,17981,20051,"(D)"
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",15724,15661,17841,17798,15530,16003
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",11,"  Retail trade",155477,169198,175455,181079,175405,189858
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",18117,18062,17468,16988,15738,14772
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",13,"  Information",569,599,622,619,636,675
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",4768,4431,3997,4439,4723,4664
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",1458,1420,1393,1448,1458,1593
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",3310,3011,2604,2991,3266,3071
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",7804,6804,7308,8190,8740,9614
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",6265,6351,6897,7027,7253,7618
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",19,"   Educational services",5533,5612,6123,6223,6407,6665
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",732,739,774,804,847,953
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",294301,308087,341778,367068,371811,386285
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",56484,58349,62135,63289,67013,68739
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",237817,249739,279644,303779,304798,317546
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",3194,3192,3310,3440,3606,3910
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",25," Government",106528,112250,112973,116894,122785,127520
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",26,"  Federal",41175,44463,42448,43078,46606,48001
+ "56000","Wyoming",7,SAOCOMP,"Thousands of dollars",27,"  State and local",65352,67787,70524,73815,76179,79519
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

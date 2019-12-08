@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",6520554,6523814,6511765,6353654,5730358,5898325
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",2570799,2595532,2600893,2587093,2454646,2503403
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",1858619,1862431,1850303,1833290,1696931,1732372
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",4,"   Bicycling",8223,8618,8595,8360,9085,8272
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",340787,336046,333759,332503,306934,317086
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",6768,6829,6667,6835,6795,6847
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",46756,46235,46336,48187,46557,43662
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",8,"    Sailing",12726,12678,13473,13923,14138,14057
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",9,"    Other Boating",274537,270304,267284,263558,239445,252521
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",29755,31522,32559,33242,32793,31122
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",11,"   Equestrian",107325,114064,127097,131814,138389,149229
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",93357,104306,100155,111335,104149,106544
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",49830,55853,53997,62879,55889,57972
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",43528,48453,46157,48456,48260,48573
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",169570,159826,157940,150765,131493,144287
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",53976,51527,52477,45719,37208,40127
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",17,"   RVing",222719,224014,231343,231915,215941,232828
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",85611,79155,75686,64091,41845,49347
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",2652,2669,2638,2540,2303,2247
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",82960,76486,73048,61552,39543,47100
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",269219,258204,251140,230397,183362,195091
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",244583,233801,226122,204634,160518,173748
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",24636,24403,25018,25764,22844,21343
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",478075,495149,479552,493148,495731,458438
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",712180,733101,750589,753803,757715,771031
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",50247,51495,53334,57048,59177,61229
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",157903,171382,187742,184028,195378,202510
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",28,"   Field Sports",31374,30879,32107,33356,33132,31847
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",148567,147178,142662,143711,145111,142639
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",99869,100801,103688,96567,86709,90814
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",48855,48196,49600,48464,44899,45398
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",51013,52606,54088,48103,41809,45416
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",90071,94184,97600,102216,100874,104498
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",92125,91640,91160,95167,95494,96104
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",42025,45542,42297,41710,41841,41390
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",3949755,3928282,3910872,3766561,3275713,3394922
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",37,"   Construction",168092,184704,201372,213310,208850,218174
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",1274571,1205802,1176056,1050746,791239,873448
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",2168868,2178304,2157681,2111014,1879862,1888091
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",227318,182670,188305,206028,222633,207073
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",41,"    Lodging",331187,340058,342136,390459,411405,352809
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",260148,261408,265874,253076,232242,230445
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",43,"    Transportation",1350215,1394168,1361365,1261451,1013583,1097764
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",338224,359472,375763,391491,395760,415209
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",45,"    Federal Government",7714,8644,8738,8570,8658,8362
+ "22000","Louisiana",5,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",330510,350828,367025,382922,387103,406847
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

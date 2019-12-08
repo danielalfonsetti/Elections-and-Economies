@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",1,"All Industries",4967677,5042833,5265036,5635321,5962343,6274833
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",2," Private Industries",4461519,4514299,4730220,5081841,5395700,5687701
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",67303,69978,67908,74869,64542,66433
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",4,"  Mining",86,81,89,83,85,111
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",6,7,6,7,8,8
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",6,"  Construction",74715,69021,71431,110786,130173,143998
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",423942,436985,456371,467794,484854,541765
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",264842,278681,290673,305454,318467,381333
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",159099,158304,165698,162340,166387,160432
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",316538,314045,327364,349907,366762,373351
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",1207544,1233131,1248811,1315226,1300177,1392935
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",806248,831272,890012,999650,1155613,1193289
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",13,"  Information",17497,18176,19303,19496,20000,20907
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",77948,77136,76512,85464,88138,92768
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",40178,38611,38015,38264,37127,38733
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",37770,38526,38497,47200,51011,54035
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",113289,104281,109649,119453,117513,130621
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",63919,65348,70562,72948,76149,78260
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",57009,58407,63298,65290,68027,69739
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",6909,6941,7264,7658,8122,8521
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1218668,1218340,1311684,1380636,1502188,1557261
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",611143,644333,698327,733365,799297,849054
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",607524,574007,613356,647271,702891,708207
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",73818,76498,80518,85523,89498,95995
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",25," Government",506158,528534,534816,553481,566643,587132
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",26,"  Federal",56860,63529,60870,60278,61632,60852
+ "13000","Georgia",5,SAOCOMP,"Thousands of dollars",27,"  State and local",449298,465006,473946,493202,505010,526280
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",1,"All Industries",1865675,1912174,1981914,2073077,2171780,2328949
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",2," Private Industries",1752426,1793958,1857566,1944368,2039091,2191639
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",77585,91753,92436,103774,92922,98197
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",4,"  Mining",355,316,269,232,223,324
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",5,"  Utilities",3,4,3,3,4,3
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",6,"  Construction",15023,18322,19635,21452,24359,26990
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",7,"  Manufacturing",192391,209559,222470,239110,241476,295780
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",8,"   Durable goods",107240,117781,126791,139922,146914,198527
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",9,"   Nondurable goods",85151,91778,95679,99188,94562,97253
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",10,"  Wholesale trade",115197,114254,120006,128134,141080,143276
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",11,"  Retail trade",584831,607159,611114,633335,650700,695638
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",139691,143483,143607,151375,192349,174122
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",13,"  Information",3020,3202,3207,3415,3632,3863
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",130698,122118,118052,128839,133764,139219
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",15,"   Finance and insurance",18613,16529,20403,22599,23064,22405
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",112085,105589,97649,106241,110701,116814
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",17,"  Professional and business services",32213,31786,33283,35197,35425,38494
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",14013,13775,14823,14930,15499,16286
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",19,"   Educational services",11775,11696,12611,12636,13068,13662
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",2238,2079,2212,2293,2432,2624
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",428507,419102,458480,463115,483955,532539
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",169015,169572,179778,185381,196783,206892
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",259492,249530,278702,277734,287172,325647
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",24,"  Other services, except government",18900,19127,20180,21456,23704,26906
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",25," Government",113249,118215,124348,128709,132688,137311
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",26,"  Federal",32347,32340,33770,33024,34857,35427
+ "16000","Idaho",7,SAOVA,"Thousands of dollars",27,"  State and local",80902,85875,90579,95685,97831,101884
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

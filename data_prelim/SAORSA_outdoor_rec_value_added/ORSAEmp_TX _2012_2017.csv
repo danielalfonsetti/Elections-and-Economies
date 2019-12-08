@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "48000","Texas",6,SAOEMP,"Number of jobs",1,"All Industries",306158,311482,317929,327944,336136,340798
+ "48000","Texas",6,SAOEMP,"Number of jobs",2," Private Industries",291838,297086,303210,312647,320263,324713
+ "48000","Texas",6,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",3879,3787,4020,4313,4207,4342
+ "48000","Texas",6,SAOEMP,"Number of jobs",4,"  Mining",123,126,122,112,124,117
+ "48000","Texas",6,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "48000","Texas",6,SAOEMP,"Number of jobs",6,"  Construction",7180,7817,8236,8549,8833,8957
+ "48000","Texas",6,SAOEMP,"Number of jobs",7,"  Manufacturing",12750,12892,12852,13471,13730,14184
+ "48000","Texas",6,SAOEMP,"Number of jobs",8,"   Durable goods",5583,5814,5826,6133,6296,6786
+ "48000","Texas",6,SAOEMP,"Number of jobs",9,"   Nondurable goods",7166,7079,7026,7338,7434,7398
+ "48000","Texas",6,SAOEMP,"Number of jobs",10,"  Wholesale trade",8762,8630,8776,8908,8650,8789
+ "48000","Texas",6,SAOEMP,"Number of jobs",11,"  Retail trade",124742,131415,131583,134973,133601,132757
+ "48000","Texas",6,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",18146,17767,17761,18728,19135,19579
+ "48000","Texas",6,SAOEMP,"Number of jobs",13,"  Information",436,442,448,455,464,470
+ "48000","Texas",6,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",3136,3140,3051,3182,3265,3352
+ "48000","Texas",6,SAOEMP,"Number of jobs",15,"   Finance and insurance",1084,1030,988,989,986,1013
+ "48000","Texas",6,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",2053,2111,2063,2193,2279,2339
+ "48000","Texas",6,SAOEMP,"Number of jobs",17,"  Professional and business services",5325,5361,5477,5779,6239,6317
+ "48000","Texas",6,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",6424,6950,7361,7739,8227,8640
+ "48000","Texas",6,SAOEMP,"Number of jobs",19,"   Educational services",6148,6672,7073,7441,7913,8317
+ "48000","Texas",6,SAOEMP,"Number of jobs",20,"   Health care and social assistance",276,278,287,299,314,323
+ "48000","Texas",6,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",96391,94142,98734,101575,108873,112254
+ "48000","Texas",6,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",53598,55267,58664,60727,65015,68160
+ "48000","Texas",6,SAOEMP,"Number of jobs",23,"   Accommodation and food services",42793,38875,40070,40849,43859,44093
+ "48000","Texas",6,SAOEMP,"Number of jobs",24,"  Other services, except government",4543,4614,4788,4862,4916,4956
+ "48000","Texas",6,SAOEMP,"Number of jobs",25," Government",14321,14396,14719,15297,15873,16085
+ "48000","Texas",6,SAOEMP,"Number of jobs",26,"  Federal",492,483,423,400,431,444
+ "48000","Texas",6,SAOEMP,"Number of jobs",27,"  State and local",13829,13914,14297,14896,15442,15641
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

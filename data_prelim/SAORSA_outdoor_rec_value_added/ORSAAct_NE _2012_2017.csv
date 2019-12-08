@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",1984716,2037836,2038786,2137538,2179843,2273407
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",1117175,1170005,1162537,1186679,1209720,1317491
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",728016,774576,769085,787858,806086,889006
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",4,"   Bicycling",8778,9631,8361,7963,9677,10928
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",80553,83183,82915,83433,84061,92293
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",1549,1629,1688,1757,1832,1954
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",17635,17663,17257,17512,17621,18153
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",8,"    Sailing",2074,2261,2453,2610,2753,2809
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",9,"    Other Boating",59295,61629,61517,61555,61854,69378
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",19852,20478,20671,21118,21631,21865
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",11,"   Equestrian",95884,100412,114443,117082,121830,130307
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",48588,56629,55718,63949,64031,77383
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",21703,24536,24193,28999,28410,34316
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",26885,32093,31525,34950,35621,43067
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",157764,173744,161137,158784,161628,190414
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",4278,4752,4993,5159,5357,5318
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",17,"   RVing",54322,56060,58949,62650,63361,65735
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",8016,7756,8277,8566,9164,9300
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",2893,3060,3388,3431,3050,3120
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",5123,4696,4889,5135,6115,6180
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",46687,48114,48817,50380,51260,52882
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",37253,38456,38613,39593,40626,42568
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",9434,9658,10203,10787,10634,10313
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",203295,213818,204803,208774,214085,232581
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",389159,395429,393452,398821,403633,428485
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",16696,17035,17647,18890,20288,22070
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",19869,21834,23338,21888,23415,23684
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",28,"   Field Sports",16353,16361,16395,16883,17368,18339
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",116077,116375,112815,112795,116987,121723
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",58432,58419,60473,59592,55262,62553
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",31849,32126,33340,33851,32832,36023
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",26583,26293,27133,25741,22430,26529
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",97580,98384,98012,98815,99538,104673
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",40764,41336,42075,47161,46642,48505
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",23388,25686,22697,22797,24133,26938
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",867541,867831,876248,950859,970124,955916
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",37,"   Construction",49172,44960,45980,44169,46963,49978
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",190114,191913,197402,207124,208420,210243
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",536433,530544,526449,585903,598582,574942
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",100888,84680,79482,93854,96169,90746
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",41,"    Lodging",145392,154345,147744,179063,187157,165176
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",175595,178199,182927,191427,195342,196679
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",43,"    Transportation",114558,113320,116296,121559,119914,122341
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",91821,100414,106417,113662,116159,120753
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",45,"    Federal Government",6653,6828,7054,6728,6880,6632
+ "31000","Nebraska",4,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",85168,93587,99363,106933,109279,114121
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

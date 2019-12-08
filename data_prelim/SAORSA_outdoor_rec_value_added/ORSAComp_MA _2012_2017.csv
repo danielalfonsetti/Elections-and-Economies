@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",1,"All Industries",4066586,4152258,4230001,4464489,4732883,4907443
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",2," Private Industries",3767512,3834091,3903504,4125097,4383964,4546628
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",29645,28527,29111,30783,34443,33714
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",4,"  Mining",9,8,8,8,7,9
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",5,"  Utilities",32,39,34,43,50,46
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",6,"  Construction",54453,57488,66983,67997,79416,90402
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",373600,372239,352126,370034,451308,487878
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",8,"   Durable goods",245912,239479,226883,241919,244239,280139
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",127688,132760,125243,128115,207069,207740
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",288054,279537,294156,312362,306185,307060
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",11,"  Retail trade",967902,1005730,984388,1029810,1045321,1056129
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",282333,291561,302086,334361,370180,388171
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",13,"  Information",15201,15314,15829,16777,16528,17488
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",98846,95795,92142,101821,104434,111983
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",61679,58684,57845,59621,60729,66538
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",37167,37110,34297,42200,43705,45445
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",128328,118102,123930,136559,140639,170494
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",125353,128905,138363,143731,150983,157227
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",19,"   Educational services",117699,121112,130363,135269,142111,148091
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",7654,7793,8000,8462,8872,9136
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1347706,1382280,1442728,1514655,1615025,1651164
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",733274,764950,823840,843714,907797,958112
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",614431,617330,618888,670941,707227,693052
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",56050,58567,61620,66157,69446,74864
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",25," Government",299074,318166,326497,339391,348919,360815
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",26,"  Federal",59923,66577,62004,60681,61753,60301
+ "25000","Massachusetts",1,SAOCOMP,"Thousands of dollars",27,"  State and local",239151,251590,264493,278710,287166,300513
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

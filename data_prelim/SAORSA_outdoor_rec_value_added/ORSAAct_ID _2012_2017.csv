@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",1865675,1912174,1981914,2073077,2171780,2328949
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",933408,978366,1002706,1076797,1107023,1208567
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",655484,692704,714513,776652,803981,891370
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",4,"   Bicycling",9748,10192,9857,10012,11245,11711
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",90031,91868,93888,100430,104823,112086
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",1961,1985,2039,2222,2444,2665
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",20206,20720,19988,21027,20953,21072
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",8,"    Sailing",3634,3669,3918,4045,4267,4396
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",9,"    Other Boating",64230,65494,67942,73136,77160,83954
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",15698,16881,17217,18406,18627,19119
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",11,"   Equestrian",74309,77565,83608,88175,94381,109258
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",88721,103155,107435,134154,131028,159943
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",55142,64102,66473,87230,80507,95400
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",33579,39053,40962,46924,50521,64543
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",42466,40223,40040,42562,45288,47155
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",3704,3821,3865,3912,4030,4251
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",17,"   RVing",103824,113867,124512,136170,144029,168340
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",46806,45414,48797,50834,50784,53062
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",29944,29419,31648,32986,33083,35124
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",16862,15995,17149,17848,17701,17938
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",35362,36380,37291,39248,41386,42491
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",26850,27860,28305,29471,31553,32675
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",8511,8521,8986,9777,9834,9816
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",144815,153338,148005,152749,158359,163954
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",277924,285662,288193,300145,303042,317197
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",22732,22740,23555,25123,26876,29776
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",10033,11181,12067,11679,12693,13234
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",28,"   Field Sports",17729,17889,18349,19741,20072,20453
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",90357,92010,88755,91438,94679,98608
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",42518,43224,45334,43869,39325,41496
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",25925,26545,27365,27987,25306,26117
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",16593,16680,17969,15882,14020,15380
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",34442,35903,36795,38987,40348,43204
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",46592,48176,49780,54883,54366,55245
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",13521,14539,13558,14424,14682,15181
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",932267,933808,979208,996280,1064757,1120382
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",37,"   Construction",14802,19403,20691,22698,25669,28411
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",174530,176642,190376,192683,198389,211818
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",642223,632593,657874,666853,723112,758570
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",126872,105284,115496,113664,120021,140115
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",41,"    Lodging",192480,195253,199221,203030,207209,226536
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",157259,162701,172816,170166,171124,182435
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",43,"    Transportation",165612,169355,170340,179993,224758,209484
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",100711,105170,110267,114046,117587,121584
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",45,"    Federal Government",30616,30557,31961,31404,32982,33493
+ "16000","Idaho",7,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",70096,74612,78307,82642,84605,88091
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

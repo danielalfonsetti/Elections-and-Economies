@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",1,"All Industries",47759,48205,47531,47219,48695,48390
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",2," Private Industries",45505,46064,45381,45115,46580,46228
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",569,532,560,593,598,596
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",4,"  Mining",0,0,0,0,0,0
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",6,"  Construction",530,551,896,1003,933,935
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",7,"  Manufacturing",1519,1551,1527,1561,1556,1496
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",8,"   Durable goods",1056,1103,1083,1126,1114,1060
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",9,"   Nondurable goods",462,448,444,436,441,436
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",10,"  Wholesale trade",1653,1604,1613,1616,1552,1523
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",11,"  Retail trade",17925,18053,17352,17143,17381,16698
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",1273,1258,1238,1238,1225,1204
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",13,"  Information",82,83,82,81,80,76
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",616,594,565,570,570,579
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",15,"   Finance and insurance",345,323,307,299,289,294
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",271,270,258,271,280,284
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",17,"  Professional and business services",602,600,604,617,642,624
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",1534,1630,1702,1737,1783,1796
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",19,"   Educational services",1476,1571,1642,1676,1721,1734
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",20,"   Health care and social assistance",58,59,60,60,62,62
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",18501,18903,18524,18244,19546,19993
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",10035,10432,11026,11252,11745,12025
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",23,"   Accommodation and food services",8467,8470,7499,6992,7801,7968
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",24,"  Other services, except government",700,704,718,713,713,707
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",25," Government",2254,2141,2149,2103,2116,2162
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",26,"  Federal",12,12,13,12,14,14
+ "09000","Connecticut",1,SAOEMP,"Number of jobs",27,"  State and local",2242,2129,2137,2091,2102,2148
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

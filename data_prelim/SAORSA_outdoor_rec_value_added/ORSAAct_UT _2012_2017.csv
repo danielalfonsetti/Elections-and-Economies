@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",4284328,4421631,4522054,4757688,5007539,5514051
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",2200957,2233996,2298846,2426673,2530502,2713286
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",1448170,1480331,1538282,1646083,1714720,1842019
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",4,"   Bicycling",30440,31467,31527,31999,34324,35497
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",150609,150472,159628,170212,177855,192153
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",2959,2787,3000,3219,3510,3930
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",35948,36593,38092,39434,41067,42513
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",8,"    Sailing",8503,8619,9460,10847,11744,12417
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",9,"    Other Boating",103200,102472,109076,116712,121534,133294
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",33107,34883,35929,38206,38957,40396
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",11,"   Equestrian",58523,60903,66435,69844,74713,84876
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",87238,97175,92631,103291,106910,123258
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",33572,37110,35025,41128,41296,48540
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",53666,60066,57606,62163,65614,74719
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",68985,69312,72349,80373,83324,87617
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",11722,12271,13066,13970,14350,14956
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",17,"   RVing",152392,162809,173605,193732,200482,218329
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",448682,434736,473104,498322,520158,549150
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",290021,285023,307239,323258,341566,367983
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",158661,149713,165866,175063,178593,181167
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",92015,93291,96697,102234,103994,109077
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",72971,75625,77465,80716,80935,85678
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",19044,17666,19232,21518,23059,23399
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",314456,333012,323311,343900,359653,386709
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",752787,753664,760564,780590,815783,871266
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",57377,57591,59666,64351,70293,80599
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",89748,96555,107153,107440,118165,128646
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",28,"   Field Sports",42449,41519,43939,47454,50215,50913
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",252022,245851,230135,231528,245169,250906
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",110586,107790,110304,106402,102675,118262
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",59551,58224,60439,59747,59574,67322
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",51034,49566,49865,46655,43101,50940
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",58400,61366,62645,66550,69328,75136
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",108111,107307,112470,120548,122561,126592
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",34095,35686,34251,36316,37376,40212
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",2083371,2187635,2223208,2331016,2477037,2800765
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",37,"   Construction",67426,57438,55472,66738,77577,84922
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",311793,331958,339664,338650,339523,380248
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",1376380,1448995,1471609,1559351,1680791,1933473
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",239838,218386,216092,224061,246273,304263
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",41,"    Lodging",369793,424356,409066,420891,463710,566008
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",258387,282321,282121,286449,295845,337916
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",43,"    Transportation",508362,523932,564330,627950,674963,725286
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",327772,349244,356463,366276,379145,402122
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",45,"    Federal Government",115249,125748,122333,124328,135811,145312
+ "49000","Utah",7,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",212523,223496,234131,241948,243334,256810
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

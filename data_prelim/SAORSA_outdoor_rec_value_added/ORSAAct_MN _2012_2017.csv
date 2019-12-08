@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",8069738,8417772,8554889,8992312,9268658,9638553
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",4548812,4852784,4880084,5095575,5148747,5410894
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",3024930,3275563,3273696,3437490,3441448,3635061
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",4,"   Bicycling",47210,50340,49633,49267,56646,57906
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",559865,586996,592314,611308,610056,631370
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",11978,12731,12807,13578,14581,15037
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",141875,143395,147415,156490,155811,150336
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",8,"    Sailing",15863,16378,17742,18699,19784,20039
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",9,"    Other Boating",390150,414492,414350,422540,419879,445958
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",145291,153683,156836,157300,158555,149266
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",11,"   Equestrian",145406,159432,190143,196444,202385,221299
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",320685,376096,351603,382080,355412,414837
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",172266,194740,180293,201132,177365,206275
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",148419,181356,171310,180947,178047,208563
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",563731,683319,643313,676953,652184,721838
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",16946,16870,17789,17661,17260,17117
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",17,"   RVing",237884,247927,260253,274437,288157,319703
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",144716,138086,150886,152173,149718,149706
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",69800,65819,75128,78134,75212,76256
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",74916,72267,75758,74039,74506,73450
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",217154,217011,221468,232464,249597,255126
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",152140,154021,155555,164051,182588,190909
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",65014,62990,65914,68414,67009,64217
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",626040,645802,639458,687403,701477,696893
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",1523883,1577221,1606388,1658085,1707299,1775834
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",87907,89027,92418,99707,107219,119703
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",208563,221994,246616,247702,270869,290706
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",28,"   Field Sports",76093,76447,82459,88996,96374,94535
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",438133,443218,433103,442697,469928,470772
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",145035,141081,148268,139826,125983,134601
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",71228,71199,74543,73704,70659,73047
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",73807,69882,73725,66122,55323,61554
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",311057,334789,332840,336571,331223,347718
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",188090,189503,201380,228096,223358,221458
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",69005,81162,69304,74490,82344,96340
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",3520926,3564988,3674805,3896737,4119911,4227658
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",37,"   Construction",125677,110775,120730,128613,139205,149442
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",656018,654203,666905,671504,678299,698448
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",2282254,2305781,2359673,2527929,2714249,2760273
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",233390,202083,213206,219104,227320,229461
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",41,"    Lodging",498405,522764,473074,508633,564121,560558
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",434898,447664,450749,466729,506469,516113
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",43,"    Transportation",1115561,1133270,1222644,1333463,1416339,1454141
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",456977,494229,527497,568691,588158,619495
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",45,"    Federal Government",12811,13487,13962,14219,15344,16057
+ "27000","Minnesota",4,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",444166,480742,513535,554472,572814,603438
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

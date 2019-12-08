@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",1,"All Industries",5830955,5992162,6079530,6362654,6473486,6761351
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",2," Private Industries",5446829,5586794,5663489,5935534,6041228,6311424
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",102085,115870,121024,127490,125122,135286
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",4,"  Mining",1371,1064,750,518,449,1019
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",5,"  Utilities",26,27,24,27,31,32
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",6,"  Construction",69117,73571,81628,90507,103046,110622
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",7,"  Manufacturing",976358,1042902,1057086,1079395,1141339,1176775
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",8,"   Durable goods",589612,631340,635538,642148,636505,668010
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",9,"   Nondurable goods",386747,411562,421547,437247,504833,508765
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",10,"  Wholesale trade",464516,448057,469480,490239,479064,475198
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",11,"  Retail trade",1473894,1496928,1461403,1510760,1503475,1547960
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",441510,467337,479678,500215,491962,497325
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",13,"  Information",37281,38877,38864,40854,41434,44668
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",312863,305478,288287,336728,341338,354856
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",15,"   Finance and insurance",66992,60550,73472,81120,81835,78549
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",245871,244928,214815,255608,259503,276307
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",17,"  Professional and business services",110013,107194,112509,122599,129992,149143
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",46836,47125,49950,50534,51964,52884
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",19,"   Educational services",38158,38895,41546,41777,43082,43742
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",8678,8229,8404,8757,8882,9142
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1342193,1372892,1430688,1510899,1554989,1685097
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",738390,765166,829732,858146,919073,968809
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",603804,607726,600956,652754,635916,716288
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",24,"  Other services, except government",68765,69471,72120,74769,77025,80560
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",25," Government",384126,405368,416041,427119,432258,449927
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",26,"  Federal",46692,52067,48790,46164,44657,41733
+ "29000","Missouri",4,SAOVA,"Thousands of dollars",27,"  State and local",337434,353301,367251,380955,387602,408194
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

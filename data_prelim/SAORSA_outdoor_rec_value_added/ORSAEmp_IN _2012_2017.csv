@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "18000","Indiana",3,SAOEMP,"Number of jobs",1,"All Industries",93445,95623,95887,97312,102001,108535
+ "18000","Indiana",3,SAOEMP,"Number of jobs",2," Private Industries",89439,91719,91934,93210,97696,104160
+ "18000","Indiana",3,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",465,448,490,520,528,564
+ "18000","Indiana",3,SAOEMP,"Number of jobs",4,"  Mining",22,17,13,10,8,17
+ "18000","Indiana",3,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "18000","Indiana",3,SAOEMP,"Number of jobs",6,"  Construction",1780,1224,1291,1512,1611,1642
+ "18000","Indiana",3,SAOEMP,"Number of jobs",7,"  Manufacturing",23081,25498,24990,25358,29154,35577
+ "18000","Indiana",3,SAOEMP,"Number of jobs",8,"   Durable goods",21033,23491,22976,23337,27059,33493
+ "18000","Indiana",3,SAOEMP,"Number of jobs",9,"   Nondurable goods",2049,2007,2014,2021,2095,2083
+ "18000","Indiana",3,SAOEMP,"Number of jobs",10,"  Wholesale trade",2065,2028,2035,2034,1948,1941
+ "18000","Indiana",3,SAOEMP,"Number of jobs",11,"  Retail trade",29765,30087,29691,29760,29765,30163
+ "18000","Indiana",3,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",2795,2846,2809,2550,2542,2627
+ "18000","Indiana",3,SAOEMP,"Number of jobs",13,"  Information",111,111,110,109,106,101
+ "18000","Indiana",3,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",759,759,733,751,751,766
+ "18000","Indiana",3,SAOEMP,"Number of jobs",15,"   Finance and insurance",326,305,288,278,268,272
+ "18000","Indiana",3,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",432,453,445,473,483,494
+ "18000","Indiana",3,SAOEMP,"Number of jobs",17,"  Professional and business services",1090,1095,1116,1165,1242,1243
+ "18000","Indiana",3,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",1694,1817,1910,1986,2079,2142
+ "18000","Indiana",3,SAOEMP,"Number of jobs",19,"   Educational services",1607,1728,1818,1891,1982,2045
+ "18000","Indiana",3,SAOEMP,"Number of jobs",20,"   Health care and social assistance",87,89,92,95,97,97
+ "18000","Indiana",3,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",24654,24627,25553,26265,26779,26206
+ "18000","Indiana",3,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",13664,14125,14850,15082,15666,16089
+ "18000","Indiana",3,SAOEMP,"Number of jobs",23,"   Accommodation and food services",10990,10502,10703,11183,11113,10117
+ "18000","Indiana",3,SAOEMP,"Number of jobs",24,"  Other services, except government",1158,1162,1193,1190,1183,1171
+ "18000","Indiana",3,SAOEMP,"Number of jobs",25," Government",4006,3904,3953,4102,4305,4375
+ "18000","Indiana",3,SAOEMP,"Number of jobs",26,"  Federal",194,203,175,158,153,148
+ "18000","Indiana",3,SAOEMP,"Number of jobs",27,"  State and local",3812,3701,3779,3944,4153,4227
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

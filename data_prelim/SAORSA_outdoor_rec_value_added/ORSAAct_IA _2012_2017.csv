@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",2994091,3095583,3092082,3135182,3295731,3442812
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",1836090,1918424,1916095,1924813,1962688,2111618
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",1115523,1197136,1211091,1238645,1286041,1389040
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",4,"   Bicycling",13446,13796,13032,13020,14068,14542
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",122800,123414,123474,127346,130250,139288
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",3634,3630,3788,4015,4351,4507
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",22829,22275,22021,22180,22479,22707
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",8,"    Sailing",5681,5734,6068,6423,6887,7066
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",9,"    Other Boating",90655,91774,91597,94728,96533,105008
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",27222,29471,29517,30884,32603,30793
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",11,"   Equestrian",134987,146050,171445,179048,184326,208830
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",47867,53766,51526,59380,59403,66587
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",24852,28317,28026,34464,33203,37827
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",23014,25448,23500,24916,26200,28760
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",108015,118818,122898,128287,128470,131485
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",7841,8449,8830,9077,9490,9523
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",17,"   RVing",263459,295481,292446,304261,338209,373661
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",11888,11696,12922,13801,14132,13838
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",6784,6686,7322,7707,7643,7709
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",5103,5010,5600,6094,6489,6129
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",69712,71467,72471,74585,77343,79777
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",56434,58426,58894,60370,63155,65915
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",13278,13040,13576,14215,14188,13862
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",308286,324729,312530,298955,297747,320715
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",720568,721288,705004,686168,676647,722578
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",34991,35328,36507,39176,41952,45760
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",38222,41033,45571,46220,52971,56268
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",28,"   Field Sports",25944,25065,25642,26641,27151,27318
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",171294,165465,159667,158411,163181,164808
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",122793,124435,115955,95656,72040,96701
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",38456,38530,40875,38311,33025,36948
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",84337,85905,75080,57346,39015,59753
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",226165,225964,221393,216382,215259,225275
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",61450,60578,60925,64411,65272,66692
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",39709,43419,39344,39271,38822,39756
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",1158001,1177158,1175987,1210369,1333043,1331194
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",37,"   Construction",84650,77700,66957,66500,72471,76810
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",271244,277405,282909,293540,321880,329756
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",652232,668930,668254,689477,775037,753104
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",107384,96000,93508,94148,112676,105879
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",41,"    Lodging",151648,173450,166869,176572,210951,182449
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",251716,258638,264746,267222,287319,292742
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",43,"    Transportation",141483,140842,143132,151536,164090,172034
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",149875,153123,157867,160851,163655,171523
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",45,"    Federal Government",3636,3794,3801,3717,3946,3940
+ "19000","Iowa",4,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",146239,149329,154066,157133,159710,167583
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

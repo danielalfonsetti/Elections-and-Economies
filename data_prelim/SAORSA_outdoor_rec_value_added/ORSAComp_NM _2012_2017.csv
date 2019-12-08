@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",1,"All Industries",1027075,1047113,1066475,1124042,1145981,1167986
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",2," Private Industries",858465,870526,883950,935616,953040,966658
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",9491,9204,10407,10527,11020,11700
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",4,"  Mining",1882,1703,1487,1324,1324,1685
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,2,1,1,2,2
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",6,"  Construction",27229,24407,27482,24412,25055,27421
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",23639,23978,24078,25050,25473,27915
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",8,"   Durable goods",6499,6209,6311,6374,5853,6699
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",17140,17769,17767,18676,19621,21216
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",22985,22554,23748,24885,23320,23902
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",11,"  Retail trade",293493,303622,300878,317169,319971,325587
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",40792,39840,40003,41117,42717,44068
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",13,"  Information",1567,1635,1716,1634,1636,1717
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",18373,18499,17187,18480,19672,22621
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",10401,9842,9623,9949,10474,12157
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",7972,8657,7565,8531,9198,10464
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",18758,16440,17292,18582,18891,20687
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",13083,13174,14159,14569,15237,16106
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",19,"   Educational services",11475,11571,12530,12837,13440,14238
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1609,1603,1629,1731,1797,1868
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",376643,384609,394245,425994,436290,430188
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",98995,101786,108056,111350,120987,126951
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",277647,282823,286188,314643,315303,303237
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",10528,10858,11266,11872,12434,13059
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",25," Government",168610,176587,182525,188426,192940,201328
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",26,"  Federal",22967,23223,23517,23126,24817,25375
+ "35000","New Mexico",6,SAOCOMP,"Thousands of dollars",27,"  State and local",145642,153364,159007,165301,168124,175953
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",29596246,31280199,31969868,33533816,32281895,34565594
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",14163299,15336259,15553110,16327861,16125698,17138411
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",9362360,10222977,10291806,10849600,10525747,11188472
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",4,"   Bicycling",78465,97527,97564,99305,107331,104798
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",1302902,1384578,1426837,1506870,1500492,1587775
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",22759,23809,24765,26443,28739,30054
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",204810,242525,235651,244370,238203,229155
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",8,"    Sailing",63551,65114,69396,72685,75125,73779
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",9,"    Other Boating",1011782,1053129,1097025,1163373,1158425,1254786
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",192631,216266,226094,241733,243784,243195
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",11,"   Equestrian",509716,530119,581111,610546,648003,731292
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",722613,920706,905969,1092182,987310,1047559
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",503151,619078,620521,779825,668260,703248
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",219462,301628,285448,312357,319050,344311
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",645407,645515,664226,693638,637502,690024
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",213401,242079,253531,248998,222685,243299
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",17,"   RVing",1184700,1251708,1303974,1358044,1334380,1484522
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",243676,266347,267264,264675,194554,237143
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",28643,35613,37838,39130,34032,34454
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",215033,230734,229425,225545,160522,202689
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",1031553,1106181,1111096,1138203,1054497,1166832
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",930672,1001995,1001063,1020503,936923,1052499
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",100881,104186,110033,117699,117575,114333
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",3237295,3561949,3454142,3595407,3595208,3652032
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",4800939,5113282,5261304,5478261,5599951,5949940
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",482925,480684,496614,531058,574575,643170
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",635206,663989,726961,708830,778596,846453
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",28,"   Field Sports",204656,236678,247622,267346,279306,283907
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",1161232,1306659,1292845,1356253,1402787,1440466
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",793720,811489,855068,841342,786460,880295
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",451360,468023,500534,517052,508535,541622
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",342360,343466,354534,324290,277926,338673
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",469160,484945,502034,530724,552783,594758
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",744374,798200,825553,918095,908569,933346
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",309665,330640,314607,324613,316874,327545
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",15432947,15943940,16416759,17205955,16156198,17427183
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",37,"   Construction",435309,468635,513048,547541,610899,656788
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",4665192,4853440,4949271,4978548,4212859,4747777
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",9456458,9707648,9997759,10671356,10282844,10915727
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",738254,595962,613608,651569,734116,785605
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",41,"    Lodging",1151619,1160955,1122627,1242661,1295093,1223174
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",1781164,1809042,1894007,1947921,1843080,1846185
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",43,"    Transportation",5785421,6141689,6367517,6829205,6410556,7060762
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",875988,914217,956680,1008510,1049595,1106890
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",45,"    Federal Government",54351,54610,49885,48818,54104,57481
+ "48000","Texas",6,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",821637,859607,906795,959693,995491,1049410
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

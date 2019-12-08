@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",1,"All Industries",7661335,7904890,7973559,8515677,8918059,9210427
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",2," Private Industries",7354868,7550180,7607993,8129822,8522353,8803667
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",66037,74838,69344,67762,62290,63037
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",4,"  Mining",44,43,44,35,33,43
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",5,"  Utilities",61,65,57,71,83,81
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",6,"  Construction",82968,89233,106498,116679,135223,148828
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",7,"  Manufacturing",758845,770624,718993,757136,881712,982280
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",8,"   Durable goods",497964,510959,466078,492284,517415,616743
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",9,"   Nondurable goods",260882,259665,252915,264852,364297,365536
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",10,"  Wholesale trade",746878,755844,797405,826831,798263,786419
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",11,"  Retail trade",1755683,1837357,1799531,1873887,1914113,1940554
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",547645,575261,623287,706638,772286,814019
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",13,"  Information",47224,46866,46916,50567,52105,55971
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",620930,600382,538324,628379,642894,643326
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",15,"   Finance and insurance",116156,104407,125923,137441,137350,131140
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",504774,495975,412401,490938,505543,512186
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",17,"  Professional and business services",323294,314264,322083,345088,357810,418894
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",120129,124261,131409,132048,139901,145477
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",19,"   Educational services",105796,110434,117254,117077,124235,129400
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",14333,13826,14154,14971,15667,16077
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",2168586,2240662,2327662,2490282,2625918,2655547
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",1065351,1086146,1164502,1190394,1280723,1363963
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",1103235,1154515,1163159,1299888,1345194,1291584
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",24,"  Other services, except government",116544,120482,126440,134419,139722,149192
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",25," Government",306467,354710,365566,385855,395706,406760
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",26,"  Federal",103158,119343,111274,107375,107847,106067
+ "25000","Massachusetts",1,SAOVA,"Thousands of dollars",27,"  State and local",203309,235367,254292,278481,287859,300693
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

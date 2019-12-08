@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",1,"All Industries",825117,873228,895623,959327,971374,1068201
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",2," Private Industries",749097,793619,815185,876815,884199,978075
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",13113,13529,14658,14534,15494,15436
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",4,"  Mining",1049,914,772,625,585,1066
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",6,"  Construction",9352,11381,9593,9575,11148,12484
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",37955,39851,39103,43074,47075,55391
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",8,"   Durable goods",16988,18387,17775,20894,23444,28729
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",20967,21464,21327,22180,23630,26663
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",54786,57172,58245,61967,59026,59547
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",11,"  Retail trade",217122,233761,241792,253775,246931,256506
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",53694,58414,57374,72254,63973,81163
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",13,"  Information",936,991,1032,1025,1034,1046
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",11812,11877,11290,12344,12505,13520
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",6012,5638,5413,5306,5150,5405
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",5800,6239,5878,7038,7354,8116
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",12324,10917,11736,13285,14223,16027
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",8408,8610,9369,9707,10059,10501
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",19,"   Educational services",7524,7705,8431,8695,9020,9376
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",884,905,939,1012,1039,1125
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",323365,340817,354543,378521,395518,448190
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",156730,161827,173191,178742,191927,198144
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",166635,178991,181352,199779,203591,250047
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",5180,5382,5675,6128,6629,7196
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",25," Government",76020,79609,80438,82513,87175,90125
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",26,"  Federal",37501,39221,38566,38875,42397,44163
+ "30000","Montana",7,SAOCOMP,"Thousands of dollars",27,"  State and local",38519,40388,41872,43638,44778,45962
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",1,"All Industries",10036876,9998758,10388895,10837646,11243194,11222802
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",2," Private Industries",9615205,9557786,9937229,10381506,10782412,10744273
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",68113,78937,74270,79501,70656,73248
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",4,"  Mining",76,78,79,62,55,70
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",5,"  Utilities",26,27,24,26,29,27
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",6,"  Construction",111410,119374,121916,134358,157721,169496
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",7,"  Manufacturing",898098,875640,905834,902716,905156,901545
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",8,"   Durable goods",192654,185776,186677,191412,192836,200222
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",9,"   Nondurable goods",705444,689863,719157,711304,712320,701324
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",10,"  Wholesale trade",1019954,1014012,1058112,1120287,1087577,1068301
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",11,"  Retail trade",2560228,2623684,2662583,2722749,2741379,2736368
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",1164890,1179249,1302214,1373705,1469021,1468550
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",13,"  Information",53039,56477,56203,59637,62230,65049
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",849157,845874,780144,869188,940091,903195
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",15,"   Finance and insurance",133712,119065,145720,162778,165889,161404
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",715444,726809,634424,706410,774202,741792
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",17,"  Professional and business services",240152,225798,229370,236175,236810,259771
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",107134,106375,113897,115417,118802,121044
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",19,"   Educational services",91039,91397,98084,98700,101064,103128
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",16095,14978,15813,16717,17738,17916
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",2394162,2280481,2473910,2603172,2825286,2808399
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",1166937,1177055,1252367,1277361,1369525,1460630
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",1227225,1103427,1221543,1325811,1455762,1347769
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",24,"  Other services, except government",148767,151780,158673,164513,167597,169208
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",25," Government",421670,440972,451665,456140,460782,478529
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",26,"  Federal",55069,59906,53234,49842,48754,47661
+ "34000","New Jersey",2,SAOVA,"Thousands of dollars",27,"  State and local",366601,381066,398432,406298,412028,430868
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

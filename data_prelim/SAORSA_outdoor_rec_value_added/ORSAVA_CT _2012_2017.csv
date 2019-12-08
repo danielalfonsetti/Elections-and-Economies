@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",1,"All Industries",3304274,3414238,3386836,3477072,3529701,3594652
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",2," Private Industries",3144854,3242868,3204018,3285059,3335204,3390193
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",27788,35529,34318,37407,35166,36225
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",4,"  Mining",24,21,23,19,20,29
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",5,"  Utilities",18,19,17,20,23,24
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",6,"  Construction",35006,35675,58313,66712,68799,73644
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",7,"  Manufacturing",401281,460328,432998,452877,435993,451906
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",8,"   Durable goods",268316,320616,291250,309663,296981,322702
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",9,"   Nondurable goods",132966,139713,141749,143214,139013,129204
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",10,"  Wholesale trade",411722,403838,416776,432690,414050,402074
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",11,"  Retail trade",961607,980669,952577,964937,982158,982530
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",170407,176936,170128,164894,153661,148763
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",13,"  Information",15233,16000,15928,16744,17676,18463
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",193786,177359,173784,193326,203733,205969
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",15,"   Finance and insurance",63048,56570,69592,77454,78203,73449
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",130738,120789,104192,115872,125531,132520
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",17,"  Professional and business services",63974,61698,63941,67612,68848,75830
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",45103,46442,48808,48476,50397,50684
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",19,"   Educational services",38192,39792,42066,41543,43158,43427
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",6911,6650,6742,6933,7239,7258
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",761992,790819,777116,779082,843588,881062
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",397500,405481,429969,441279,461873,478414
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",364492,385338,347147,337803,381715,402647
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",24,"  Other services, except government",56911,57535,59291,60261,61092,62991
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",25," Government",159421,171370,182818,192014,194497,204459
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",26,"  Federal",4937,6420,6348,6230,6423,6956
+ "09000","Connecticut",1,SAOVA,"Thousands of dollars",27,"  State and local",154483,164950,176471,185784,188074,197503
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

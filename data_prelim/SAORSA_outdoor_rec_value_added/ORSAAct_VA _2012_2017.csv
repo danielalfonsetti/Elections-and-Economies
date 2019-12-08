@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",8035053,8189749,8481972,9059357,9073265,9285508
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",3462806,3556080,3584150,3727412,3767959,3918130
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",2139294,2209406,2202486,2314225,2324651,2394061
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",4,"   Bicycling",30855,32438,31835,31636,33638,32934
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",336678,336709,348334,369456,384657,402411
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",6863,6800,6962,7380,7780,8209
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",57883,59237,58975,62060,61873,59896
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",8,"    Sailing",21078,20983,22441,23357,24645,25072
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",9,"    Other Boating",250854,249689,259957,276659,290359,309234
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",66318,69116,70119,73559,74938,78415
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",11,"   Equestrian",134169,141342,158095,165355,174889,187787
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",177720,201107,193262,215709,189353,200083
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",124536,140573,135179,153694,124303,130200
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",53183,60534,58083,62015,65049,69882
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",110586,103861,106453,112242,113255,110725
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",13028,14089,14596,15025,15685,16144
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",17,"   RVing",188325,195811,201399,211425,214336,222064
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",20324,20905,22744,24190,23422,23571
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",13070,13786,15280,16281,15638,16004
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",7254,7118,7464,7909,7783,7568
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",158271,163300,160062,168143,172495,173576
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",130003,135368,131155,137002,141941,144078
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",28268,27932,28907,31141,30554,29498
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",903020,930729,895586,927486,927983,946350
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",1323513,1346674,1381663,1413187,1443308,1524070
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",146088,146816,151375,159984,166091,177989
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",167475,173826,188335,179023,189959,195534
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",28,"   Field Sports",62631,63177,65439,68404,70282,72273
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",360769,364216,362744,370672,384611,398927
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",198476,194648,202962,196877,187186,210656
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",107399,106450,111831,114340,111155,122232
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",91077,88198,91131,82537,76031,88424
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",136251,142308,145256,150548,151590,160640
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",192907,196826,203800,222496,229193,241920
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",58915,64857,61752,65182,64396,66131
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",4572246,4633669,4897822,5331945,5305307,5367378
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",37,"   Construction",123965,128258,145987,153263,171114,184105
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",690842,695006,707060,760956,755822,753721
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",3202445,3198995,3412655,3754927,3705372,3723752
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",748094,615953,684221,730935,719320,741482
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",41,"    Lodging",789517,809853,838919,943506,909861,837296
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",603027,607177,635837,685197,674669,665589
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",43,"    Transportation",1061807,1166012,1253679,1395289,1401523,1479385
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",554994,611411,632119,662798,672998,705799
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",45,"    Federal Government",112397,126408,118328,116138,120676,121149
+ "51000","Virginia",5,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",442597,485002,513791,546661,552322,584650
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

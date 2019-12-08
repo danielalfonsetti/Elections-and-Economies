@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",1,"All Industries",3562818,3598399,3670067,3794053,3808432,3836530
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",2," Private Industries",3349600,3370427,3428978,3542324,3553811,3568921
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",78186,84769,81663,82167,76790,84365
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",4,"  Mining",12167,13111,14292,10458,9377,11079
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",5,"  Utilities",10,10,9,10,11,11
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",6,"  Construction",65595,69167,81463,89750,94194,98227
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",7,"  Manufacturing",551683,512455,503800,464776,393623,462148
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",8,"   Durable goods",103536,106794,111327,111272,112752,132041
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",9,"   Nondurable goods",448147,405660,392473,353505,280872,330107
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",10,"  Wholesale trade",312662,310511,326057,323002,301661,302254
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",11,"  Retail trade",916826,964220,961813,1002739,1024142,998936
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",398279,399527,386362,435075,446672,480012
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",13,"  Information",9745,10509,10510,10932,11246,11558
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",235852,225645,213163,218595,213499,197984
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",15,"   Finance and insurance",29502,26399,32921,36572,36785,34793
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",206350,199247,180242,182023,176714,163191
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",17,"  Professional and business services",68905,66933,70452,75086,77499,84247
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",26845,26880,28956,29826,31512,32520
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",19,"   Educational services",22459,22694,24572,25190,26542,27487
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",4386,4186,4384,4636,4970,5033
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",631025,642394,703000,747584,816798,745116
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",298929,301911,319979,328400,356771,384577
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",332096,340483,383021,419184,460027,360539
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",24,"  Other services, except government",41819,44294,47439,52322,56787,60464
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",25," Government",213218,227972,241089,251728,254620,267609
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",26,"  Federal",20108,22911,22205,21040,21826,22497
+ "40000","Oklahoma",6,SAOVA,"Thousands of dollars",27,"  State and local",193111,205061,218884,230688,232794,245112
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",22665105,23298035,23916944,25410720,26586102,26299866
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",12253675,12570857,12951682,13450704,13565213,13834870
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",7838450,8042320,8216768,8573871,8508956,8505481
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",4,"   Bicycling",65931,65561,66602,69199,74144,75504
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",916412,916548,963071,1018253,1055817,1087834
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",17061,17270,17832,18837,20149,20721
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",71471,70183,71546,77190,75116,75050
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",8,"    Sailing",76344,76363,81354,84399,88430,89623
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",9,"    Other Boating",751535,752731,792340,837828,872121,902440
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",134107,136613,140874,149599,150990,156037
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",11,"   Equestrian",142794,151426,174468,180867,190483,206148
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",266716,317626,290513,317761,305122,360260
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",135322,156065,139460,152498,134157,156645
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",131393,161561,151052,165263,170965,203615
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",304821,280785,299345,304652,298571,286545
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",28166,31331,32416,32861,33942,36153
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",17,"   RVing",456385,467024,482601,508508,522687,528351
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",157345,151836,166858,177012,172896,173532
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",100561,98278,108807,116271,113400,114704
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",56783,53558,58052,60741,59496,58828
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",455374,478060,486594,504658,513596,509189
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",382872,404077,409026,421023,429233,428819
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",72502,73983,77568,83635,84363,80370
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",4910400,5045511,5113424,5310500,5190709,5085928
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",4415226,4528537,4734914,4876833,5056258,5329389
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",177499,184868,195471,217420,241145,269502
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",1314690,1373388,1491804,1451136,1590266,1686377
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",28,"   Field Sports",160555,159802,170330,181180,186320,194951
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",859882,856535,875418,903028,934456,967921
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",741655,739862,770216,768482,755805,831061
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",410649,408708,429278,442027,445146,479752
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",331006,331154,340937,326456,310660,351309
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",282495,292374,301300,313924,317036,336137
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",554727,557667,592686,673169,658908,669133
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",323722,364042,337689,368493,372323,374307
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",10411430,10727178,10965262,11960016,13020889,12464996
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",37,"   Construction",523771,486676,517779,581589,631725,667797
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",1493441,1544704,1589746,1705068,1774991,1727179
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",7225846,7456944,7566401,8318873,9220221,8590861
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",1413232,1204947,1251136,1322555,1503024,1349137
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",41,"    Lodging",2030254,2185076,1947935,2184234,2432578,2213942
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",1228384,1249682,1291205,1340544,1402065,1318712
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",43,"    Transportation",2553976,2817240,3076125,3471541,3882555,3709071
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",1168372,1238853,1291337,1354486,1393952,1479158
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",45,"    Federal Government",149827,155671,133655,129080,143394,154779
+ "36000","New York",2,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",1018544,1083183,1157682,1225405,1250558,1324379
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

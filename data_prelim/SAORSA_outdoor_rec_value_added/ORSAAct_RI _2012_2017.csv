@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",1205169,1256595,1257028,1349168,1379470,1391601
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",507855,511933,527656,553923,566847,573359
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",329560,330602,340425,360901,368224,365212
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",4,"   Bicycling",3875,4116,4196,4094,4109,4018
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",141731,140631,147242,156431,162328,160492
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",3763,3701,3710,3922,4312,4158
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",4563,4678,4770,4994,5053,4635
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",8,"    Sailing",17263,17001,18175,18766,19614,19650
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",9,"    Other Boating",116142,115251,120587,128749,133350,132050
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",7430,7961,8287,8985,9087,8578
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",11,"   Equestrian",3875,4165,4856,5143,5549,6075
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",5296,5983,5975,6588,6947,7276
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",1357,1544,1490,1678,1731,1786
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",3939,4439,4486,4910,5217,5489
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",14531,13169,14746,15877,15987,15357
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",1142,1208,1299,1387,1474,1532
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",17,"   RVing",22964,20533,21336,22137,22205,21992
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",4880,4678,5088,5281,5236,5296
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",3310,3174,3449,3566,3510,3608
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",1570,1504,1638,1714,1726,1688
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",23963,24589,25132,26735,26384,25615
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",14300,14816,15009,15922,16111,15839
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",9663,9773,10124,10813,10274,9776
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",99872,103569,102267,108243,108917,108981
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",178295,181331,187231,193022,198623,208147
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",9458,9770,10154,10910,11655,12471
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",11725,12839,13887,13708,15547,16883
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",28,"   Field Sports",7673,7864,8375,8820,8916,8949
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",60391,60203,61067,62058,64292,65659
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",45943,46051,48209,49250,49518,53812
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",24952,24763,25942,26781,27071,29660
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",20991,21288,22267,22469,22447,24153
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",11706,12041,12289,12746,12922,13711
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",21000,21828,22928,25186,25968,26686
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",10400,10736,10322,10344,9806,9975
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",697314,744662,729372,795245,812623,818242
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",37,"   Construction",7605,10605,11720,13120,15012,16291
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",83835,93838,92927,98368,100253,99222
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",563170,594022,576147,631173,642168,644571
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",219056,204744,201505,222993,231492,234974
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",41,"    Lodging",174967,214850,198340,219089,218497,217447
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",75260,84627,84507,88945,88332,85565
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",43,"    Transportation",93887,89802,91796,100146,103846,106585
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",42704,46197,48578,52584,55190,58159
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",45,"    Federal Government",708,755,742,731,782,825
+ "44000","Rhode Island",1,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",41996,45441,47836,51854,54408,57334
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",8728806,8924273,9418698,10075251,10449632,11308942
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",4530637,4578046,4822480,5060204,5198942,5458122
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",3108685,3141163,3333943,3532305,3639602,3779399
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",4,"   Bicycling",53051,55465,57396,56196,59811,61976
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",260924,263759,277801,294187,303144,319683
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",5489,5532,5868,6274,6630,7077
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",51037,51842,54610,57793,57122,57248
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",8,"    Sailing",7880,8321,9006,9757,10144,10613
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",9,"    Other Boating",196517,198063,208318,220363,229248,244746
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",84928,88743,92610,96309,96902,98574
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",11,"   Equestrian",124244,129102,143238,151431,160758,179196
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",74903,85614,82761,89609,92845,104424
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",22884,26730,25391,29176,30204,34747
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",52019,58884,57369,60433,62642,69677
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",103738,101543,105969,113272,116950,117719
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",11425,11705,12518,12771,12791,13145
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",17,"   RVing",274405,286611,299979,317793,322395,338657
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",1264220,1220579,1345498,1442742,1508808,1542589
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",847218,835667,904345,964056,1020168,1066915
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",417002,384912,441153,478685,488639,475675
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",154045,158844,169671,178178,178093,183453
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",127644,133317,142083,148434,148750,155021
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",26401,25527,27588,29744,29343,28432
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",702800,739199,746503,779817,787106,819983
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",1421952,1436883,1488537,1527899,1559340,1678724
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",81021,83049,87158,95300,101393,107085
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",235143,245605,272131,271352,303563,330373
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",28,"   Field Sports",69893,70012,74765,77644,79266,82389
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",344002,348583,346914,353342,362365,379270
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",308753,300959,304666,291313,274366,315241
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",164799,161544,167997,166360,164310,179340
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",143954,139415,136669,124953,110056,135900
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",113966,115422,118269,123124,127653,137277
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",221752,222711,236159,262307,259171,273663
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",47423,50540,48475,53518,51563,53426
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",4198170,4346227,4596218,5015047,5250690,5850820
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",37,"   Construction",139241,113205,110219,122758,140759,153028
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",521974,547569,572763,609904,609777,657151
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",2964375,3100600,3309936,3669557,3870066,4376793
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",624099,532411,554844,604417,641326,741432
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",41,"    Lodging",998175,1102883,1071524,1188072,1277036,1452703
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",380232,397597,409315,426043,435382,472330
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",43,"    Transportation",961869,1067709,1274252,1451025,1516322,1710328
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",572579,584853,603299,612828,630088,663848
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",45,"    Federal Government",100596,105547,105919,105969,114479,119183
+ "08000","Colorado",7,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",471983,479305,497380,506859,515610,544666
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,43 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",10,"...","Total arts employment ratio","Ratio",0.036,0.035,0.033,0.031,0.029,0.027,0.026,0.026,0.027,0.026,0.025,0.025,0.025,0.025,0.024,0.024
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",100,"..."," Core arts and cultural production","Ratio",0.170,0.169,0.162,0.159,0.152,0.144,0.139,0.137,0.135,0.123,0.127,0.123,0.122,0.126,0.127,0.131
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",111,"...","  Performing arts companies","Ratio",0.918,0.911,0.919,0.936,0.952,0.956,(D),(D),0.961,0.968,0.971,0.968,0.967,0.967,0.966,0.967
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",112,"...","  Promoters of performing arts and similar events","Ratio",0.825,0.849,0.843,0.823,0.832,0.831,0.840,0.842,0.850,0.818,0.821,0.814,0.811,0.810,0.807,0.807
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",113,"...","  Agents/managers for artists","Ratio",0.513,0.510,0.517,0.516,0.520,0.516,0.519,0.500,0.500,0.500,0.500,(D),(D),(D),0.526,(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",114,"...","  Independent artists, writers, and performers","Ratio",0.919,0.907,0.925,0.897,0.907,0.913,0.919,0.923,0.919,0.902,0.927,(D),(D),(D),0.936,(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",120,"...","  Museums","Ratio",(D),(D),(D),0.885,0.887,(D),0.923,0.928,0.933,0.929,0.927,0.926,0.928,0.923,0.928,0.931
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",131,"...","  Advertising","Ratio",0.417,0.421,0.409,(D),0.369,0.351,(D),(D),0.348,(D),(D),0.359,(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",132,"...","  Architectural services","Ratio",0.708,0.707,0.712,0.720,0.724,0.726,0.730,0.734,0.733,0.731,0.730,0.731,0.731,0.732,0.732,0.728
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",133,"...","  Landscape architectural services","Ratio",0.939,0.931,0.937,0.936,0.943,0.944,0.937,0.929,0.930,0.936,0.946,0.941,0.944,0.943,0.923,0.952
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",134,"...","  Interior design services","Ratio",0.825,0.780,0.818,0.837,0.864,0.881,0.897,0.891,0.895,0.917,0.906,0.889,0.895,0.917,0.897,0.921
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",135,"...","  Industrial design services","Ratio",1.000,1.000,0.944,1.000,(D),1.000,0.960,1.000,(D),1.000,(D),1.000,1.000,1.000,0.978,(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",136,"...","  Graphic design services","Ratio",0.970,0.968,0.969,0.966,0.954,0.957,0.943,0.944,0.950,0.945,0.946,0.938,0.946,0.945,0.947,0.955
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",137,"...","  Computer systems design","Ratio",0.022,0.021,0.021,0.021,0.022,0.022,0.022,0.023,0.023,0.023,0.023,0.023,0.023,0.023,0.023,0.023
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",138,"...","  Photography and photofinishing services","Ratio",0.926,0.925,0.929,0.930,0.947,0.966,0.969,0.975,(D),(D),(D),(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",139,"...","  All other design services","Ratio",0.571,0.600,0.500,0.500,(D),0.500,0.667,0.750,(D),1.000,(D),0.500,0.600,0.667,0.500,(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",140,"...","  Fine arts education","Ratio",(D),(D),(D),(D),(D),(D),0.435,0.450,0.435,0.438,0.437,(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",150,"...","  Education services","Ratio",0.026,0.030,0.027,0.031,0.031,0.031,0.031,0.030,0.030,0.028,0.029,0.030,0.025,0.025,0.026,0.027
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",200,"..."," Supporting arts and cultural production","Ratio",0.109,0.107,0.100,0.096,0.089,0.084,0.081,0.080,0.077,0.077,0.075,0.075,0.075,0.075,0.074,0.074
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",211,"...","  Rental and leasing","Ratio",0.447,0.429,0.444,0.430,0.398,0.382,(D),(D),(D),(D),(D),(D),(D),(D),0.285,0.301
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",212,"...","  Grantmaking and giving services","Ratio",0.027,0.031,0.031,0.028,0.030,0.031,0.033,0.027,0.033,0.029,0.028,0.032,0.030,0.033,0.031,0.032
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",213,"...","  Unions","Ratio",0.026,0.022,0.023,0.023,0.023,0.024,0.021,0.023,0.026,0.024,0.027,0.024,0.028,0.026,0.028,0.027
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",214,"...","  Government","Ratio",0.131,0.127,0.115,0.106,0.094,0.083,0.073,0.073,0.073,0.072,0.073,0.072,0.071,0.069,0.068,0.068
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",215,"...","  Other support services","Ratio",0.019,0.015,0.016,0.016,0.016,0.017,0.020,0.023,0.022,0.021,0.019,0.019,0.021,0.019,0.019,0.020
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",221,"...","  Publishing","Ratio",0.449,0.451,0.469,0.456,0.453,0.450,0.451,0.446,0.436,0.432,0.425,0.419,0.409,0.397,0.390,0.383
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",222,"...","  Motion pictures","Ratio",0.993,0.993,0.993,0.992,0.994,0.993,0.992,0.991,0.991,0.991,0.989,0.990,0.991,0.991,0.990,0.991
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",223,"...","  Sound recording","Ratio",1.000,1.000,0.979,1.000,0.980,1.000,1.000,1.000,1.000,1.000,1.000,1.000,1.000,1.000,1.000,1.000
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",224,"...","  Broadcasting","Ratio",(D),0.284,0.308,0.336,0.356,0.381,0.401,0.406,0.403,0.423,0.428,0.438,0.445,0.452,0.457,0.458
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",225,"...","  Other information services","Ratio",0.882,0.882,0.889,0.909,0.905,0.947,1.000,0.909,0.875,0.933,0.900,0.895,0.917,0.875,0.864,0.864
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",231,"...","  Jewelry and silverware manufacturing","Ratio",0.889,0.925,0.914,0.909,0.895,0.882,0.955,0.944,0.944,0.944,0.933,1.000,0.923,0.923,0.889,0.958
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",232,"...","  Printed goods manufacturing","Ratio",0.229,0.208,0.208,(D),0.217,0.217,0.228,0.224,0.222,0.218,0.217,0.207,0.205,0.204,0.199,0.203
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",233,"...","  Musical instruments manufacturing","Ratio",0.958,(D),0.917,1.000,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",234,"...","  Custom architectural woodwork and metalwork manufacturing","Ratio",0.063,0.093,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.119,(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",235,"...","  Camera and motion picture equipment manufacturing","Ratio",(D),(D),(D),0.211,0.211,0.176,0.222,0.222,0.200,0.222,0.250,0.053,0.059,0.176,0.000,0.063
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",236,"...","  Other goods manufacturing","Ratio",0.112,0.106,0.102,0.097,0.092,(D),(D),(D),0.093,0.096,(D),(D),(D),(D),(D),(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",240,"...","  Construction","Ratio",0.335,0.276,0.259,0.227,0.178,0.185,0.256,0.199,0.214,0.306,0.225,0.201,0.206,0.266,0.286,0.253
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",250,"...","  Wholesale and transportation industries","Ratio",0.022,0.024,0.022,0.022,0.021,0.021,0.022,0.022,0.020,0.021,0.021,0.022,0.022,(D),(D),(D)
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",260,"...","  Retail industries","Ratio",0.052,0.051,0.049,0.049,0.048,0.048,0.048,0.048,0.048,0.047,(D),(D),(D),0.048,0.048,0.050
+ "28000","Mississippi",5,"SAACEmpRatio: Arts Employment Ratio",300,"..."," All other industries 2/","Ratio",0.003,0.003,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002
+"Note: See the included footnote file."
+"Last updated: March 19, 2019-- new statistics for 2016; revised statistics for 2014-2015. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

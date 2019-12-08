@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",1,"All Industries",13538197,13472962,13695641,14109991,14329134,14725840
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",2," Private Industries",12494987,12451001,12661294,13103845,13317113,13660892
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",383058,384607,394261,385288,377767,385039
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",4,"  Mining",6661,5476,3954,2830,2717,6280
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",5,"  Utilities",26,26,23,27,30,29
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",6,"  Construction",257831,220338,220683,229293,252819,269067
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",7,"  Manufacturing",2273956,2221447,2170712,2018394,1772050,1894583
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",8,"   Durable goods",685632,704844,679078,679210,642211,708013
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",9,"   Nondurable goods",1588324,1516603,1491634,1339185,1129839,1186570
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",10,"  Wholesale trade",1438095,1418836,1484778,1540607,1508119,1515811
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",11,"  Retail trade",2688021,2769123,2708243,2790642,2805468,2840819
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",1804310,1876340,1988055,2216974,2360934,2387287
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",13,"  Information",57677,60903,60980,63918,67554,71961
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",479169,472089,490970,557932,619954,667136
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",15,"   Finance and insurance",134767,120586,151587,174995,183949,181476
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",344402,351503,339383,382937,436004,485660
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",17,"  Professional and business services",327937,312808,319826,338387,347732,389779
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",109865,110720,117263,118261,124864,128443
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",19,"   Educational services",89866,91947,97818,97717,103179,106625
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",20000,18773,19445,20543,21685,21818
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",2505048,2432896,2528595,2661663,2891190,2907755
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",1443135,1448343,1529375,1529946,1619067,1708275
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",1061913,984552,999220,1131717,1272124,1199480
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",24,"  Other services, except government",163333,165393,172952,179630,185916,196902
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",25," Government",1043211,1021961,1034347,1006146,1012021,1064949
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",26,"  Federal",11145,12350,11761,10887,10941,11339
+ "17000","Illinois",3,SAOVA,"Thousands of dollars",27,"  State and local",1032066,1009611,1022586,995259,1001080,1053610
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

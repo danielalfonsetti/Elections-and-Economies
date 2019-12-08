@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",1,"All Industries",1103273,1161150,1219705,1274987,1214537,1208579
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",2," Private Industries",1003601,1050750,1099205,1143110,1077049,1064864
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",47486,50840,50922,47653,45177,46288
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",4,"  Mining",5660,5436,5339,4020,3566,4652
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",5,"  Utilities",2,2,2,3,3,3
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",6,"  Construction",36418,48397,63768,52371,48181,48621
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",7,"  Manufacturing",77788,77780,85934,82260,67667,74471
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",8,"   Durable goods",9089,8839,8549,7920,7333,8309
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",9,"   Nondurable goods",68699,68941,77384,74339,60333,66162
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",10,"  Wholesale trade",134482,139033,151963,155940,143906,143506
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",11,"  Retail trade",331187,356306,355800,379461,371256,378362
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",83351,83510,85005,84258,79156,72384
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",13,"  Information",2329,2380,2386,2579,2673,2791
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",47657,45638,44116,51952,53806,50506
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",15,"   Finance and insurance",10562,9054,11035,12028,12028,11321
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",37096,36583,33081,39924,41778,39185
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",17,"  Professional and business services",21966,21033,21642,22399,22256,23766
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",6103,6035,6426,6790,7033,7301
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",19,"   Educational services",4568,4558,4905,5139,5341,5580
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",1535,1476,1522,1651,1693,1722
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",198712,203699,214703,241458,219694,198859
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",70867,70030,73664,74534,77573,79538
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",127844,133669,141039,166923,142120,119321
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",24,"  Other services, except government",10460,10660,11198,11968,12675,13354
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",25," Government",99672,110401,120500,131877,137488,143716
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",26,"  Federal",9985,10885,10665,10273,10860,11187
+ "38000","North Dakota",4,SAOVA,"Thousands of dollars",27,"  State and local",89687,99516,109835,121604,126628,132528
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

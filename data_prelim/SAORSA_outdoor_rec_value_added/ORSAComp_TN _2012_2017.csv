@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",1,"All Industries",3340092,3243226,3424413,3449632,3542438,3707056
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",2," Private Industries",3044506,2939469,3115075,3137710,3222493,3375504
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",30597,29164,31955,32955,35058,37429
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",4,"  Mining",125,106,86,69,61,110
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",6,"  Construction",41028,49971,62623,52902,57388,64259
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",376067,367402,375133,373957,377527,374536
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",8,"   Durable goods",250062,239014,243475,240998,236689,235625
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",126005,128389,131658,132959,140838,138911
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",189111,185224,194936,206678,204424,208093
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",11,"  Retail trade",936295,869920,926879,919363,934222,988271
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",240282,234466,224053,216997,213526,221638
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",13,"  Information",6002,6343,6636,6790,6881,7348
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",48213,47555,45789,51130,53102,57641
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",27817,26568,26048,26204,25693,27273
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",20396,20987,19741,24926,27409,30368
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",50632,46319,49310,55468,57902,67418
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",36014,36462,39119,39955,41215,42410
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",19,"   Educational services",30483,30944,33335,33893,34825,35641
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",5531,5518,5784,6062,6389,6769
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",1048575,1023805,1113518,1133706,1191075,1251824
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",434553,449156,482335,496190,540563,589153
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",614023,574648,631183,637516,650512,662672
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",41564,42730,45036,47739,50112,54526
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",25," Government",295586,303757,309338,311922,319945,331551
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",26,"  Federal",48289,53575,51072,51671,54752,55131
+ "47000","Tennessee",5,SAOCOMP,"Thousands of dollars",27,"  State and local",247297,250182,258267,260251,265193,276420
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

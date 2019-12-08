@@ -1,0 +1,43 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",10,"...","Total arts employment ratio","Ratio",0.040,0.039,0.036,0.034,0.033,0.031,0.030,0.030,0.029,0.029,0.028,0.027,0.027,0.026,0.026,0.028
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",100,"..."," Core arts and cultural production","Ratio",0.195,0.203,0.189,0.191,0.194,0.193,0.191,0.182,0.164,0.165,0.159,0.162,0.153,0.159,0.154,0.153
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",111,"...","  Performing arts companies","Ratio",0.913,0.907,0.919,0.935,0.945,0.956,0.965,0.964,0.962,0.970,0.968,0.964,0.967,0.964,0.968,0.967
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",112,"...","  Promoters of performing arts and similar events","Ratio",0.820,0.850,0.840,0.822,0.832,(D),0.835,0.845,0.850,0.808,0.811,0.805,0.814,0.806,0.810,0.812
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",113,"...","  Agents/managers for artists","Ratio",(D),(NA),(D),(D),(D),(NA),(D),(D),(D),(D),(NA),(D),0.524,0.519,0.517,0.515
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",114,"...","  Independent artists, writers, and performers","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.935,(D),0.903,0.941,0.921,0.929
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",120,"...","  Museums","Ratio",0.855,0.861,0.878,0.890,0.888,(D),0.921,0.929,0.935,0.928,0.925,0.928,0.926,0.925,0.924,0.933
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",131,"...","  Advertising","Ratio",0.417,0.422,(D),(D),(D),(D),(D),(D),0.348,0.346,0.348,0.359,0.356,0.357,0.355,0.352
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",132,"...","  Architectural services","Ratio",0.709,(D),0.712,0.718,0.724,0.728,0.729,0.734,0.731,0.731,0.731,0.733,0.732,0.734,0.736,0.727
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",133,"...","  Landscape architectural services","Ratio",0.927,0.933,0.935,0.948,0.950,0.939,0.938,0.921,0.938,0.931,0.920,0.920,0.950,0.955,0.950,0.947
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",134,"...","  Interior design services","Ratio",0.778,(D),(D),0.857,0.875,0.885,0.897,0.889,0.944,0.857,0.929,0.923,0.909,0.867,0.923,0.909
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",135,"...","  Industrial design services","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",136,"...","  Graphic design services","Ratio",0.971,0.974,0.968,0.965,0.946,0.951,0.952,0.952,0.939,0.952,0.932,0.938,0.952,0.953,0.941,0.947
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",137,"...","  Computer systems design","Ratio",0.022,0.021,0.021,0.022,0.022,0.022,(D),0.022,0.022,0.023,0.023,0.023,0.024,0.023,0.023,0.024
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",138,"...","  Photography and photofinishing services","Ratio",0.927,0.926,0.929,0.930,0.946,0.965,0.968,0.974,0.974,0.974,(D),(D),(D),(D),(D),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",139,"...","  All other design services","Ratio",(D),(D),0.571,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",140,"...","  Fine arts education","Ratio",(D),(D),(D),(D),(D),(D),(D),0.455,0.431,0.437,(D),(D),0.441,(D),(D),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",150,"...","  Education services","Ratio",0.037,0.048,0.041,0.039,0.038,0.037,0.038,0.038,0.032,0.034,0.029,0.036,0.029,0.025,0.024,0.029
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",200,"..."," Supporting arts and cultural production","Ratio",0.113,0.114,0.106,0.102,0.099,0.095,0.091,0.092,0.088,0.086,0.082,0.079,0.081,0.082,0.082,0.088
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",211,"...","  Rental and leasing","Ratio",0.447,0.429,0.444,0.429,0.398,(D),0.377,0.357,0.354,(D),0.310,0.300,0.289,0.285,0.285,0.301
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",212,"...","  Grantmaking and giving services","Ratio",(D),(D),0.032,0.029,0.029,0.032,0.033,0.029,0.032,0.030,0.029,0.031,0.032,0.032,0.032,0.033
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",213,"...","  Unions","Ratio",0.026,0.022,0.023,0.023,0.023,0.023,0.021,0.023,0.026,0.024,0.027,0.024,0.028,0.026,0.028,0.027
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",214,"...","  Government","Ratio",0.144,0.146,0.131,0.122,0.113,0.103,0.094,0.092,0.089,0.087,0.086,0.085,0.086,0.085,0.084,0.086
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",215,"...","  Other support services","Ratio",0.019,0.014,0.015,0.016,0.018,0.019,0.020,0.020,0.020,0.020,0.019,0.020,0.020,0.019,0.019,0.020
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",221,"...","  Publishing","Ratio",0.449,(D),(D),(D),(D),(D),0.451,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",222,"...","  Motion pictures","Ratio",0.993,0.993,0.994,0.993,0.994,0.993,0.993,0.992,0.990,0.991,0.989,0.989,0.990,0.993,0.992,0.990
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",223,"...","  Sound recording","Ratio",1.000,1.000,1.000,1.000,1.000,1.000,1.000,1.000,0.833,1.000,1.000,(D),(D),(D),(D),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",224,"...","  Broadcasting","Ratio",0.260,0.284,0.309,0.336,0.356,0.381,0.401,0.406,0.403,0.423,0.428,0.438,0.445,0.452,0.457,0.458
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",225,"...","  Other information services","Ratio",(D),0.882,0.900,(D),(D),0.921,0.920,0.913,0.864,0.905,0.889,0.938,0.867,0.867,0.875,0.867
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",231,"...","  Jewelry and silverware manufacturing","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA),(NA),(NA),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",232,"...","  Printed goods manufacturing","Ratio",0.229,0.208,0.208,0.218,0.217,0.216,0.228,0.224,0.223,0.218,0.217,0.208,0.205,0.204,0.199,0.203
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",233,"...","  Musical instruments manufacturing","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA),(D),(D),(D),(D),(D),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",234,"...","  Custom architectural woodwork and metalwork manufacturing","Ratio",0.063,0.093,0.090,0.086,0.083,(D),0.119,0.122,(D),(D),0.119,0.118,(D),0.116,(D),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",235,"...","  Camera and motion picture equipment manufacturing","Ratio",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.253,(D),(D),(D),(D),0.000
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",236,"...","  Other goods manufacturing","Ratio",(D),(D),(D),0.097,0.092,0.084,0.093,0.094,0.093,(D),(D),0.087,0.089,0.096,0.092,(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",240,"...","  Construction","Ratio",0.452,0.377,0.205,0.258,0.333,0.244,0.196,0.359,0.241,0.187,0.105,0.049,0.097,(D),0.110,0.526
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",250,"...","  Wholesale and transportation industries","Ratio",(D),0.024,0.022,(D),0.021,0.021,0.022,0.022,0.020,(D),(D),(D),(D),(D),(D),(D)
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",260,"...","  Retail industries","Ratio",(D),(D),0.049,(D),(D),0.048,0.048,0.048,0.048,0.047,0.047,0.047,(D),0.048,0.048,0.050
+ "54000","West Virginia",5,"SAACEmpRatio: Arts Employment Ratio",300,"..."," All other industries 2/","Ratio",0.003,0.003,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002
+"Note: See the included footnote file."
+"Last updated: March 19, 2019-- new statistics for 2016; revised statistics for 2014-2015. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

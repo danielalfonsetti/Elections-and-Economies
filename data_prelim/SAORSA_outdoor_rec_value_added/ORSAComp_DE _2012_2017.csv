@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",1,"All Industries",517238,512565,533741,561823,602769,611026
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",2," Private Industries",477692,473333,494864,523078,563537,570365
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting","(D)","(D)","(D)","(D)","(D)","(D)"
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",4,"  Mining","(D)","(D)","(D)","(D)","(D)","(D)"
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",5,"  Utilities",1,1,1,1,1,1
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",6,"  Construction",7278,7882,8685,9279,10601,11759
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",23826,23397,24144,24170,25604,25609
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",8,"   Durable goods",3751,3524,3650,3479,3157,2813
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",20075,19873,20494,20691,22447,22796
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",18182,17464,18317,18336,16876,16134
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",11,"  Retail trade",189745,195038,202104,213138,221242,222975
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",9121,8974,8926,9121,9202,9661
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",13,"  Information",930,968,1007,1000,1002,1020
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",10636,10675,9524,10050,10461,10668
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",4890,4724,4567,4531,4281,4352
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",5745,5951,4957,5520,6180,6315
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",18957,16978,17887,19723,20244,23399
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",5902,5958,6427,6706,6932,7054
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",19,"   Educational services",4567,4648,5050,5237,5382,5471
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1335,1311,1376,1470,1550,1583
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",184970,177989,189255,202567,231817,231965
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",50596,52329,55250,56387,60340,62596
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",134374,125660,134005,146180,171477,169369
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",5519,5606,5866,6227,6572,7007
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",25," Government",39546,39232,38877,38745,39232,40661
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",26,"  Federal",1258,1261,1243,1194,1219,1283
+ "10000","Delaware",2,SAOCOMP,"Thousands of dollars",27,"  State and local",38288,37972,37634,37551,38013,39378
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

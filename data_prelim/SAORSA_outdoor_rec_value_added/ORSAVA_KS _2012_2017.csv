@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",1,"All Industries",2851792,2829197,2872986,2930473,2892211,2918117
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",2," Private Industries",2676818,2642280,2675941,2724064,2681992,2697547
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",85453,91923,90643,90127,83354,85919
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",4,"  Mining",1053,1066,1093,773,654,773
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",5,"  Utilities",5,5,4,5,6,6
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",6,"  Construction",34869,37246,42333,42975,48049,50793
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",7,"  Manufacturing",819089,763201,762178,713262,633901,684153
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",8,"   Durable goods",247170,241739,252580,256962,264657,261911
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",9,"   Nondurable goods",571919,521462,509599,456300,369243,422242
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",10,"  Wholesale trade",366731,367294,387038,396403,376615,371032
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",11,"  Retail trade",642338,668103,650545,675612,684826,684044
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",81009,82264,83846,89772,86207,81478
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",13,"  Information",15266,16769,16865,17666,17507,16661
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",71826,65722,68606,80428,79959,86645
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",15,"   Finance and insurance",25140,22981,28876,32433,32731,30972
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",46687,42741,39731,47995,47228,55674
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",17,"  Professional and business services",34551,33889,36267,39505,41572,45861
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",22653,22231,23590,23842,24729,25066
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",19,"   Educational services",18632,18479,19730,19820,20500,20941
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",4020,3752,3860,4023,4228,4124
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",471897,462408,482082,522884,574004,534393
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",174072,175257,184309,188217,200520,211491
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",297825,287151,297773,334668,373484,322902
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",24,"  Other services, except government",30078,30159,30851,30809,30611,30723
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",25," Government",174975,186917,197045,206409,210219,220570
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",26,"  Federal",7441,9150,8934,8381,8330,8441
+ "20000","Kansas",4,SAOVA,"Thousands of dollars",27,"  State and local",167533,177767,188111,198029,201889,212129
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

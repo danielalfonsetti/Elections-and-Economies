@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",1,"All Industries",138281,138281,142342,146664,146790,151589
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",2," Private Industries",130053,130132,134349,138765,138811,143515
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",1179,1112,1175,1226,1241,1283
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",4,"  Mining",1,1,1,1,1,1
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",6,"  Construction",2290,2333,2426,2856,2956,2991
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",7,"  Manufacturing",6882,6756,6880,7264,7174,7472
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",8,"   Durable goods",2954,2946,3006,3333,3144,3537
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",9,"   Nondurable goods",3928,3809,3874,3931,4030,3935
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",10,"  Wholesale trade",4092,4010,4072,4140,4121,4166
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",11,"  Retail trade",45440,46882,47466,48515,48441,49948
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",5222,5174,5323,5652,5801,6002
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",13,"  Information",173,173,173,173,175,176
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",1298,1291,1175,1196,1202,1226
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",15,"   Finance and insurance",395,373,352,346,344,356
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",902,919,822,849,858,870
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",17,"  Professional and business services",1232,1248,1281,1346,1436,1446
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",2462,2600,2723,2784,2886,2969
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",19,"   Educational services",2343,2483,2602,2660,2760,2840
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",20,"   Health care and social assistance",118,117,121,125,126,129
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",58105,56878,59917,61852,61617,64054
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",25456,26175,27460,27811,29070,30102
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",23,"   Accommodation and food services",32649,30703,32458,34041,32547,33952
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",24,"  Other services, except government",1678,1675,1737,1760,1759,1782
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",25," Government",8228,8149,7992,7899,7979,8074
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",26,"  Federal",1405,1546,1363,1291,1287,1252
+ "37000","North Carolina",5,SAOEMP,"Number of jobs",27,"  State and local",6823,6603,6629,6609,6692,6822
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

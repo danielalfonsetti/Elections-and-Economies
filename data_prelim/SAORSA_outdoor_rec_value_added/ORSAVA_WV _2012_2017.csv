@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",1,"All Industries",1477273,1493103,1458691,1557791,1499297,1497706
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",2," Private Industries",1343919,1352251,1314383,1412207,1354273,1346611
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",13706,15807,16161,17257,16531,17962
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",4,"  Mining",53803,43326,31565,22012,18569,38044
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",5,"  Utilities",4,5,4,4,5,5
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",6,"  Construction",12919,14831,20115,22486,23241,24092
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",7,"  Manufacturing",88563,91781,94720,98058,90412,99649
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",8,"   Durable goods",11222,10569,10646,11164,10881,11714
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",9,"   Nondurable goods",77341,81213,84074,86894,79530,87935
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",10,"  Wholesale trade",120692,117295,125796,130879,124360,128295
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",11,"  Retail trade",460423,477444,444949,465584,456273,463473
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",40868,43815,43120,41300,38991,38982
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",13,"  Information",3754,3906,3876,4074,4304,4450
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",109614,105020,91912,101559,109531,110069
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",15,"   Finance and insurance",15554,13917,17566,19772,20713,20055
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",94060,91102,74345,81787,88818,90014
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",17,"  Professional and business services",17730,17373,18427,19697,20273,22036
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",9902,9600,9947,10461,10669,10789
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",19,"   Educational services",7080,6939,7259,7511,7654,7760
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",2822,2660,2688,2950,3014,3029
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",397380,397564,399035,463894,426183,373637
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",122769,120324,124809,122991,123916,122593
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",274611,277240,274225,340903,302267,251044
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",24,"  Other services, except government",14562,14485,14757,14941,14931,15127
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",25," Government",133354,140852,144308,145584,145024,151095
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",26,"  Federal",20170,21562,20811,20343,21195,21186
+ "54000","West Virginia",5,SAOVA,"Thousands of dollars",27,"  State and local",113184,119289,123497,125242,123829,129910
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

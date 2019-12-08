@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "08000","Colorado",7,SAOEMP,"Number of jobs",1,"All Industries",127275,126395,130281,133296,137692,146178
+ "08000","Colorado",7,SAOEMP,"Number of jobs",2," Private Industries",117752,116969,120765,123653,127744,136013
+ "08000","Colorado",7,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",856,824,905,1005,1010,1102
+ "08000","Colorado",7,SAOEMP,"Number of jobs",4,"  Mining",24,21,18,15,15,18
+ "08000","Colorado",7,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "08000","Colorado",7,SAOEMP,"Number of jobs",6,"  Construction",2295,1918,1812,1951,2049,2086
+ "08000","Colorado",7,SAOEMP,"Number of jobs",7,"  Manufacturing",2346,2389,2362,2466,2501,2645
+ "08000","Colorado",7,SAOEMP,"Number of jobs",8,"   Durable goods",1410,1452,1405,1468,1417,1516
+ "08000","Colorado",7,SAOEMP,"Number of jobs",9,"   Nondurable goods",936,937,957,998,1084,1129
+ "08000","Colorado",7,SAOEMP,"Number of jobs",10,"  Wholesale trade",2522,2454,2532,2606,2574,2597
+ "08000","Colorado",7,SAOEMP,"Number of jobs",11,"  Retail trade",35250,35906,36700,37180,37042,38330
+ "08000","Colorado",7,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",4970,5130,5651,5906,5966,6573
+ "08000","Colorado",7,SAOEMP,"Number of jobs",13,"  Information",158,159,160,161,162,161
+ "08000","Colorado",7,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",2588,2575,2479,2559,2649,2738
+ "08000","Colorado",7,SAOEMP,"Number of jobs",15,"   Finance and insurance",1034,949,883,848,831,860
+ "08000","Colorado",7,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",1554,1626,1596,1711,1818,1879
+ "08000","Colorado",7,SAOEMP,"Number of jobs",17,"  Professional and business services",1386,1391,1414,1470,1561,1574
+ "08000","Colorado",7,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",3469,3713,3934,4113,4399,4631
+ "08000","Colorado",7,SAOEMP,"Number of jobs",19,"   Educational services",3379,3625,3843,4018,4297,4521
+ "08000","Colorado",7,SAOEMP,"Number of jobs",20,"   Health care and social assistance",90,88,91,95,102,110
+ "08000","Colorado",7,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",60629,59241,61503,62907,66487,72199
+ "08000","Colorado",7,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",28731,29251,30798,31458,33487,35010
+ "08000","Colorado",7,SAOEMP,"Number of jobs",23,"   Accommodation and food services",31898,29991,30705,31448,32999,37188
+ "08000","Colorado",7,SAOEMP,"Number of jobs",24,"  Other services, except government",1260,1248,1294,1314,1328,1357
+ "08000","Colorado",7,SAOEMP,"Number of jobs",25," Government",9523,9425,9516,9643,9947,10165
+ "08000","Colorado",7,SAOEMP,"Number of jobs",26,"  Federal",843,867,824,797,835,842
+ "08000","Colorado",7,SAOEMP,"Number of jobs",27,"  State and local",8680,8558,8692,8846,9113,9323
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

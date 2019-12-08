@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",1,"All Industries",36263,36079,36872,37575,37878,37818
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",2," Private Industries",35397,35199,35977,36671,36978,36902
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",131,122,130,138,137,140
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",4,"  Mining",0,0,0,0,0,0
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",6,"  Construction",188,225,238,243,262,272
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",7,"  Manufacturing",883,963,973,1099,1140,1150
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",8,"   Durable goods",634,716,726,840,863,867
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",9,"   Nondurable goods",249,246,247,258,277,283
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",10,"  Wholesale trade",1068,1011,1047,1074,1018,1016
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",11,"  Retail trade",13070,13155,13299,13353,13205,13022
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",698,658,635,641,648,651
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",13,"  Information",30,30,30,30,30,30
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",676,660,600,615,614,608
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",15,"   Finance and insurance",254,235,220,210,200,199
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",422,425,380,405,414,410
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",17,"  Professional and business services",216,218,226,244,271,277
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",827,887,932,963,996,1020
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",19,"   Educational services",802,863,908,938,971,995
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",20,"   Health care and social assistance",25,24,24,25,25,25
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",17293,16960,17549,17957,18344,18408
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",7173,7296,7604,7599,7820,7952
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",23,"   Accommodation and food services",10120,9664,9944,10358,10524,10457
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",24,"  Other services, except government",317,309,317,315,311,306
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",25," Government",866,880,895,904,901,916
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",26,"  Federal",26,25,25,24,23,22
+ "33000","New Hampshire",1,SAOEMP,"Number of jobs",27,"  State and local",840,855,870,880,877,895
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

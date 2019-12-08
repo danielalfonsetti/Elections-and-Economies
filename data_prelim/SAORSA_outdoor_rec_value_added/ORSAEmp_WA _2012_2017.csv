@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "53000","Washington",8,SAOEMP,"Number of jobs",1,"All Industries",119715,116127,120916,123858,126508,128991
+ "53000","Washington",8,SAOEMP,"Number of jobs",2," Private Industries",112344,108734,113582,116449,118933,121379
+ "53000","Washington",8,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",2750,2353,2482,2562,2564,2673
+ "53000","Washington",8,SAOEMP,"Number of jobs",4,"  Mining",1,1,1,1,1,1
+ "53000","Washington",8,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "53000","Washington",8,SAOEMP,"Number of jobs",6,"  Construction",2288,2752,3131,3276,3239,3307
+ "53000","Washington",8,SAOEMP,"Number of jobs",7,"  Manufacturing",7060,7090,7005,7009,7267,7209
+ "53000","Washington",8,SAOEMP,"Number of jobs",8,"   Durable goods",5338,5397,5308,5284,5464,5411
+ "53000","Washington",8,SAOEMP,"Number of jobs",9,"   Nondurable goods",1722,1693,1697,1726,1804,1797
+ "53000","Washington",8,SAOEMP,"Number of jobs",10,"  Wholesale trade",4324,4249,4326,4414,4360,4392
+ "53000","Washington",8,SAOEMP,"Number of jobs",11,"  Retail trade",35384,35499,36328,37100,36989,37077
+ "53000","Washington",8,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",6618,6486,6633,7045,7404,7676
+ "53000","Washington",8,SAOEMP,"Number of jobs",13,"  Information",161,155,157,164,162,165
+ "53000","Washington",8,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",1148,1145,1052,1067,1068,1097
+ "53000","Washington",8,SAOEMP,"Number of jobs",15,"   Finance and insurance",421,391,367,354,346,354
+ "53000","Washington",8,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",727,754,684,714,722,743
+ "53000","Washington",8,SAOEMP,"Number of jobs",17,"  Professional and business services",1858,1886,1930,2072,2297,2398
+ "53000","Washington",8,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",2625,2792,2943,3042,3215,3374
+ "53000","Washington",8,SAOEMP,"Number of jobs",19,"   Educational services",2518,2689,2835,2928,3097,3254
+ "53000","Washington",8,SAOEMP,"Number of jobs",20,"   Health care and social assistance",107,103,108,113,118,120
+ "53000","Washington",8,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",46487,42707,45915,47012,48697,50352
+ "53000","Washington",8,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",21257,21516,22466,22301,23072,23622
+ "53000","Washington",8,SAOEMP,"Number of jobs",23,"   Accommodation and food services",25230,21192,23449,24711,25625,26729
+ "53000","Washington",8,SAOEMP,"Number of jobs",24,"  Other services, except government",1639,1618,1680,1686,1671,1658
+ "53000","Washington",8,SAOEMP,"Number of jobs",25," Government",7371,7392,7333,7409,7575,7611
+ "53000","Washington",8,SAOEMP,"Number of jobs",26,"  Federal",743,800,732,704,715,700
+ "53000","Washington",8,SAOEMP,"Number of jobs",27,"  State and local",6628,6592,6601,6705,6860,6911
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

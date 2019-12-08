@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",1,"All Industries",661571,674445,686117,725852,740208,748122
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",2," Private Industries",629862,641879,652720,690996,704203,710837
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",3389,"(D)","(D)","(D)","(D)","(D)"
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",4,"  Mining",1,"(D)","(D)","(D)","(D)","(D)"
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",5,"  Utilities",0,0,0,0,0,0
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",6,"  Construction",5466,6284,6722,6904,7927,"(D)"
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",7,"  Manufacturing",48563,47835,50445,49666,47879,39611
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",8,"   Durable goods",37157,35929,37675,36549,34550,27976
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",9,"   Nondurable goods",11406,11906,12770,13117,13329,11635
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",10,"  Wholesale trade",29161,28346,29357,30260,29084,29157
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",11,"  Retail trade",157412,165230,164145,174246,172634,171309
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",12,"  Transportation and warehousing",34893,33045,32359,33438,35104,35537
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",13,"  Information",1439,1441,1484,1485,1434,1430
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",11551,11840,11073,11967,12440,13368
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",15,"   Finance and insurance",7380,7094,7053,7343,7488,8253
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",16,"   Real estate and rental and leasing",4171,4746,4020,4624,4952,5115
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",17,"  Professional and business services",25308,23395,24853,27793,28234,32478
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",18,"   Educational services, health care, and social assistance",13230,13544,14398,14944,15387,15526
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",19,"   Educational services",11638,11950,12783,13229,13611,13723
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",20,"   Health care and social assistance",1593,1594,1615,1715,1776,1803
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",291742,299796,306187,327828,340779,349477
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",22,"   Arts, entertainment, and recreation",91139,97136,104203,108952,116228,121237
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",23,"   Accommodation and food services",200603,202660,201985,218876,224551,228240
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",24,"  Other services, except government",7706,7872,8225,8831,9368,10057
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",25," Government",31710,32567,33397,34856,36005,37284
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",26,"  Federal",1556,1496,1433,1364,1356,1425
+ "44000","Rhode Island",1,SAOCOMP,"Thousands of dollars",27,"  State and local",30154,31070,31964,33492,34649,35859
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

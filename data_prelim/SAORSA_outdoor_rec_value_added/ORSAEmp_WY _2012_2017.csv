@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",1,"All Industries",20031,20885,21899,22411,22195,23062
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",2," Private Industries",18225,19092,20164,20703,20446,21291
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",3,"  Agriculture, forestry, fishing, and hunting",195,217,241,268,257,"(D)"
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",4,"  Mining",49,39,31,24,22,37
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",5,"  Utilities",0,0,0,0,0,0
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",6,"  Construction",488,526,535,465,419,409
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",7,"  Manufacturing",153,156,157,171,181,"(D)"
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",8,"   Durable goods",22,24,24,26,28,"(D)"
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",9,"   Nondurable goods",131,132,134,144,152,"(D)"
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",10,"  Wholesale trade",217,214,228,225,204,202
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",11,"  Retail trade",5428,5852,6003,6081,5855,6172
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",12,"  Transportation and warehousing",281,271,261,251,236,222
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",13,"  Information",14,14,14,14,14,14
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",14,"  Finance, insurance, real estate, rental, and leasing",103,97,86,89,94,90
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",15,"   Finance and insurance",20,19,18,18,18,19
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",16,"   Real estate and rental and leasing",83,77,68,71,76,71
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",17,"  Professional and business services",202,205,210,219,230,234
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",18,"   Educational services, health care, and social assistance",291,313,329,340,355,369
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",19,"   Educational services",278,300,316,327,341,353
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",20,"   Health care and social assistance",13,13,13,14,14,15
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",21,"  Arts, entertainment, recreation, accommodation, and food services",10676,11063,11941,12431,12458,12947
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",22,"   Arts, entertainment, and recreation",2259,2308,2421,2437,2523,2572
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",23,"   Accommodation and food services",8417,8756,9519,9995,9935,10375
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",24,"  Other services, except government",127,124,128,126,124,127
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",25," Government",1807,1793,1735,1707,1749,1772
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",26,"  Federal",571,612,556,541,562,561
+ "56000","Wyoming",7,SAOEMP,"Number of jobs",27,"  State and local",1236,1181,1178,1166,1187,1211
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

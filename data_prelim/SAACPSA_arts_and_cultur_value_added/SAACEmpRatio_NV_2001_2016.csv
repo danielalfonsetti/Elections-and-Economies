@@ -1,0 +1,43 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",10,"...","Total arts employment ratio","Ratio",0.040,0.040,0.037,0.036,0.034,0.033,0.034,0.034,0.032,0.031,0.030,0.030,0.030,0.030,0.029,0.030
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",100,"..."," Core arts and cultural production","Ratio",0.509,0.494,0.500,0.486,0.481,0.475,0.466,0.452,0.427,0.406,0.415,0.417,0.406,0.412,0.408,0.408
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",111,"...","  Performing arts companies","Ratio",0.913,0.908,0.919,0.936,0.948,0.956,0.966,0.962,0.962,0.969,0.968,0.967,0.968,0.968,0.966,0.966
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",112,"...","  Promoters of performing arts and similar events","Ratio",0.824,0.847,0.842,0.824,0.830,0.834,0.838,0.844,0.848,0.813,0.815,0.810,0.811,0.809,0.809,0.810
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",113,"...","  Agents/managers for artists","Ratio",0.512,0.512,0.510,0.510,0.509,0.508,0.508,0.507,0.506,0.506,0.503,0.506,0.511,0.512,0.509,0.506
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",114,"...","  Independent artists, writers, and performers","Ratio",0.899,0.902,0.905,0.908,0.912,0.915,0.920,0.919,0.919,0.919,0.919,0.919,0.919,0.919,0.924,0.923
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",120,"...","  Museums","Ratio",0.856,0.862,0.877,0.887,0.886,0.909,0.923,0.928,(D),(D),(D),(D),(D),(D),(D),(D)
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",131,"...","  Advertising","Ratio",0.417,0.422,0.408,0.392,0.369,0.351,0.338,0.344,0.348,0.346,0.348,0.359,0.357,0.356,0.355,0.352
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",132,"...","  Architectural services","Ratio",0.708,0.707,0.713,0.720,0.724,0.726,0.730,0.734,0.732,0.730,0.730,0.731,0.731,0.733,0.732,0.729
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",133,"...","  Landscape architectural services","Ratio",0.933,0.935,0.938,0.948,0.944,0.940,0.937,0.938,0.936,0.950,0.923,0.964,0.923,0.964,0.938,0.923
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",134,"...","  Interior design services","Ratio",0.825,0.791,0.822,0.849,0.868,0.881,0.896,0.897,0.905,0.908,0.906,0.909,0.903,0.906,0.906,0.900
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",135,"...","  Industrial design services","Ratio",(D),(D),(D),0.992,0.986,0.992,0.993,0.985,0.985,0.987,0.990,0.990,0.989,0.989,0.990,0.986
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",136,"...","  Graphic design services","Ratio",0.972,0.968,0.965,0.959,0.955,0.954,0.945,0.945,0.943,0.945,0.947,0.948,0.950,0.949,0.948,0.948
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",137,"...","  Computer systems design","Ratio",0.021,0.021,0.021,0.022,0.022,0.022,0.022,0.022,0.022,0.023,0.023,0.023,0.023,0.023,0.024,0.023
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",138,"...","  Photography and photofinishing services","Ratio",0.927,0.925,0.928,0.930,0.946,0.965,0.969,0.974,(D),(D),(D),(D),(D),(D),(D),(D)
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",139,"...","  All other design services","Ratio",(D),(D),(D),0.615,0.500,0.750,0.625,0.600,0.636,0.636,0.667,0.714,0.636,0.588,0.619,0.621
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",140,"...","  Fine arts education","Ratio",0.451,0.438,0.442,0.442,0.440,0.439,0.434,0.449,0.434,0.437,0.438,0.439,0.441,0.441,0.440,0.439
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",150,"...","  Education services","Ratio",0.058,0.053,0.050,0.043,0.047,0.047,0.040,0.031,0.034,0.033,0.030,0.027,0.026,0.024,0.025,0.023
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",200,"..."," Supporting arts and cultural production","Ratio",0.101,0.102,0.092,0.091,0.086,0.082,0.083,0.082,0.076,0.075,0.073,0.073,0.072,0.070,0.071,0.075
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",211,"...","  Rental and leasing","Ratio",0.447,0.429,0.444,0.430,0.398,0.382,0.376,0.357,0.354,0.335,0.310,0.299,0.290,0.285,0.284,0.301
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",212,"...","  Grantmaking and giving services","Ratio",0.027,0.028,0.033,0.028,0.030,0.032,0.033,0.029,0.032,0.031,0.030,0.031,0.030,0.030,0.032,0.032
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",213,"...","  Unions","Ratio",0.026,0.022,0.023,0.023,0.023,0.023,0.021,0.023,0.026,0.024,0.027,0.024,0.028,0.026,0.028,0.027
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",214,"...","  Government","Ratio",0.149,0.150,0.132,0.121,0.106,0.094,0.083,0.080,0.081,0.080,0.080,0.082,0.081,0.079,0.079,0.078
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",215,"...","  Other support services","Ratio",0.019,0.014,0.015,0.016,0.018,0.019,0.020,0.020,0.020,0.020,0.020,0.019,0.020,0.020,0.020,0.020
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",221,"...","  Publishing","Ratio",0.449,0.451,0.469,0.456,0.453,0.449,0.451,0.446,0.436,0.433,0.425,0.419,0.409,0.398,0.390,0.383
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",222,"...","  Motion pictures","Ratio",0.992,0.993,0.994,0.993,0.993,0.993,0.992,0.991,0.990,0.991,0.989,0.989,0.991,0.991,0.990,0.991
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",223,"...","  Sound recording","Ratio",1.000,0.995,1.000,1.000,0.996,0.997,0.997,1.000,0.994,0.995,1.000,1.000,0.995,0.995,0.996,0.996
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",224,"...","  Broadcasting","Ratio",(D),(D),0.308,0.337,0.356,0.381,0.401,0.406,0.403,0.423,0.428,0.438,0.445,0.452,0.457,0.458
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",225,"...","  Other information services","Ratio",(D),(D),0.905,0.922,0.918,0.918,0.914,0.903,0.894,0.896,0.893,0.896,0.882,0.867,0.858,0.877
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",231,"...","  Jewelry and silverware manufacturing","Ratio",0.893,0.921,0.920,0.917,0.914,0.926,0.942,0.955,0.911,0.937,0.939,0.940,0.948,0.949,0.886,0.951
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",232,"...","  Printed goods manufacturing","Ratio",(D),0.209,0.208,(D),(D),0.217,0.228,0.224,0.222,0.218,0.217,0.207,(D),(D),0.199,0.203
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",233,"...","  Musical instruments manufacturing","Ratio",(D),(D),(D),(NA),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.857,(D),(D)
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",234,"...","  Custom architectural woodwork and metalwork manufacturing","Ratio",0.063,0.093,0.090,0.086,0.083,0.084,0.119,0.122,(D),(D),0.120,0.118,0.116,0.116,0.119,0.117
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",235,"...","  Camera and motion picture equipment manufacturing","Ratio",0.111,(D),(D),(D),(D),(D),(D),0.000,(D),0.000,0.000,(D),(D),0.000,0.000,0.000
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",236,"...","  Other goods manufacturing","Ratio",0.111,0.107,0.103,0.097,0.092,0.085,0.093,0.094,0.092,0.095,(D),(D),(D),(D),(D),(D)
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",240,"...","  Construction","Ratio",0.510,0.552,0.261,0.327,0.372,0.316,0.379,0.427,0.347,0.463,0.373,0.333,0.371,0.304,0.222,0.245
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",250,"...","  Wholesale and transportation industries","Ratio",0.022,0.024,0.022,0.022,0.021,0.021,(D),(D),(D),0.021,(D),0.022,(D),(D),(D),(D)
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",260,"...","  Retail industries","Ratio",0.052,0.051,0.049,0.049,0.048,0.048,0.048,0.048,0.048,0.047,0.047,0.047,0.048,0.048,0.048,0.050
+ "32000","Nevada",8,"SAACEmpRatio: Arts Employment Ratio",300,"..."," All other industries 2/","Ratio",0.003,0.003,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002
+"Note: See the included footnote file."
+"Last updated: March 19, 2019-- new statistics for 2016; revised statistics for 2014-2015. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

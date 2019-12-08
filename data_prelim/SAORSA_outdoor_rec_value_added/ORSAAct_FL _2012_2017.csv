@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",33467980,34234250,35149205,38462732,39593915,42183230
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",15064750,15348354,15860076,16712963,17527546,18762366
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",7170721,7482984,7704265,8225496,8496307,8823495
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",4,"   Bicycling",84511,89005,92000,93038,104176,105842
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",1997117,2034390,2141145,2331533,2507203,2692393
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",58315,59262,61845,67757,75855,80724
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",153349,159435,166525,177651,177905,181443
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",8,"    Sailing",153044,153545,167248,179647,196108,205768
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",9,"    Other Boating",1632410,1662148,1745527,1906478,2057334,2224459
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",151886,158225,163942,172092,175643,177221
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",11,"   Equestrian",258720,269323,298456,318483,345553,394293
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",338230,380160,362107,393746,370995,410189
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",198104,218344,204824,223697,191889,208734
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",140126,161816,157283,170048,179106,201455
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",332484,316556,331533,361867,383551,393466
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",38174,40231,40752,42129,44650,49992
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",17,"   RVing",699208,760921,794716,872961,909424,936806
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",31632,31960,34951,36713,36744,38143
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",23352,23492,26165,27931,27922,29013
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",8281,8468,8786,8781,8821,9130
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",547848,569482,596125,635157,643358,645582
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",342198,360466,367500,383698,392582,396320
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",205650,209016,228624,251458,250776,249262
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",2690910,2832732,2848539,2967778,2975010,2979568
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",7894029,7865370,8155811,8487467,9031240,9938871
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",3529912,3409598,3518518,3735314,4060447,4652634
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",920409,982109,1059338,1020998,1099308,1158660
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",28,"   Field Sports",165278,167081,178962,188985,194924,200758
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",1500085,1500792,1550640,1617031,1726876,1826905
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",752095,744657,771303,762952,761570,844694
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",401922,390802,405569,405702,409994,455782
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",350172,353856,365734,357251,351577,388912
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",339170,353503,364051,388360,402311,433640
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",496690,487597,509443,556244,567509,595583
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",190392,220032,203557,217581,218295,225998
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",18403230,18885896,19289129,21749770,22066368,23420864
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",37,"   Construction",336614,330915,348899,391069,432908,476205
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",2083076,2136059,2267391,2427435,2461862,2498538
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",14751923,15105577,15306338,17495466,17697891,18906492
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",2778828,2367292,2538809,2711183,2800849,2907517
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",41,"    Lodging",6705337,6941144,6389321,7288426,7285240,7717273
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",1181029,1227570,1282520,1330034,1342582,1348364
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",43,"    Transportation",4086729,4569571,5095687,6165823,6269220,6933338
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",1231617,1313345,1366502,1435800,1473707,1539629
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",45,"    Federal Government",96017,111405,106471,106654,110013,108293
+ "12000","Florida",5,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",1135600,1201939,1260031,1329146,1363695,1431336
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

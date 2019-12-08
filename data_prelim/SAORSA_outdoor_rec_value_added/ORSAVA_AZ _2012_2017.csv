@@ -1,0 +1,31 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",1,"All Industries",7062225,7155316,7336986,7822918,8162301,8654150
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",2," Private Industries",6612370,6663406,6827407,7282206,7601598,8066337
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",3,"  Agriculture, forestry, fishing, and hunting",60624,72824,68756,70823,67956,75616
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",4,"  Mining",1267,1056,815,596,525,1070
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",5,"  Utilities",20,21,18,20,23,23
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",6,"  Construction",87197,89444,75884,67968,76493,84328
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",7,"  Manufacturing",279218,287103,279125,290295,313095,360525
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",8,"   Durable goods",202887,207851,197615,205357,223467,270563
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",9,"   Nondurable goods",76332,79252,81510,84938,89628,89962
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",10,"  Wholesale trade",410702,396022,403425,419281,409072,407438
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",11,"  Retail trade",1792454,1860988,1888538,1973090,2014196,2116316
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",12,"  Transportation and warehousing",912441,900273,957862,1044128,1098721,1112567
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",13,"  Information",16667,18121,18566,20661,22226,24576
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",14,"  Finance, insurance, real estate, rental, and leasing",694313,705413,595599,663408,699119,709129
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",15,"   Finance and insurance",42754,38223,48335,54999,56049,53379
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",16,"   Real estate and rental and leasing",651559,667190,547264,608410,643070,655749
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",17,"  Professional and business services",207605,200793,208393,226729,239227,275594
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",18,"   Educational services, health care, and social assistance",48898,47761,51298,52437,54437,56259
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",19,"   Educational services",37842,37456,40344,40833,42282,43582
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",20,"   Health care and social assistance",11056,10306,10954,11603,12155,12677
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",21,"  Arts, entertainment, recreation, accommodation, and food services",2015234,1996401,2187374,2357045,2507569,2739479
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",22,"   Arts, entertainment, and recreation",796850,809473,873613,896216,966475,1024244
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",23,"   Accommodation and food services",1218384,1186928,1313761,1460830,1541093,1715235
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",24,"  Other services, except government",85730,87187,91753,95725,98940,103416
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",25," Government",449855,491910,509580,540712,560703,587813
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",26,"  Federal",122670,134491,128061,128148,135607,140700
+ "04000","Arizona",6,SAOVA,"Thousands of dollars",27,"  State and local",327185,357419,381519,412564,425096,447113
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

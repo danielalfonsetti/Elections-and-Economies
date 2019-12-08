@@ -1,0 +1,50 @@
+GeoFIPS,GeoName,Region,TableName,Unit,LineCode,Description,2012,2013,2014,2015,2016,2017
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",1,"Total Outdoor Recreation",5399768,5507544,5659934,6038053,6098458,6853918
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",2," Total Core Outdoor Recreation",2545809,2660883,2712376,2833249,2914267,3176885
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",3,"  Conventional Outdoor Recreation",1652751,1758494,1793034,1896711,1967064,2162875
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",4,"   Bicycling",16081,16638,16929,17484,19700,21021
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",5,"   Boating/Fishing",313015,324587,335105,363236,399618,434601
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",6,"    Canoeing/Kayaking",8247,8635,8838,9769,11600,12799
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",7,"    Fishing (excludes Boating)",34390,35782,37501,40694,44290,44422
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",8,"    Sailing",17556,17609,18926,20048,21797,22989
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",9,"    Other Boating",252822,262561,269840,292725,321931,354392
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",10,"   Climbing/Hiking/Tent Camping",37064,38723,40397,43027,43965,43542
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",11,"   Equestrian",51583,55646,56710,59809,66839,89082
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",12,"   Hunting/Shooting/Trapping",159285,189120,183300,214857,213630,252189
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",13,"    Hunting/Trapping",94179,110049,107059,130185,123331,148215
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",14,"    Shooting (includes Archery)",65106,79071,76241,84672,90299,103974
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",15,"   Motorcycling/ATVing",134849,133283,125436,123765,132323,155856
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",16,"   Recreational Flying",11688,12589,13939,14889,15915,15692
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",17,"   RVing",281548,315270,336154,351302,345807,384926
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",18,"   Snow Activities",5449,5197,5315,5373,5962,6649
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",19,"    Skiing/Snowboarding",2205,2397,2512,2587,2435,2520
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",20,"    Other Snow Activities (includes Snowmobiling) 1/",3244,2800,2803,2786,3527,4129
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",21,"   Other Conventional Outdoor Recreation Activities",107665,110420,114401,121053,124381,127829
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",22,"    Other Conventional Air and Land Activities 2/",77314,80813,83050,86810,89335,92271
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",23,"    Other Conventional Water Activities 3/",30351,29607,31351,34243,35046,35558
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",24,"   Multi-use Apparel and Accessories (Conventional) 4/",534525,557021,565347,581916,598924,631487
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",25,"  Other Outdoor Recreation",893058,902389,919343,936537,947203,1014010
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",26,"   Amusement Parks/Water Parks",72716,72813,74751,78193,81280,86955
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",27,"   Festivals/Sporting Events/Concerts",50625,52758,56841,53605,58702,61192
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",28,"   Field Sports",35323,35567,38302,41531,43686,44533
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",29,"   Game Areas (includes Golfing and Tennis)",314267,312406,317625,328827,349402,364333
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",30,"   Guided Tours/Outfitted Travel",202578,202396,201096,187935,165876,200143
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",31,"    Air and Land Guided Tours/Outfitted Travel",88447,89377,97738,101677,99096,107341
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",32,"    Water Guided Tours/Outfitted Travel (includes Boating and Fishing Charters)",114131,113018,103358,86258,66780,92802
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",33,"   Productive Activities (includes Gardening)",74727,78119,79494,81075,80662,84944
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",34,"   Other Outdoor Recreation Activities 5/",103145,106435,112325,125176,127686,128989
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",35,"   Multi-use Apparel and Accessories (Other) 4/",39677,41895,38909,40195,39908,42921
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",36," Supporting Outdoor Recreation",2853959,2846660,2947558,3204805,3184192,3677033
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",37,"   Construction",51465,61723,72228,80143,90232,99082
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",38,"   Local Trips 6/",423224,437634,457296,478927,465601,507870
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",39,"   Travel and Tourism 7/",2181423,2128601,2171645,2362296,2320000,2745267
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",40,"    Food and Beverages",786969,655076,700804,767168,706300,819571
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",41,"    Lodging",881287,948423,926199,1027958,1065458,1332734
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",42,"    Shopping and Souvenirs",316230,323729,337209,348136,325830,362607
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",43,"    Transportation",196938,201373,207432,219035,222411,230354
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",44,"   Government Expenditures",197846,218703,246390,283439,308359,324815
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",45,"    Federal Government",16691,18542,17584,17188,17701,17716
+ "45000","South Carolina",5,SAOACTVA,"Thousands of dollars",46,"    State and Local Government",181155,200161,228805,266251,290658,307099
+"Note: See the included footnote file."
+"Last updated: September 20, 2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"
