@@ -1,0 +1,337 @@
+
+```{r Bootstraping}
+
+library(tidyverse)
+library(readxl)
+library(randomForest)
+library(ROCit)
+
+# library(forecast)
+# library(TTR)
+
+FILE_OUTPUT = FALSE
+knitr::opts_chunk$set(echo = TRUE)
+
+
+df <-  party_change_and_econ_df %>% filter(!is.na(change_within_4years))
+change_within_4years_df <- df %>% filter(change_within_4years)
+change_not_within_4years_df <- df %>% filter(!change_within_4years)
+
+change_next_year <- df %>% filter(change_next_year)
+change_not_next_year <- df %>% filter(!change_next_year)
+
+nrow(change_within_4years_df) # 194
+nrow(change_not_within_4years_df) # 1010
+
+# Difference between unemployment rates in years leading up to a change in parties is not signficant (p = 0.3647)
+uer_4_yr_test <- t.test(change_within_4years_df$unemployment_rate, change_not_within_4years_df$unemployment_rate) 
+
+# Difference between gdp change in years leading up to a change in parties is not signficant (p = 0.5442)
+gdp_change_4_yr_test <- t.test(change_within_4years_df$gdp_change, change_not_within_4years_df$gdp_change)
+
+# Difference between gdp percent change in years leading up to a change in parties is very significant (p = 0.00498)
+# Interesting that this is the case but unemployment isn't.
+gdp_pchange_4_yr_test <- t.test(change_within_4years_df$gdp_pchange, change_not_within_4years_df$gdp_pchange)
+
+
+# Repeat for "change next year"
+nrow(change_next_year) # 194
+nrow(change_not_next_year) # 1010
+
+uer_next_yr_test <- t.test(change_next_year$unemployment_rate, change_not_next_year$unemployment_rate)  # p = 0.665
+gdp_change_next_yr_test <- t.test(change_next_year$gdp_change, change_not_next_year$gdp_change)  # p = 4.01e-05
+gdp_pchange_next_yr_test <- t.test(change_next_year$gdp_pchange, change_not_next_year$gdp_pchange) # p = 0.0318
+gdp_next_yr_test <- t.test(change_next_year$gdp, change_not_next_year$gdp) # p = 2.546e-06 suspicious. This shouldn't vary.
+# Hypothesis: GDP increaes over time, and maybe the frequency of party switching also has increased over time.
+
+##########
+# Plots
+##########
+
+ggplot(df, aes(x = unemployment_rate, group = change_within_4years, fill = change_within_4years)) + 
+  geom_histogram(alpha = 0.5) +
+  labs(x = "Unemployment Rate", y = "Count", fill = "Party change Within\n4 Years") +
+  ggtitle("Unemployment Rate by whether party changes within 4 years") + 
+  annotate(geom = 'text', 
+           label = paste0("t-test p-value = ", round(uer_4_yr_test$p.value, 3)), 
+           x = -Inf, y = Inf, hjust = 0, vjust = 1)
+
+ggplot(df, aes(x = unemployment_rate, group = change_next_year, fill = change_next_year)) + 
+  geom_histogram(alpha = 0.5) +
+  labs(x = "Unemployment Rate", y = "Count", fill = "Party change\nnext year") +
+  ggtitle("Unemployment Rate by whether party changes next year") +
+  annotate(geom = 'text', 
+         label = paste0("t-test p-value = ", round(uer_next_yr_test$p.value, 3)), 
+         x = -Inf, y = Inf, hjust = 0, vjust = 1)
+
+ggplot(df, aes(x = gdp_pchange, group = df$change_within_4years, fill = change_within_4years)) + 
+  geom_histogram(alpha = 0.5) +
+  labs(x = "GDP % Change", y = "Count",fill = "Party change Within\n4 Years") + 
+  ggtitle("GDP % Change by whether party changes within 4 years") +
+  annotate(geom = 'text', 
+         label = paste0("t-test p-value = ", round(gdp_pchange_4_yr_test$p.value, 3)), 
+         x = -Inf, y = Inf, hjust = 0, vjust = 1)
+
+ggplot(df, aes(x = gdp_pchange, group = change_next_year, fill = change_next_year)) + 
+  geom_histogram(alpha = 0.5) +
+  labs(x = "GDP % Change", y = "Count", fill = "Party change\nnext year") +
+  ggtitle("GDP % Change by whether party changes next year") + 
+  annotate(geom = 'text', 
+       label = paste0("t-test p-value = ", round(gdp_pchange_next_yr_test$p.value, 3)), 
+       x = -Inf, y = Inf, hjust = 0, vjust = 1)
+
+# What about if you combine unemployment and gdp
+
+
+```
+
+
+
+```{r Sanity checks} 
+
+ # Sanity checks
+national_averages <- party_change_and_econ_df %>% 
+                    group_by(year) %>% 
+                    summarise(gdp_ma4_8_diff = mean(gdp_ma4_8_diff),
+                              uer_ma4_8_diff = mean(uer_ma4_8_diff),
+                              gdp = mean(gdp),
+                              unemployment_rate = mean(unemployment_rate))
+
+ggplot(data = national_averages, aes(x = year)) + 
+  geom_point(aes(y = gdp_ma4_8_diff), color = "Blue") + 
+  geom_point(aes(y = uer_ma4_8_diff*1000), color = "Red") +
+  scale_y_continuous(sec.axis = sec_axis(~./1000, name = "Unemployment Rate [%]")) +
+  labs(y = "GDP")
+
+ggplot(data = national_averages, aes(x = year)) + 
+  geom_point(aes(y = gdp), color = "Blue") + 
+  geom_point(aes(y = unemployment_rate*13000), color = "Red") +
+  scale_y_continuous(sec.axis = sec_axis(~./13000, name = "Unemployment Rate [%]")) +
+  labs(y = "GDP")
+
+# Average state GDP has is mostly an upward trend. But per state it might look different
+```
+
+
+
+```{r plotting State GDPs vs Party Changes} 
+
+
+if (FILE_OUTPUT) {
+  dir.create("./output/")
+  pdf(file = "./output/gdp_change_vs_governor_party_change.pdf")
+} 
+
+df <- party_change_and_econ_df %>% filter(year > 1977)
+p <- ggplot(df, aes(x = year, y = years_since_other_party, color = gdp_change, group = interaction(state, change_counter))) +
+    geom_line() + 
+    geom_point() +
+    ylim(c(-max(abs(df$years_since_other_party)), max(abs(df$years_since_other_party)))) + 
+    labs(x = "Year", y = "Years since Party Change", title = paste0("GDP Change vs Governor Party Changes over Time for all States"), color = "GDP Change") +
+    scale_color_distiller(palette = "RdBu") + 
+    theme_linedraw() +
+    coord_flip()
+print(p)
+
+
+
+for (cur_state in state.name) {
+  state_df <- party_change_and_econ_df %>% filter(state == cur_state)
+  state_df <- state_df %>% filter(year > 1977)
+  
+  p <- ggplot(state_df, aes(x = year, y = years_since_other_party, color = gdp_change, group = interaction(state, change_counter))) +
+    geom_line() + 
+    geom_point(size = state_df$unemployment_rate) +
+    ylim(c(-max(abs(state_df$years_since_other_party)), max(abs(state_df$years_since_other_party)))) + 
+    scale_color_gradient2(low = "red", mid = 'gray', high = "blue", midpoint = 0) +
+    labs(x = "Year", y = "Years since Party Change", title = paste0("GDP Change vs Governor Party Changes over Time for \n", cur_state), color = "GDP Change") +
+    theme_linedraw() +
+    coord_flip()
+  print(p)
+}
+
+
+# Percent Change
+for (cur_state in state.name) {
+  state_df <- party_change_and_econ_df %>% filter(state == cur_state)
+  state_df <- state_df %>% filter(year > 1977)
+  
+  p <- ggplot(state_df, aes(x = year, y = years_since_other_party, color = gdp_pchange, group = interaction(state, change_counter))) +
+    geom_line() + 
+    geom_point(size = state_df$unemployment_rate) +
+    ylim(c(-max(abs(state_df$years_since_other_party)), max(abs(state_df$years_since_other_party)))) + 
+    scale_color_gradient2(low = "red", mid = 'gray', high = "blue", midpoint = 0) +
+    labs(x = "Year", y = "Years since Party Change", title = paste0("GDP % Change vs Governor Party Changes over Time for \n", cur_state), color = "GDP % Change") +
+    theme_linedraw() +
+    coord_flip()
+  print(p)
+}
+
+
+if (FILE_OUTPUT) {dev.off()}
+
+```
+
+
+
+```{r logistic regression}
+
+sapply(party_change_and_econ_df, class)
+
+data_df <- party_change_and_econ_df %>% filter(!is.na(change_within_4years) & !is.na(gdp_pchange))
+
+
+# Leave one out cross validation
+set.seed(123)
+roc_df <- data.frame(matrix(NA, ncol = 2, nrow = nrow(data_df)))
+colnames(roc_df) <- c("label", "logit_score")
+
+for (i in 1:nrow(data_df)) {
+  loo_index <- sample(seq_len(nrow(data_df)), size = 1)
+  test_set <- data_df[loo_index,]
+  training_set <- data_df[-loo_index,]
+  
+  
+  logit.fit <- glm(formula = change_within_4years ~  gdp_pchange, data = training_set, family = binomial)
+  summary(logit.fit)
+  
+  glm.pred_probs <- predict(logit.fit, newdata = test_set, type = "response")
+  
+  roc_df[i,]$label <- test_set$change_within_4years*1
+  roc_df[i,]$logit_score <- glm.pred_probs
+  
+}
+
+## Warning: package 'ROCit' was built under R version 3.5.2
+ROCit_obj <- rocit(score=roc_df$logit_score,class=roc_df$label)
+
+{plot(ROCit_obj)
+title("Logistic Regression ROC for predicting \n 'Party Change Within 4 Years' from Yearly % GDP Change'")}
+
+kplot <- ksplot(ROCit_obj)
+
+```
+
+```{r}
+# https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+# https://towardsdatascience.com/random-forest-in-r-f66adf80ec9
+
+data_df <- transform(data_df, change_within_4years = as.factor(change_within_4years))
+
+# Leave one out cross validation
+set.seed(123)
+roc_df <- data.frame(matrix(NA, ncol = 3, nrow = nrow(data_df)))
+colnames(roc_df) <- c("label", 'rf_score', "logit_score")
+
+for (i in 1:nrow(data_df)) {
+  
+  if (i %% 100 == 0) {print(paste0("Iteration: ", i, " out of ", nrow(data_df)))}
+  loo_index <- sample(seq_len(nrow(data_df)), size = 1)
+  test_set <- data_df[loo_index,]
+  training_set <- data_df[-loo_index,]
+  
+  fitted_rf <- randomForest(
+    formula = change_within_4years ~ participation_rate + unemployment_rate + gdp_change + gdp + gdp_pchange,
+    data = training_set
+  )
+  
+  fitted_logit <- glm(formula = change_within_4years ~  gdp_pchange, 
+                      data = training_set, family = binomial)
+  
+  
+  pred_prob_rf <- as.data.frame(predict(fitted_rf, newdata=test_set, type = "prob"))
+  pred_prob_logit <- predict(logit.fit, newdata = test_set, type = "response")
+  
+  roc_df[i,]$label <- test_set$change_within_4years
+  roc_df[i,]$rf_score <- pred_prob_rf$`TRUE`
+  roc_df[i,]$logit_score <- pred_prob_logit
+
+}
+
+# saved_roc_df <- roc_df
+roc_df <- saved_roc_df
+roc_df <- roc_df %>% transform(label = as.factor(label))
+roc_df$label <-ifelse(roc_df$label == '1', "Negative", "Positive")
+# View(roc_df)
+```
+
+
+```{r Logistic Regression Model evaluation}
+
+
+##### ROC ##### 
+
+logit_ROC_obj <- rocit(score=roc_df$logit_score,class=roc_df$label)
+logit_ROC_ci <- ciROC(logit_ROC_obj, level = 0.95)
+
+# https://cran.r-project.org/web/packages/ROCit/vignettes/my-vignette.html
+
+{  
+  plot(logit_ROC_obj)
+  lines(logit_ROC_ci$LowerTPR ~ logit_ROC_ci$FPR)
+  lines(logit_ROC_ci$UpperTPR ~ logit_ROC_ci$FPR)
+  text(x = 0.6, y = 0.4, labels = paste0("AUC = ", round(logit_ROC_obj$AUC, 3)))
+  title("Logistic Regression ROC on Model: Party Change within 4 Years ~ \n Participation % + Unemployment % + GDP + GDPΔ + GDP %Δ")
+}
+
+##### KS-test ##### 
+positive_dist <- roc_df %>% filter(label == "Positive")
+negative_dist <- roc_df %>% filter(label == "Negative")
+logit_ks_test_res <- ks.test(positive_dist$logit_score, negative_dist$logit_score)
+
+
+{
+  logit_ksplot <- ksplot(logit_ROC_obj)
+  text(x = 0.3, y= 0.45, label = paste0("p-value = ", round(logit_ks_test_res$p.value, 3)))
+  text(x = 0.3, y =0.35, label = paste0("Optimal cutoff = ", round(logit_ksplot$`KS Cutoff`, 3)))
+}
+
+
+##### Plot the two distributions #####
+ggplot(data = roc_df, aes(x = logit_score, group = label, fill = label), alpha = 0.5) + 
+  geom_histogram() +
+  geom_vline(xintercept = logit_ksplot$`KS Cutoff`) +
+  geom_text(aes(x=rf_ksplot$`KS Cutoff`+0.05, label="Logit Optimal Cutoff", y=230), colour="black", text=element_text(size=11)) +
+  labs(x = "Logistic Regression Score", y = "Count", fill = "Party Change \nwithin 4 Years") + 
+  ggtitle("Logistic Regression Scores by +/- Distributions")
+  
+```
+
+```{r Random Forest Model Evaluation}  
+##### ROC ##### 
+
+rf_ROC_obj <- rocit(score=roc_df$rf_score,class=roc_df$label)
+rf_ROC_ci <- ciROC(rf_ROC_obj, level = 0.95)
+
+# https://cran.r-project.org/web/packages/ROCit/vignettes/my-vignette.html
+
+{  
+  plot(rf_ROC_obj)
+  lines(rf_ROC_ci$LowerTPR ~ rf_ROC_ci$FPR)
+  lines(rf_ROC_ci$UpperTPR ~ rf_ROC_ci$FPR)
+  text(x = 0.6, y = 0.4, labels = paste0("AUC = ", round(rf_ROC_obj$AUC, 3)))
+  title("Random Forest ROC on Model: Party Change within 4 Years ~ \n Participation % + Unemployment % + GDP + GDPΔ + GDP %Δ")
+}
+
+##### KS-test ##### 
+
+positive_dist <- roc_df %>% filter(label == "Positive")
+negative_dist <- roc_df %>% filter(label == "Negative")
+rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
+
+{
+  rf_ksplot <- ksplot(rf_ROC_obj)
+  text(x = 0.6, y= 0.45, label = paste0("p-value = ", rf_ks_test_res$p.value))
+  text(x = 0.6, y =0.35, label = paste0("Optimal cutoff = ", rf_ksplot$`KS Cutoff`))
+}
+
+
+##### Plot the two distributions #####
+ggplot(data = roc_df, aes(x = rf_score, group = label, fill = label), alpha = 0.5) + 
+  geom_histogram() +
+  geom_vline(xintercept = rf_ksplot$`KS Cutoff`, color = "black") +
+  geom_text(aes(x=rf_ksplot$`KS Cutoff`+0.1, label="RF Optimal Cutoff", y=130), colour="black") +
+  labs(x = "Random Forest Score", y = "Count", fill = "Party Change \nwithin 4 Years") + 
+  ggtitle("Random Forest Score by +/- Distributions")
+
+```
