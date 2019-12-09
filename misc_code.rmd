@@ -1,0 +1,197 @@
+```{r}
+###############################
+library(ROCR)
+## Loading required package: gplots
+## 
+## Attaching package: 'gplots'
+## The following object is masked from 'package:stats':
+## 
+##     lowess
+# plot a ROC curve for a single prediction run
+# and color the curve according to cutoff.
+pred <- prediction(glm.pred_probs, x$change_within_4years)
+perf <- performance(pred,"tpr","fpr")
+plot(perf,colorize=TRUE)
+###############################
+```
+
+```{r}
+library(plotROC)
+rocplot <- ggplot(roc_df, aes(m = predictions, d = labels))+ 
+  geom_roc(n.cuts=20,labels=FALSE) +
+  style_roc(theme = theme_grey) + 
+  geom_rocci(fill="pink") 
+rocplot
+
+```
+
+```{r }
+library(ROCR)
+## Loading required package: gplots
+## 
+## Attaching package: 'gplots'
+## The following object is masked from 'package:stats':
+## 
+##     lowess
+# plot a ROC curve for a single prediction run
+# and color the curve according to cutoff.
+data(ROCR.simple)
+df <- data.frame(ROCR.simple)
+pred <- prediction(df$predictions, df$labels)
+perf <- performance(pred,"tpr","fpr")
+plot(perf,colorize=TRUE)
+
+
+
+
+
+```
+
+```{r}
+library(ROCR)
+data(ROCR.simple)
+pred <- prediction( ROCR.simple$predictions, ROCR.simple$labels )
+pred2 <- prediction(abs(ROCR.simple$predictions + 
+                        rnorm(length(ROCR.simple$predictions), 0, 0.1)), 
+        ROCR.simple$labels)
+perf <- performance( pred, "tpr", "fpr" )
+perf2 <- performance(pred2, "tpr", "fpr")
+plot( perf, colorize = TRUE)
+plot(perf2, add = TRUE, colorize = TRUE)
+
+```
+
+```{r}
+library(plotROC)
+
+D.ex <- rbinom(50, 1, .5)
+rocdata <- data.frame(D = c(D.ex, D.ex),
+                     M = c(rnorm(50, mean = D.ex, sd = .4), rnorm(50, mean = D.ex, sd = 1)),
+                     Z = c(rep("A", 50), rep("B", 50)))
+
+ggroc <- ggplot(rocdata, aes(m = M, d = D)) + geom_roc()
+calc_auc(ggroc)
+
+ggroc2 <- ggplot(rocdata, aes(m = M, d = D, color = Z)) + geom_roc()
+calc_auc(ggroc2)
+```
+
+
+
+```{r}
+# Create a basic roc object
+data(aSAH)
+rocobj <- roc(aSAH$outcome, aSAH$s100b)
+rocobj2 <- roc(aSAH$outcome, aSAH$wfns)
+
+library(ggplot2)
+g <- ggroc(rocobj)
+g
+# with additional aesthetics:
+ggroc(rocobj, alpha = 0.5, colour = "red", linetype = 2, size = 2)
+
+
+# You can then your own theme, etc.
+g + theme_minimal() + ggtitle("My ROC curve") + 
+    geom_segment(aes(x = 1, xend = 0, y = 0, yend = 1), color="grey", linetype="dashed")
+
+# And change axis labels to FPR/FPR
+gl <- ggroc(rocobj, legacy.axes = TRUE)
+gl
+gl + xlab("FPR") + ylab("TPR") + 
+    geom_segment(aes(x = 0, xend = 1, y = 0, yend = 1), color="darkgrey", linetype="dashed")
+
+# Multiple curves:
+g2 <- ggroc(list(s100b=rocobj, wfns=rocobj2, ndka=roc(aSAH$outcome, aSAH$ndka)))
+g2
+
+# This is equivalent to using roc.formula:
+roc.list <- roc(outcome ~ s100b + ndka + wfns, data = aSAH)
+g.list <- ggroc(roc.list)
+g.list
+
+# with additional aesthetics:
+g3 <- ggroc(roc.list, linetype=2)
+g3
+g4 <- ggroc(roc.list, aes="linetype", color="red")
+g4
+# changing multiple aesthetics:
+g5 <- ggroc(roc.list, aes=c("linetype", "color"))
+g5
+
+# OR faceting
+g.list + facet_grid(.~name) + theme(legend.position="none")
+# To have all the curves of the same color, use aes="group":
+g.group <- ggroc(roc.list, aes="group")
+g.group
+g.group + facet_grid(.~name)
+
+```
+
+
+```{r}
+# https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+# https://towardsdatascience.com/random-forest-in-r-f66adf80ec9
+
+
+library(randomForest)
+
+
+data_df <- transform(data_df, change_within_4years = as.factor(change_within_4years))
+
+
+loo_index <- sample(seq_len(nrow(data_df)), size = 300)
+test_set <- data_df[loo_index,]
+training_set <- data_df[-loo_index,]
+
+
+fitted_rf <- randomForest(
+  change_within_4years ~ participation_rate + unemployment_rate + gdp_change + gdp + gdp_pchange,
+  data=training_set
+)
+
+
+# pred_response = predict(fitted_rf, newdata=test_set)
+# cm = table(test_set$change_within_4years, pred_response)
+# cm
+
+pred_prob = as.data.frame(predict(fitted_rf, newdata=test_set, type = "prob"))
+head(pred_prob)
+
+library(ROCit)
+## Warning: package 'ROCit' was built under R version 3.5.2
+ROCit_obj <- rocit(score=pred_prob$`TRUE`, class=test_set$change_within_4years)
+
+{plot(ROCit_obj)
+title("Random Forest ROC for predicting \n 'Party Change Within 4 Years' from Yearly % GDP Change'")}
+
+
+```
+
+
+```{r}
+
+
+data_df <- party_change_and_econ_df %>% filter(!is.na(change_within_4years) & !is.na(gdp_pchange))
+
+logit.fit <- glm(formula = change_within_4years ~  gdp_pchange, data = data_df, family = binomial)
+summary(logit.fit)
+
+glm.pred_probs <- predict(logit.fit, type = "response")
+length(glm.pred_probs)
+
+length(data_df$change_within_4years)
+roc_df <- data.frame(predictions = glm.pred_probs, labels = tmp$change_within_4years*1)
+
+
+
+
+library(ROCit)
+## Warning: package 'ROCit' was built under R version 3.5.2
+ROCit_obj <- rocit(score=roc_df$predictions,class=roc_df$labels)
+
+{plot(ROCit_obj)
+title("Logistic Regression ROC for predicting \n 'Party Change Within 4 Years' from Yearly % GDP Change")}
+
+ksplot(ROCit_obj)
+```
