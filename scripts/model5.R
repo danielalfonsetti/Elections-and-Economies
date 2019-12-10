@@ -6,17 +6,16 @@ OUTPUT = TRUE
 
 data_df <- read.csv("../data_processed/party_change_and_econ_df_training.csv")  %>% select(-1) # Remove row numbers
 
-# Model: Party Change next year = Participation Rate + Unemployment Rate + GDP % Change + gdp_pchange_ma4_8_diff + uer_ma4_8_diff 
-
-myFormulaName <- "model_4_nextyear_from_participation_unemployment_gdp_pchange_ma_diffs"
+# Model: Party Change within the next 4 years = Participation Rate + Unemployment Rate + GDP % Change + gdp_pchange_ma4_8_diff + gdp_ma4_8_diff + gdp_pchange_ma4_8_diff + uer_ma4_8_diff 
+myFormulaName <- "model_5_4year_from_participation_unemployment_gdp_pchange_ma_diffs_ALL"
 fileName = paste0("../output/model_evals_", myFormulaName, ".pdf")
 
 ########################################################################
 ########################################################################
 ########################################################################
 
-data_df <- transform(data_df, change_next_year = as.factor(change_next_year))
-  
+data_df <- transform(data_df, change_within_4years = as.factor(change_within_4years))
+
 # Leave one out cross validation
 set.seed(123)
 roc_df <- data.frame(matrix(NA, ncol = 3, nrow = nrow(data_df)))
@@ -30,12 +29,12 @@ for (i in 1:nrow(data_df)) {
   cv_training_set <- data_df[-loo_index,]
   
   fitted_rf <- randomForest(
-    formula = change_next_year ~ participation_rate + unemployment_rate + gdp_pchange + gdp_pchange_ma4_8_diff + uer_ma4_8_diff, 
+    formula = change_within_4years ~ participation_rate + unemployment_rate + gdp_pchange + gdp + gdp_ma4_8_diff + gdp_pchange_ma4_8_diff + uer_ma4_8_diff, 
     data = cv_training_set
   )
   
   fitted_logit <- glm(
-    formula = change_next_year ~ participation_rate + unemployment_rate + gdp_pchange + gdp_pchange_ma4_8_diff + uer_ma4_8_diff, 
+    formula = change_within_4years ~ participation_rate + unemployment_rate + gdp_pchange + gdp + gdp_ma4_8_diff + gdp_pchange_ma4_8_diff + uer_ma4_8_diff, 
     data = cv_training_set, 
     family = binomial
   )
@@ -43,12 +42,11 @@ for (i in 1:nrow(data_df)) {
   pred_prob_rf <- as.data.frame(predict(fitted_rf, newdata=cv_test_set, type = "prob"))
   pred_prob_logit <- predict(fitted_logit, newdata = cv_test_set, type = "response")
   
-  roc_df[i,]$label <- cv_test_set$change_next_year
+  roc_df[i,]$label <- cv_test_set$change_within_4years
   roc_df[i,]$rf_score <- pred_prob_rf$`TRUE`
   roc_df[i,]$logit_score <- pred_prob_logit
 }
 
-#saved_roc_df <- roc_df
 roc_df <- roc_df %>% transform(label = as.factor(label))
 roc_df$label <- ifelse(roc_df$label == "1", "Negative", "Positive")
 
@@ -96,7 +94,7 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
   lines(logit_ROC_ci$LowerTPR ~ logit_ROC_ci$FPR)
   lines(logit_ROC_ci$UpperTPR ~ logit_ROC_ci$FPR)
   text(x = 0.8, y = 0.2, labels = paste0("AUC = ", round(logit_ROC_obj$AUC, 3)))
-  title("Logistic Regression ROC on Model: Party Change next year ~ \n Participation % + Unemployment % + GDP % Change + Moving Avg Diffs")
+  title("Logistic Regression ROC on Model: Party Change within 4 Years ~ \n Part.% + Unemp.% + GDP + GDP %Change + Moving Avg Diffs")
   
   
   logit_ksplot <- ksplot(logit_ROC_obj)
@@ -109,7 +107,7 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
     geom_histogram() +
     geom_vline(xintercept = logit_ksplot$`KS Cutoff`, color = "orange", alpha=0.5) +
     geom_text(aes(x=logit_ksplot$`KS Cutoff`, label="Logit Optimal Cutoff", y=230), colour="black") +
-    labs(x = "Logistic Regression Score", y = "Count", fill = "Party Change \nnext year") + 
+    labs(x = "Logistic Regression Score", y = "Count", fill = "Party Change \nwithin 4 Years") + 
     ggtitle("Logistic Regression Scores by +/- Distributions")
   print(p)
   
@@ -120,7 +118,7 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
   lines(rf_ROC_ci$LowerTPR ~ rf_ROC_ci$FPR)
   lines(rf_ROC_ci$UpperTPR ~ rf_ROC_ci$FPR)
   text(x = 0.8, y = 0.2, labels = paste0("AUC = ", round(rf_ROC_obj$AUC, 3)))
-  title("Random Forest ROC on Model: Party Change Next Year ~ \n Participation% + Unemployment% + GDP %Change + Moving Avg Diffs")
+  title("Random Forest ROC on Model: Party Change within 4 Years ~ \n Part.% + Unemp.% + GDP + GDP %Change + Moving Avg Diffs")
   
   
   rf_ksplot <- ksplot(rf_ROC_obj)
@@ -133,7 +131,7 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
     geom_histogram() +
     geom_vline(xintercept = rf_ksplot$`KS Cutoff`, color = "orange", alpha=0.5) +
     geom_text(aes(x=rf_ksplot$`KS Cutoff`, label="RF Optimal Cutoff", y=130), colour="black") +
-    labs(x = "Random Forest Score", y = "Count", fill = "Party Change \nwnext year") + 
+    labs(x = "Random Forest Score", y = "Count", fill = "Party Change \nwithin 4 Years") + 
     ggtitle("Random Forest Score by +/- Distributions")
   print(p)
   

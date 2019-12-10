@@ -256,7 +256,7 @@ gdp_pdiffs_long_df <-  gdp_pdiffs %>%
                       rename(state = State, gdp_pchange = value)
 
 gdp_pdiffs_long_df$gdp_pchange <- round(gdp_pdiffs_long_df$gdp_pchange, 2) 
-View(gdp_pdiffs_long_df)
+# View(gdp_pdiffs_long_df)
 
 ```
 
@@ -284,7 +284,29 @@ party_change_and_econ_df <- party_change_and_econ_df %>%
 # summary(party_change_and_econ_df)
 
 # Save processed data 
-write.csv(party_change_and_econ_df, "../data_processed/party_change_and_econ_df_v2.csv")
+
+
+write.csv(party_change_and_econ_df, "../data_processed/party_change_and_econ_df_full.csv")
+
+
+df <- party_change_and_econ_df %>% filter(!is.na(change_within_4years) & !is.na(gdp_pchange) & !is.na(gdp_pchange_ma4_8_diff)  & !is.na(gdp_ma4_8_diff) & !is.na(gdp) & !is.na(uer_ma4_8_diff))
+
+sample_size <- floor(0.80 * nrow(df)) # 80-20 training/test split.
+training_indicies <- sample(1:nrow(df), sample_size)
+training_set <- df[training_indicies,]
+test_set <- df[-training_indicies,]
+
+
+
+write.csv(training_set, "../data_processed/party_change_and_econ_df_training.csv") # used for training and cross validation.
+write.csv(test_set, "../data_processed/party_change_and_econ_df_test.csv")
+
+
+# summary(party_change_and_econ_df)
+# used_cols <- party_change_and_econ_df %>% select(state, year, change_within_4years, change_next_year, 
+#                                 participation_rate, unemployment_rate, gdp, gdp_pchange, 
+#                                 gdp_pchange_ma4_8_diff, uer_ma4_8_diff)
+# View(used_cols)
 ```
 
 

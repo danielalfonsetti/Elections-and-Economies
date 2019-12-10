@@ -100,8 +100,8 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
   
   
   logit_ksplot <- ksplot(logit_ROC_obj)
-  text(x = 0.6, y= 0.45, label = paste0("p-value = ", round(logit_ks_test_res$p.value, 3)))
-  text(x = 0.6, y =0.35, label = paste0("Optimal cutoff = ", round(logit_ksplot$`KS Cutoff`, 3)))
+  text(x = 0.3, y= 0.45, label = paste0("p-value = ", round(logit_ks_test_res$p.value, 3)))
+  text(x = 0.3, y =0.35, label = paste0("Optimal cutoff = ", round(logit_ksplot$`KS Cutoff`, 3)))
   
   
   ## Plot the two distributions
