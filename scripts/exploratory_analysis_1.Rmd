@@ -6,12 +6,9 @@ output: html_document
 ```{r setup, include=FALSE}
 library(tidyverse)
 library(readxl)
+library(TTR)
 
-
-# library(forecast)
-# library(TTR)
-
-FILE_OUTPUT = FALSE
+FILE_OUTPUT = TRUE
 
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -47,21 +44,18 @@ party_change_df <- party_change_df %>%
   mutate(years_till_change = if (2010 %in% year) NA  else n() - abs(years_since_other_party)) %>%
   mutate(years_till_change = if (change_counter == 0) years_till_change + 1 else years_till_change )
 
-
-
 party_change_df <- party_change_df %>% 
   group_by(state, change_counter)  %>%
-  mutate(change_within_4years = if (!is.na(years_till_change) && years_till_change <= 4) TRUE else FALSE) %>%
-  mutate(change_within_4years = if (is.na(years_till_change)) NA else change_within_4years) %>%
+  mutate(change_within_4years = ifelse(!is.na(years_till_change) & years_till_change <= 4, TRUE, FALSE)) %>%
+  mutate(change_within_4years = ifelse(is.na(years_till_change), NA, change_within_4years)) %>%
   mutate(change_within_4years = ifelse(n() - row_number() >= 4, FALSE, change_within_4years))
 
-
 party_change_df <- party_change_df %>% 
-  mutate(change_next_year = if (!is.na(years_till_change) && years_till_change == 1) TRUE else FALSE) %>%
-  mutate(change_next_year = if (is.na(years_till_change)) NA else change_next_year) %>%
+  mutate(change_next_year = ifelse(!is.na(years_till_change) & years_till_change == 1, TRUE, FALSE)) %>%
+  mutate(change_next_year = ifelse(is.na(years_till_change), NA, change_next_year)) %>%
   mutate(change_next_year = ifelse(n() - row_number() >= 1, FALSE, change_next_year))
-# View(party_change_df)
 
+# View(party_change_df)
 ```
 
 ```{r data exploration}
@@ -193,7 +187,7 @@ if (FILE_OUTPUT) {dev.off()}
 ```{r State GDP data} 
 
 # Data from 1997 to 2018 (2012 chained dollars)
-gdp_97_18 <- read_csv("./data/SAGDP9N__ALL_AREAS_1997_2018.csv")
+gdp_97_18 <- read_csv("../data/SAGDP9N__ALL_AREAS_1997_2018.csv")
 state_gdp_97_18 <- gdp_97_18 %>% filter(Description == "All industry total" & GeoName %in% state.name)
 
 index_1997_12 <- which(colnames(gdp_97_18)=="1997")
@@ -201,7 +195,7 @@ index_2018_12 <- which(colnames(state_gdp_97_18)=="2018")
 state_gdp_97_18[,index_1997_12:index_2018_12] <- sapply(state_gdp_97_18[,index_1997_12:index_2018_12], as.numeric)
 
 # Data from 1977 to 1997 (1997 chained dollars).
-gdp_77_97 <- read_csv("./data/SAGDP9S__ALL_AREAS_1977_1997.csv")
+gdp_77_97 <- read_csv("../data/SAGDP9S__ALL_AREAS_1977_1997.csv")
 state_gdp_77_97 <- gdp_77_97 %>% filter(Description == "All industry total" & GeoName %in% state.name)
 
 index_1977_97 <- which(colnames(state_gdp_77_97)=="1977")
@@ -262,7 +256,7 @@ gdp_pdiffs_long_df <-  gdp_pdiffs %>%
                       rename(state = State, gdp_pchange = value)
 
 gdp_pdiffs_long_df$gdp_pchange <- round(gdp_pdiffs_long_df$gdp_pchange, 2) 
-# View(gdp_pdiffs_long_df)
+View(gdp_pdiffs_long_df)
 
 ```
 
@@ -277,9 +271,12 @@ party_change_and_econ_df <- party_change_and_econ_df %>%
   mutate( gdp_ma8 = runMean(gdp, 8, cumulative = FALSE),
           gdp_ma4 = runMean(gdp, 4, cumulative = FALSE),
           uer_ma8 = runMean(unemployment_rate, 8, cumulative = FALSE),
-          uer_ma4 = runMean(unemployment_rate, 4, cumulative = FALSE)) %>%
+          uer_ma4 = runMean(unemployment_rate, 4, cumulative = FALSE),
+          gdp_pchange_ma4 = runMean(gdp_pchange, 4, cumulative = FALSE),
+          gdp_pchange_ma8 = runMean(gdp_pchange, 8, cumulative = FALSE)) %>%
   mutate(gdp_ma4_8_diff = gdp_ma4 - gdp_ma8,
-         uer_ma4_8_diff = uer_ma4 - uer_ma8)
+         uer_ma4_8_diff = uer_ma4 - uer_ma8,
+         gdp_pchange_ma4_8_diff = gdp_pchange_ma4-gdp_pchange_ma8)
 
 
 # sapply(party_change_and_econ_df, class)
@@ -287,8 +284,6 @@ party_change_and_econ_df <- party_change_and_econ_df %>%
 # summary(party_change_and_econ_df)
 
 # Save processed data 
-x <- party_change_and_econ_df %>% filter(state == "Maine")
-View(x)
 write.csv(party_change_and_econ_df, "../data_processed/party_change_and_econ_df_v2.csv")
 ```
 
@@ -307,24 +302,54 @@ nrow(change_not_within_4years_df) # 1010
 
 # Difference between unemployment rates in years leading up to a change in parties is not signficant (p = 0.3647)
 uer_4_yr_test <- t.test(change_within_4years_df$unemployment_rate, change_not_within_4years_df$unemployment_rate) 
+uer_4_yr_test # sig. 0.003297
 
 # Difference between gdp change in years leading up to a change in parties is not signficant (p = 0.5442)
 gdp_change_4_yr_test <- t.test(change_within_4years_df$gdp_change, change_not_within_4years_df$gdp_change)
+gdp_change_4_yr_test # sig. 0.02559
 
 # Difference between gdp percent change in years leading up to a change in parties is very significant (p = 0.00498)
 # Interesting that this is the case but unemployment isn't.
 gdp_pchange_4_yr_test <- t.test(change_within_4years_df$gdp_pchange, change_not_within_4years_df$gdp_pchange)
-
+gdp_pchange_4_yr_test # sig. 0.007032
 
 # Repeat for "change next year"
 nrow(change_next_year) # 194
 nrow(change_not_next_year) # 1010
 
-uer_next_yr_test <- t.test(change_next_year$unemployment_rate, change_not_next_year$unemployment_rate)  # p = 0.665
-gdp_change_next_yr_test <- t.test(change_next_year$gdp_change, change_not_next_year$gdp_change)  # p = 4.01e-05
-gdp_pchange_next_yr_test <- t.test(change_next_year$gdp_pchange, change_not_next_year$gdp_pchange) # p = 0.0318
-gdp_next_yr_test <- t.test(change_next_year$gdp, change_not_next_year$gdp) # p = 2.546e-06 suspicious. This shouldn't vary.
-# Hypothesis: GDP increaes over time, and maybe the frequency of party switching also has increased over time.
+uer_next_yr_test <- t.test(change_next_year$unemployment_rate, change_not_next_year$unemployment_rate)
+uer_next_yr_test # not sig. 0.1412
+
+gdp_change_next_yr_test <- t.test(change_next_year$gdp_change, change_not_next_year$gdp_change) 
+gdp_change_next_yr_test # very sig. 1.65e-05
+
+gdp_pchange_next_yr_test <- t.test(change_next_year$gdp_pchange, change_not_next_year$gdp_pchange)
+gdp_pchange_next_yr_test # sig. 0.0006527
+
+gdp_next_yr_test <- t.test(change_next_year$gdp, change_not_next_year$gdp) 
+gdp_next_yr_test # sig. 0.635
+
+
+# T-tests with respect to moving avereage difference variables.
+# None of these are significant, suprisingly.
+uer_ma4_8_diff_next_yr_test <- t.test(change_next_year$uer_ma4_8_diff, change_not_next_year$uer_ma4_8_diff) 
+uer_ma4_8_diff_next_yr_test # not sig. 0.519
+
+gdp_ma4_8_diff_next_yr_test <- t.test(change_next_year$gdp_ma4_8_diff, change_not_next_year$gdp_ma4_8_diff) 
+gdp_ma4_8_diff_next_yr_test # not sig. 0.1638
+
+uer_ma4_8_diff_4_yr_test <- t.test(change_within_4years_df$uer_ma4_8_diff, change_not_within_4years_df$uer_ma4_8_diff) 
+uer_ma4_8_diff_4_yr_test # not sig. 0.4487
+
+gdp_ma4_8_diff_4_yr_test <- t.test(change_within_4years_df$gdp_ma4_8_diff, change_not_within_4years_df$gdp_ma4_8_diff) 
+gdp_ma4_8_diff_4_yr_test # not sig. 0.4308
+
+
+gdp_pchange_ma4_8_diff_4_yr_test <- t.test(change_within_4years_df$gdp_pchange_ma4_8_diff, change_not_within_4years_df$gdp_pchange_ma4_8_diff) 
+gdp_pchange_ma4_8_diff_4_yr_test # sig. 0.0003334
+
+gdp_pchange_ma4_8_diff_next_year_test <- t.test(change_next_year$gdp_pchange_ma4_8_diff, change_not_next_year$gdp_pchange_ma4_8_diff) 
+gdp_pchange_ma4_8_diff_next_year_test # not sig. 0.1689
 
 ##########
 # Plots
@@ -362,8 +387,16 @@ ggplot(df, aes(x = gdp_pchange, group = change_next_year, fill = change_next_yea
        label = paste0("t-test p-value = ", round(gdp_pchange_next_yr_test$p.value, 3)), 
        x = -Inf, y = Inf, hjust = 0, vjust = 1)
 
-# What about if you combine unemployment and gdp
 
+ggplot(df, aes(x = gdp_pchange_ma4_8_diff, group = change_within_4years, fill = change_within_4years)) + 
+  geom_histogram(alpha = 0.5) +
+  labs(x = "GDP % Change 4yr MA - 8yr MA", y = "Count", fill = "Party change Within\n4 Years") +
+  ggtitle("GDP % Change 4yr MA - 8yr MA by whether party changes next year") + 
+  annotate(geom = 'text', 
+       label = paste0("t-test p-value = ", round(gdp_pchange_ma4_8_diff_4_yr_test$p.value, 3)), 
+       x = -Inf, y = Inf, hjust = 0, vjust = 1)
+
+# What about if you combine unemployment and gdp
 
 ```
 
@@ -396,16 +429,16 @@ ggplot(data = national_averages, aes(x = year)) +
 
 
 
-```{r plotting State GDPs vs Party Changes} 
+```{r plotting State GDPs and unemployment vs Party Changes} 
 
 if (FILE_OUTPUT) {
-  pdf(file = "../output/gdp_change_vs_governor_party_change.pdf")
+  pdf(file = "../output/gdp_change_unemployment_vs_governor_party_change.pdf")
 } 
 
 df <- party_change_and_econ_df %>% filter(year > 1977)
 p <- ggplot(df, aes(x = year, y = years_since_other_party, color = gdp_change, group = interaction(state, change_counter))) +
-    geom_line() + 
     geom_point() +
+    geom_line() + 
     ylim(c(-max(abs(df$years_since_other_party)), max(abs(df$years_since_other_party)))) + 
     labs(x = "Year", y = "Years since Party Change", title = paste0("GDP Change vs Governor Party Changes over Time for all States"), color = "GDP Change") +
     scale_color_distiller(palette = "RdBu") + 
@@ -425,17 +458,16 @@ p <- ggplot(df, aes(x = year, y = years_since_other_party, color = gdp_pchange, 
 print(p)
 
 
-
-
 for (cur_state in state.name) {
   state_df <- party_change_and_econ_df %>% filter(state == cur_state)
   state_df <- state_df %>% filter(year > 1977)
   
   p <- ggplot(state_df, aes(x = year, y = years_since_other_party,
-                            color = gdp_change, size = state_df$unemployment_rate,
+                            color = gdp_change, size = state_df$unemployment_rate, 
+                            size = state_df$unemployment_rate,
                             group = interaction(state, change_counter))) +
     geom_line(size = 1, color = "black") + 
-    geom_point(size = state_df$unemployment_rate) +
+    geom_point() +
     ylim(c(-max(abs(state_df$years_since_other_party)), max(abs(state_df$years_since_other_party)))) + 
     scale_color_gradient2(low = "red", mid = 'gray', high = "blue", midpoint = 0) +
     labs(x = "Year", y = "Years since Party Change", title = paste0("GDP Change vs Governor Party Changes over Time for \n", cur_state), color = "GDP Change", size = "Unemployment Rate") +
@@ -449,10 +481,11 @@ for (cur_state in state.name) {
   state_df <- party_change_and_econ_df %>% filter(state == cur_state)
   state_df <- state_df %>% filter(year > 1977)
   p <- ggplot(state_df, aes(x = year, y = years_since_other_party, 
-                            color = gdp_pchange, size = state_df$unemployment_rate, 
+                            size = state_df$unemployment_rate,
+                            color = gdp_pchange, 
                             group = interaction(state, change_counter))) +
     geom_line(size = 1, color = "black") + 
-    geom_point() + 
+    geom_point() +
     ylim(c(-max(abs(state_df$years_since_other_party)), max(abs(state_df$years_since_other_party)))) + 
     scale_color_gradient2(low = "red", mid = 'gray', high = "blue", midpoint = 0) +
     labs(x = "Year", y = "Years since Party Change", title = paste0("GDP % Change vs Governor Party Changes over Time for \n", cur_state), color = "GDP % Change", size = "Unemployment Rate") +

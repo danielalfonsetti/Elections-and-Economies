@@ -26,7 +26,7 @@ colnames(roc_df) <- c("label", 'rf_score', "logit_score")
 for (i in 1:nrow(data_df)) {
   
   if (i %% 100 == 0) {print(paste0("Iteration: ", i, " out of ", nrow(data_df)))}
-  loo_index <- sample(seq_len(nrow(data_df)), size = 1)
+  loo_index <- i
   test_set <- data_df[loo_index,]
   training_set <- data_df[-loo_index,]
   
@@ -71,38 +71,6 @@ negative_dist <- roc_df %>% filter(label == "Negative")
 logit_ks_test_res <- ks.test(positive_dist$logit_score, negative_dist$logit_score)
 
 
-####### Plotting ########
-myPlots <- vector(6, mode='list')
-
-
-{  
-    plot(logit_ROC_obj)
-    lines(logit_ROC_ci$LowerTPR ~ logit_ROC_ci$FPR)
-    lines(logit_ROC_ci$UpperTPR ~ logit_ROC_ci$FPR)
-    text(x = 0.6, y = 0.4, labels = paste0("AUC = ", round(logit_ROC_obj$AUC, 3)))
-    title("Logistic Regression ROC on Model: Party Change within 4 Years ~ \n Participation % + Unemployment % + GDP % Change")
-    
-    myPlots[[1]] <- recordPlot()
-    
-    logit_ksplot <- ksplot(logit_ROC_obj)
-    text(x = 0.3, y= 0.45, label = paste0("p-value = ", round(logit_ks_test_res$p.value, 3)))
-    text(x = 0.3, y =0.35, label = paste0("Optimal cutoff = ", round(logit_ksplot$`KS Cutoff`, 3)))
-    
-    myPlots[[2]] <- recordPlot()
-    
-  ##### Plot the two distributions #####
-  p <- ggplot(data = roc_df, aes(x = logit_score, group = label, fill = label), alpha = 0.5) + 
-    geom_histogram() +
-    geom_vline(xintercept = logit_ksplot$`KS Cutoff`, color = "orange", alpha=0.5) +
-    geom_text(aes(x=logit_ksplot$`KS Cutoff`, label="Logit Optimal Cutoff", y=230), colour="black") +
-    labs(x = "Logistic Regression Score", y = "Count", fill = "Party Change \nwithin 4 Years") + 
-    ggtitle("Logistic Regression Scores by +/- Distributions")
-  print(p)
-  
-  myPlots[[3]] <- recordPlot()
-}
-
-
 #######################################################
 # Random Forest Evaluation
 #######################################################
@@ -121,27 +89,47 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
 
 ####### Plotting ########
 {
+  pdf(fileName, onefile=TRUE)
+  
+  ####### Plotting Logistic Regression ########
+  
+  plot(logit_ROC_obj)
+  lines(logit_ROC_ci$LowerTPR ~ logit_ROC_ci$FPR)
+  lines(logit_ROC_ci$UpperTPR ~ logit_ROC_ci$FPR)
+  text(x = 0.8, y = 0.2, labels = paste0("AUC = ", round(logit_ROC_obj$AUC, 3)))
+  title("Logistic Regression ROC on Model: Party Change within 4 Years ~ \n Participation % + Unemployment % + GDP % Change")
+  
+  
+  logit_ksplot <- ksplot(logit_ROC_obj)
+  text(x = 0.6, y= 0.45, label = paste0("p-value = ", round(logit_ks_test_res$p.value, 3)))
+  text(x = 0.6, y =0.35, label = paste0("Optimal cutoff = ", round(logit_ksplot$`KS Cutoff`, 3)))
+  
+  
+  # Plot the two distributions
+  p <- ggplot(data = roc_df, aes(x = logit_score, group = label, fill = label), alpha = 0.5) + 
+    geom_histogram() +
+    geom_vline(xintercept = logit_ksplot$`KS Cutoff`, color = "orange", alpha=0.5) +
+    geom_text(aes(x=logit_ksplot$`KS Cutoff`, label="Logit Optimal Cutoff", y=230), colour="black") +
+    labs(x = "Logistic Regression Score", y = "Count", fill = "Party Change \nwithin 4 Years") + 
+    ggtitle("Logistic Regression Scores by +/- Distributions")
+  print(p)
+    
+  
+  ####### 2. Plotting Random Forest ########
+  
+  plot(rf_ROC_obj)
+  lines(rf_ROC_ci$LowerTPR ~ rf_ROC_ci$FPR)
+  lines(rf_ROC_ci$UpperTPR ~ rf_ROC_ci$FPR)
+  text(x = 0.8, y = 0.2, labels = paste0("AUC = ", round(rf_ROC_obj$AUC, 3)))
+  title("Random Forest ROC on Model: Party Change within 4 Years ~ \n Participation % + Unemployment % + GDP % Change")
 
-  {  
-    plot(rf_ROC_obj)
-    lines(rf_ROC_ci$LowerTPR ~ rf_ROC_ci$FPR)
-    lines(rf_ROC_ci$UpperTPR ~ rf_ROC_ci$FPR)
-    text(x = 0.6, y = 0.4, labels = paste0("AUC = ", round(rf_ROC_obj$AUC, 3)))
-    title("Random Forest ROC on Model: Party Change within 4 Years ~ \n Participation % + Unemployment % + GDP % Change")
-  }
   
-  myPlots[[4]] <- recordPlot()
-  
-  
-  {
-    rf_ksplot <- ksplot(rf_ROC_obj)
-    text(x = 0.6, y= 0.45, label = paste0("p-value = ", round(rf_ks_test_res$p.value, 3)))
-    text(x = 0.6, y =0.35, label = paste0("Optimal cutoff = ", round(rf_ksplot$`KS Cutoff`, 3)))
-  }
-  
-  myPlots[[5]] <- recordPlot()
-  
-  ##### Plot the two distributions #####
+  rf_ksplot <- ksplot(rf_ROC_obj)
+  text(x = 0.6, y= 0.45, label = paste0("p-value = ", round(rf_ks_test_res$p.value, 3)))
+  text(x = 0.6, y =0.35, label = paste0("Optimal cutoff = ", round(rf_ksplot$`KS Cutoff`, 3)))
+
+
+  # Plot the two distributions
   p <- ggplot(data = roc_df, aes(x = rf_score, group = label, fill = label), alpha = 0.5) + 
     geom_histogram() +
     geom_vline(xintercept = rf_ksplot$`KS Cutoff`, color = "orange", alpha=0.5) +
@@ -150,14 +138,9 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
     ggtitle("Random Forest Score by +/- Distributions")
   print(p)
   
-  myPlots[[6]] <- recordPlot()
+  dev.off()
 }
 
-pdf(fileName, onefile=TRUE)
-for (my.plot in myPlots) {
-  replayPlot(my.plot)
-}
-graphics.off()
 
 
 
