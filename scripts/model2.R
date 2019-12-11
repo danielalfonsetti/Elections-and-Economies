@@ -1,24 +1,20 @@
+rm(list = ls())
 library(tidyverse)
 library(randomForest)
 library(ROCit)
+set.seed(123)
 
 OUTPUT = TRUE
 
+##################################################################
+# Description: Training and cross validation for
+# Model: Party Change next year ~ Participation Rate + Unemployment Rate + GDP % Change
+##################################################################
+
 data_df <- read.csv("../data_processed/party_change_and_econ_df_training.csv") %>% select(-1) # Remove row numbers
-
-# Model: Party Change next year = Participation Rate + Unemployment Rate + GDP % Change
-
-myFormulaName <- "model_2_next_year_part_unemp_gdp_pchange"
-fileName = paste0("../output/model_evals_", myFormulaName, ".pdf")
-
-########################################################################
-########################################################################
-########################################################################
-
 data_df <- transform(data_df, change_next_year = as.factor(change_next_year))
 
 # Leave one out cross validation
-set.seed(123)
 roc_df <- data.frame(matrix(NA, ncol = 3, nrow = nrow(data_df)))
 colnames(roc_df) <- c("label", 'rf_score', "logit_score")
 
@@ -87,6 +83,10 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
 
 ###### Plotting ######
 
+myFormulaName <- "model_2_next_year_part_unemp_gdp_pchange"
+fileName = paste0("../output/cross_val/", myFormulaName, ".pdf")
+
+
 {  
   pdf(fileName)
   
@@ -100,8 +100,8 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
   
   
   logit_ksplot <- ksplot(logit_ROC_obj)
-  text(x = 0.6, y= 0.45, label = paste0("p-value = ", round(logit_ks_test_res$p.value, 3)))
-  text(x = 0.6, y =0.35, label = paste0("Optimal cutoff = ", round(logit_ksplot$`KS Cutoff`, 3)))
+  text(x = 0.3, y= 0.45, label = paste0("p-value = ", round(logit_ks_test_res$p.value, 3)))
+  text(x = 0.3, y =0.35, label = paste0("Optimal cutoff = ", round(logit_ksplot$`KS Cutoff`, 3)))
   
   
   # Plot the two distributions

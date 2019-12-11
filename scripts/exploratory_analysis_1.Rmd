@@ -1,12 +1,14 @@
 ---
-title: "exploratory_analysis_1"
+title: "exploratory_analysis"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
+rm(list = ls())
 library(tidyverse)
 library(readxl)
 library(TTR)
+set.seed(123)
 
 FILE_OUTPUT = TRUE
 
@@ -285,10 +287,10 @@ party_change_and_econ_df <- party_change_and_econ_df %>%
 
 # Save processed data 
 
-
+# Save full data
 write.csv(party_change_and_econ_df, "../data_processed/party_change_and_econ_df_full.csv")
 
-
+# Data that will be used to train the models
 df <- party_change_and_econ_df %>% filter(!is.na(change_within_4years) & !is.na(gdp_pchange) & !is.na(gdp_pchange_ma4_8_diff)  & !is.na(gdp_ma4_8_diff) & !is.na(gdp) & !is.na(uer_ma4_8_diff))
 
 sample_size <- floor(0.80 * nrow(df)) # 80-20 training/test split.
@@ -301,12 +303,8 @@ test_set <- df[-training_indicies,]
 write.csv(training_set, "../data_processed/party_change_and_econ_df_training.csv") # used for training and cross validation.
 write.csv(test_set, "../data_processed/party_change_and_econ_df_test.csv")
 
-
-# summary(party_change_and_econ_df)
-# used_cols <- party_change_and_econ_df %>% select(state, year, change_within_4years, change_next_year, 
-#                                 participation_rate, unemployment_rate, gdp, gdp_pchange, 
-#                                 gdp_pchange_ma4_8_diff, uer_ma4_8_diff)
-# View(used_cols)
+summary(training_set)
+summary(test_set)
 ```
 
 
@@ -319,8 +317,8 @@ change_not_within_4years_df <- df %>% filter(!change_within_4years)
 change_next_year <- df %>% filter(change_next_year)
 change_not_next_year <- df %>% filter(!change_next_year)
 
-nrow(change_within_4years_df) # 194
-nrow(change_not_within_4years_df) # 1010
+nrow(change_within_4years_df) # 170
+nrow(change_not_within_4years_df) # 1340
 
 # Difference between unemployment rates in years leading up to a change in parties is not signficant (p = 0.3647)
 uer_4_yr_test <- t.test(change_within_4years_df$unemployment_rate, change_not_within_4years_df$unemployment_rate) 
@@ -349,8 +347,10 @@ gdp_pchange_next_yr_test <- t.test(change_next_year$gdp_pchange, change_not_next
 gdp_pchange_next_yr_test # sig. 0.0006527
 
 gdp_next_yr_test <- t.test(change_next_year$gdp, change_not_next_year$gdp) 
-gdp_next_yr_test # sig. 0.635
+gdp_next_yr_test # not sig. 0.635
 
+gdp_4_yr_test <- t.test(change_within_4years_df$gdp, change_not_within_4years_df$gdp) 
+gdp_4_yr_test # not sig.0.8376
 
 # T-tests with respect to moving avereage difference variables.
 # None of these are significant, suprisingly.
@@ -366,17 +366,21 @@ uer_ma4_8_diff_4_yr_test # not sig. 0.4487
 gdp_ma4_8_diff_4_yr_test <- t.test(change_within_4years_df$gdp_ma4_8_diff, change_not_within_4years_df$gdp_ma4_8_diff) 
 gdp_ma4_8_diff_4_yr_test # not sig. 0.4308
 
-
 gdp_pchange_ma4_8_diff_4_yr_test <- t.test(change_within_4years_df$gdp_pchange_ma4_8_diff, change_not_within_4years_df$gdp_pchange_ma4_8_diff) 
 gdp_pchange_ma4_8_diff_4_yr_test # sig. 0.0003334
 
 gdp_pchange_ma4_8_diff_next_year_test <- t.test(change_next_year$gdp_pchange_ma4_8_diff, change_not_next_year$gdp_pchange_ma4_8_diff) 
 gdp_pchange_ma4_8_diff_next_year_test # not sig. 0.1689
 
+
+```
+
+```{r plots}
 ##########
 # Plots
 ##########
 
+# Unemployment rate vs 4 years. Significant
 ggplot(df, aes(x = unemployment_rate, group = change_within_4years, fill = change_within_4years)) + 
   geom_histogram(alpha = 0.5) +
   labs(x = "Unemployment Rate", y = "Count", fill = "Party change Within\n4 Years") +
@@ -385,6 +389,7 @@ ggplot(df, aes(x = unemployment_rate, group = change_within_4years, fill = chang
            label = paste0("t-test p-value = ", round(uer_4_yr_test$p.value, 3)), 
            x = -Inf, y = Inf, hjust = 0, vjust = 1)
 
+# Unemployment rate vs next year. Not significant.
 ggplot(df, aes(x = unemployment_rate, group = change_next_year, fill = change_next_year)) + 
   geom_histogram(alpha = 0.5) +
   labs(x = "Unemployment Rate", y = "Count", fill = "Party change\nnext year") +
@@ -393,6 +398,16 @@ ggplot(df, aes(x = unemployment_rate, group = change_next_year, fill = change_ne
          label = paste0("t-test p-value = ", round(uer_next_yr_test$p.value, 3)), 
          x = -Inf, y = Inf, hjust = 0, vjust = 1)
 
+# GDP vs 4 years. 
+ggplot(df, aes(x = gdp, group = change_within_4years, fill = change_within_4years)) + 
+  geom_histogram(alpha = 0.5) +
+  labs(x = "GDP", y = "Count", fill = "Party change Within\n4 Years") +
+  ggtitle("GDP by whether party changes within 4 years") + 
+  annotate(geom = 'text', 
+           label = paste0("t-test p-value = ", round(gdp_4_yr_test$p.value, 3)), 
+           x = -Inf, y = Inf, hjust = 0, vjust = 1)
+
+# GDP % change vs 4 years. Sigificant
 ggplot(df, aes(x = gdp_pchange, group = df$change_within_4years, fill = change_within_4years)) + 
   geom_histogram(alpha = 0.5) +
   labs(x = "GDP % Change", y = "Count",fill = "Party change Within\n4 Years") + 
@@ -401,6 +416,7 @@ ggplot(df, aes(x = gdp_pchange, group = df$change_within_4years, fill = change_w
          label = paste0("t-test p-value = ", round(gdp_pchange_4_yr_test$p.value, 3)), 
          x = -Inf, y = Inf, hjust = 0, vjust = 1)
 
+# GDP % change vs next year. Significant
 ggplot(df, aes(x = gdp_pchange, group = change_next_year, fill = change_next_year)) + 
   geom_histogram(alpha = 0.5) +
   labs(x = "GDP % Change", y = "Count", fill = "Party change\nnext year") +
@@ -410,24 +426,49 @@ ggplot(df, aes(x = gdp_pchange, group = change_next_year, fill = change_next_yea
        x = -Inf, y = Inf, hjust = 0, vjust = 1)
 
 
+# GDP % change MA diffs vs 4 years. Significant.
 ggplot(df, aes(x = gdp_pchange_ma4_8_diff, group = change_within_4years, fill = change_within_4years)) + 
   geom_histogram(alpha = 0.5) +
   labs(x = "GDP % Change 4yr MA - 8yr MA", y = "Count", fill = "Party change Within\n4 Years") +
-  ggtitle("GDP % Change 4yr MA - 8yr MA by whether party changes next year") + 
+  ggtitle("GDP % Change 4yr MA - 8yr MA by whether party changes in 4 years") + 
   annotate(geom = 'text', 
        label = paste0("t-test p-value = ", round(gdp_pchange_ma4_8_diff_4_yr_test$p.value, 3)), 
        x = -Inf, y = Inf, hjust = 0, vjust = 1)
 
-# What about if you combine unemployment and gdp
+# GDP % change MA diffs vs next year. Not significant.
+ggplot(df, aes(x = gdp_pchange_ma4_8_diff, group = change_next_year, fill = change_next_year)) + 
+  geom_histogram(alpha = 0.5) +
+  labs(x = "GDP % Change 4yr MA - 8yr MA", y = "Count", fill = "Party change Within\n4 Years") +
+  ggtitle("GDP % Change 4yr MA - 8yr MA by whether party changes next year") + 
+  annotate(geom = 'text', 
+       label = paste0("t-test p-value = ", round(gdp_pchange_ma4_8_diff_next_year_test$p.value, 3)), 
+       x = -Inf, y = Inf, hjust = 0, vjust = 1)
+
+
+# Unemployment MA diffs vs 4 years.  Not significant
+ggplot(df, aes(x = gdp_pchange_ma4_8_diff, group = change_within_4years, fill = change_within_4years)) + 
+  geom_histogram(alpha = 0.5) +
+  labs(x = "GDP % Change 4yr MA - 8yr MA", y = "Count", fill = "Party change Within\n4 Years") +
+  ggtitle("Unemployment Change 4yr MA - 8yr MA by whether party changes within 4 years") + 
+  annotate(geom = 'text', 
+       label = paste0("t-test p-value = ", round(uer_ma4_8_diff_4_yr_test$p.value, 3)), 
+       x = -Inf, y = Inf, hjust = 0, vjust = 1)
+
+# Unemployment MA diffs vs next year. Not significant.
+ggplot(df, aes(x = gdp_pchange_ma4_8_diff, group = change_next_year, fill = change_next_year)) + 
+  geom_histogram(alpha = 0.5) +
+  labs(x = "GDP % Change 4yr MA - 8yr MA", y = "Count", fill = "Party change Within\n4 Years") +
+  ggtitle("Unemployment Change 4yr MA - 8yr MA by whether party changes next year") + 
+  annotate(geom = 'text', 
+       label = paste0("t-test p-value = ", round(uer_ma4_8_diff_next_yr_test$p.value, 3)), 
+       x = -Inf, y = Inf, hjust = 0, vjust = 1)
 
 ```
 
-
-
 ```{r Sanity checks} 
 
- # Sanity checks
 national_averages <- party_change_and_econ_df %>% 
+                    filter(year < 2011) %>%
                     group_by(year) %>% 
                     summarise(gdp_ma4_8_diff = mean(gdp_ma4_8_diff),
                               uer_ma4_8_diff = mean(uer_ma4_8_diff),
@@ -435,16 +476,14 @@ national_averages <- party_change_and_econ_df %>%
                               unemployment_rate = mean(unemployment_rate))
 
 ggplot(data = national_averages, aes(x = year)) + 
-  geom_point(aes(y = gdp_ma4_8_diff), color = "Blue") + 
-  geom_point(aes(y = uer_ma4_8_diff*1000), color = "Red") +
-  scale_y_continuous(sec.axis = sec_axis(~./1000, name = "Unemployment Rate [%]")) +
-  labs(y = "GDP")
-
-ggplot(data = national_averages, aes(x = year)) + 
   geom_point(aes(y = gdp), color = "Blue") + 
   geom_point(aes(y = unemployment_rate*13000), color = "Red") +
   scale_y_continuous(sec.axis = sec_axis(~./13000, name = "Unemployment Rate [%]")) +
-  labs(y = "GDP")
+  labs(y = "GDP", x= "Year") +
+  ggtitle("Average State Unemployment and GDP by year")
+
+# This last plot is a good sanity check. We see a decline in GDP around the 2007 crisis, and a rise in an unemployment.
+# Data seems reliable.
 
 # Average state GDP has is mostly an upward trend. But per state it might look different
 ```
@@ -519,9 +558,3 @@ for (cur_state in state.name) {
 if (FILE_OUTPUT) {dev.off()}
 
 ```
-
-
-
-
-
-

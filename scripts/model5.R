@@ -1,23 +1,20 @@
+rm(list = ls())
 library(tidyverse)
 library(randomForest)
 library(ROCit)
+set.seed(123)
 
 OUTPUT = TRUE
 
+##################################################################
+# Description: Training and cross validation for
+# Model: Party Change within the next 4 years = Participation Rate + Unemployment Rate + GDP % Change + gdp_pchange_ma4_8_diff + gdp + gdp_ma4_8_diff + gdp_pchange_ma4_8_diff + uer_ma4_8_diff 
+##################################################################
+
 data_df <- read.csv("../data_processed/party_change_and_econ_df_training.csv")  %>% select(-1) # Remove row numbers
-
-# Model: Party Change within the next 4 years = Participation Rate + Unemployment Rate + GDP % Change + gdp_pchange_ma4_8_diff + gdp_ma4_8_diff + gdp_pchange_ma4_8_diff + uer_ma4_8_diff 
-myFormulaName <- "model_5_4year_from_participation_unemployment_gdp_pchange_ma_diffs_ALL"
-fileName = paste0("../output/model_evals_", myFormulaName, ".pdf")
-
-########################################################################
-########################################################################
-########################################################################
-
 data_df <- transform(data_df, change_within_4years = as.factor(change_within_4years))
 
 # Leave one out cross validation
-set.seed(123)
 roc_df <- data.frame(matrix(NA, ncol = 3, nrow = nrow(data_df)))
 colnames(roc_df) <- c("label", 'rf_score', "logit_score")
 
@@ -32,6 +29,7 @@ for (i in 1:nrow(data_df)) {
     formula = change_within_4years ~ participation_rate + unemployment_rate + gdp_pchange + gdp + gdp_ma4_8_diff + gdp_pchange_ma4_8_diff + uer_ma4_8_diff, 
     data = cv_training_set
   )
+  
   
   fitted_logit <- glm(
     formula = change_within_4years ~ participation_rate + unemployment_rate + gdp_pchange + gdp + gdp_ma4_8_diff + gdp_pchange_ma4_8_diff + uer_ma4_8_diff, 
@@ -85,6 +83,10 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
 
 
 ####### Plotting ########
+
+myFormulaName <- "model_5_4year_from_participation_unemployment_gdp_pchange_ma_diffs_ALL"
+fileName = paste0("../output/cross_val/", myFormulaName, ".pdf")
+
 {  
   pdf(fileName)
   

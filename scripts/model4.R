@@ -1,24 +1,20 @@
+rm(list = ls())
 library(tidyverse)
 library(randomForest)
 library(ROCit)
+set.seed(123)
 
 OUTPUT = TRUE
 
-data_df <- read.csv("../data_processed/party_change_and_econ_df_training.csv")  %>% select(-1) # Remove row numbers
-
+##################################################################
+# Description: Training and cross validation for
 # Model: Party Change next year = Participation Rate + Unemployment Rate + GDP % Change + gdp_pchange_ma4_8_diff + uer_ma4_8_diff 
+##################################################################
 
-myFormulaName <- "model_4_nextyear_from_participation_unemployment_gdp_pchange_ma_diffs"
-fileName = paste0("../output/model_evals_", myFormulaName, ".pdf")
-
-########################################################################
-########################################################################
-########################################################################
-
+data_df <- read.csv("../data_processed/party_change_and_econ_df_training.csv")  %>% select(-1) # Remove row numbers
 data_df <- transform(data_df, change_next_year = as.factor(change_next_year))
   
 # Leave one out cross validation
-set.seed(123)
 roc_df <- data.frame(matrix(NA, ncol = 3, nrow = nrow(data_df)))
 colnames(roc_df) <- c("label", 'rf_score', "logit_score")
 
@@ -87,6 +83,10 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
 
 
 ####### Plotting ########
+
+myFormulaName <- "model_4_nextyear_from_participation_unemployment_gdp_pchange_ma_diffs"
+fileName = paste0("../output/cross_val/", myFormulaName, ".pdf")
+
 {  
   pdf(fileName)
   
