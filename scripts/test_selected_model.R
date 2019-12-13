@@ -60,14 +60,14 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
   
   rf_ksplot <- ksplot(rf_ROC_obj)
   text(x = 0.6, y= 0.45, label = paste0("p-value = ", round(rf_ks_test_res$p.value, 3)))
-  text(x = 0.6, y =0.35, label = paste0("Optimal cutoff = ", round(rf_ksplot$`KS Cutoff`, 3)))
+  text(x = 0.6, y =0.35, label = paste0("Optimal cutoff = ", round(0.36, 3)))
   
   # Plot the two distributions 
   
   p <- ggplot(data = roc_df, aes(x = rf_score, group = label, fill = label), alpha = 0.5) + 
     geom_histogram() +
-    geom_vline(xintercept = rf_ksplot$`KS Cutoff`, color = "orange", alpha=0.5) +
-    geom_text(aes(x=rf_ksplot$`KS Cutoff`, label="RF Optimal Cutoff", y=130), colour="black") +
+    geom_vline(xintercept = 0.36, color = "orange", alpha=0.5) +
+    geom_text(aes(x=0.36, label="RF Optimal Cutoff", y=130), colour="black") +
     labs(x = "Random Forest Score", y = "Count", fill = "Party Change \nwithin 4 Years") + 
     ggtitle("Random Forest Score by +/- Distributions")
   print(p)
@@ -77,11 +77,11 @@ rf_ks_test_res <- ks.test(positive_dist$rf_score, negative_dist$rf_score)
 
 # Test set AUC is still better than the second best model's AUC in training.
 
-# Using "optimal cutoff"
-roc_df$predicted_label <- as.factor(ifelse(roc_df$rf_score >  rf_ksplot$`KS Cutoff`, "Positive", "Negative"))
+# Using "optimal cutoff" from TRAINING set, not from testing set.
+roc_df$predicted_label <- as.factor(ifelse(roc_df$rf_score >  0.36, "Positive", "Negative"))
 cm <- table(predicted = roc_df$predicted_label, actual = roc_df$label)
-
-print(paste0("Accuracy = ", round((cm[1,1]+cm[2,2])/nrow(roc_df), 4)*100, "%")) # 64.86%
+cm
+print(paste0("Accuracy = ", round((cm[1,1]+cm[2,2])/nrow(roc_df), 4)*100, "%")) # 68.02
 
 
 

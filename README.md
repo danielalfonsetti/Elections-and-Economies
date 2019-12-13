@@ -5,7 +5,7 @@ Final project for the class "17.831 - Data and Politics", MIT Fall 2019.
 [Project Presentation](https://docs.google.com/presentation/d/1TaQChAa7Pjx8sft1XWR2ObMmIJelr_MHPhfPj7_-AwQ/edit?usp=sharing)
 
 ## Libraries required:
-install.packages(c("tidyverse", "randomForest", "ROCit", "readxl", "TTR"))
+install.packages(c("tidyverse", "randomForest", "ROCit", "readxl", "TTR")) \
 Uses R version 3.6.1 (2019-07-05)
 
 ## Data sources:

@@ -10,12 +10,12 @@ library(readxl)
 library(TTR)
 set.seed(123)
 
-FILE_OUTPUT = TRUE
+FILE_OUTPUT = FALSE
 
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r Gubernational Elections, warning=FALSE}
+```{r Dataset 1: Gubernational Elections dataset, warning=FALSE}
 
 gubernational_df <- read_excel("../data/StateElections_Gub_2012_09_06_Public_Version.xlsx")
 gubernational_df$years_since_other_party <- -gubernational_df$years_since_other_party # Make it so negative means the democrats are in power (so numbers on the 'left' of 0 correspond to the 'left' being in power, and numbers to the 'right' of 0 correspond to the 'right' being in power).
@@ -24,6 +24,7 @@ gubernational_df$years_since_other_party <- -gubernational_df$years_since_other_
 party_change_df <- gubernational_df[,c("state", "year", "years_since_other_party")] %>% filter(!is.na(years_since_other_party))
 
 
+# Add a variable that counts how many times party turnover happens in a given state.
 last_state = "blank"
 party_change_df$change_counter <-  NA
 change_counter <- 0
@@ -40,18 +41,20 @@ for (i in 1:nrow(party_change_df)) {
   party_change_df[i, "change_counter"] <- change_counter
 }
 
-# Year till next change
+# Add a variable that counts years till party changes next
 party_change_df <- party_change_df %>% 
   group_by(state, change_counter)  %>%
   mutate(years_till_change = if (2010 %in% year) NA  else n() - abs(years_since_other_party)) %>%
   mutate(years_till_change = if (change_counter == 0) years_till_change + 1 else years_till_change )
 
+# Add a variable that shows whether the party will change in the next four years.
 party_change_df <- party_change_df %>% 
   group_by(state, change_counter)  %>%
   mutate(change_within_4years = ifelse(!is.na(years_till_change) & years_till_change <= 4, TRUE, FALSE)) %>%
   mutate(change_within_4years = ifelse(is.na(years_till_change), NA, change_within_4years)) %>%
   mutate(change_within_4years = ifelse(n() - row_number() >= 4, FALSE, change_within_4years))
 
+# Add a variable that shows whether the party will change next year.
 party_change_df <- party_change_df %>% 
   mutate(change_next_year = ifelse(!is.na(years_till_change) & years_till_change == 1, TRUE, FALSE)) %>%
   mutate(change_next_year = ifelse(is.na(years_till_change), NA, change_next_year)) %>%
@@ -60,7 +63,7 @@ party_change_df <- party_change_df %>%
 # View(party_change_df)
 ```
 
-```{r data exploration}
+```{r Explore the gubernatorial data}
 
 # Data ranges from 1925 to 2016
 summary(gubernational_df$year)
@@ -100,7 +103,7 @@ gubernational_df %>%
 
 
 
-```{r Unemployment data}
+```{r Dataset 2: Unemployment data}
 unemployment_df <- read_excel("../data/ststdsadata.xlsx")
 
 # View(unemployment_df)
@@ -144,49 +147,10 @@ unemployment_year_means_df <- unemployment_df %>%
                                         unemployment_rate = mean(unemployment_rate, na.rm = TRUE))
 # View(unemployment_year_means_df)
 
-# Combine unemployment and gubernational party-change data. 
-party_change_x_unemployment_df <- merge(party_change_df, unemployment_year_means_df, by= c("state", "year")) 
-
 ```
 
 
-```{r Plotting Unemployment vs party changes}
-
-if (FILE_OUTPUT) {
-  dir.create("../output/")
-  pdf(file = "../output/unemployment_rate_vs_governor_party_change.pdf")
-} 
-
-p <- ggplot(party_change_x_unemployment_df, aes(x = year, y = years_since_other_party, color = unemployment_rate, group = interaction(state, change_counter))) +
-    geom_line() + 
-    geom_point() +
-    ylim(c(-max(abs(party_change_x_unemployment_df$years_since_other_party)), max(abs(party_change_x_unemployment_df$years_since_other_party)))) + 
-    scale_color_gradient(low = "blue", high = "red") +
-    labs(x = "Year", y = "Years since Party Change", title = paste0("Unemployment Rate vs Governor Party Changes over Time for all States"), color = "Unemployment Rate") +
-    theme_linedraw() +
-    coord_flip()
-print(p)
-
-for (cur_state in state.name) {
-  state_df <- party_change_x_unemployment_df %>% filter(state == cur_state)
-  
-  p <- ggplot(state_df, aes(x = year, y = years_since_other_party, color = unemployment_rate, group = interaction(state, change_counter))) +
-    geom_line() + 
-    geom_point() +
-    ylim(c(-max(abs(state_df$years_since_other_party)), max(abs(state_df$years_since_other_party)))) + 
-    scale_color_gradient(low = "blue", high = "red") +
-    labs(x = "Year", y = "Years since Party Change", title = paste0("Unemployment Rate vs Governor Party Changes over Time for \n", cur_state), color = "Unemployment Rate") +
-    theme_linedraw() +
-    coord_flip()
-  print(p)
-}
-
-if (FILE_OUTPUT) {dev.off()}
-```
-
-
-
-```{r State GDP data} 
+```{r Dataset 3: State GDP data} 
 
 # Data from 1997 to 2018 (2012 chained dollars)
 gdp_97_18 <- read_csv("../data/SAGDP9N__ALL_AREAS_1997_2018.csv")
@@ -265,9 +229,16 @@ gdp_pdiffs_long_df$gdp_pchange <- round(gdp_pdiffs_long_df$gdp_pchange, 2)
 
 ```{r Get moving averages for unemployment rate and GDP}
 
+# Combine unemployment, gdp and gubernational party-change datasets 
+party_change_x_unemployment_df <- merge(party_change_df, unemployment_year_means_df, by= c("state", "year")) 
 tmp <- merge(party_change_x_unemployment_df, gdp_diffs_long_df, by= c("state", "year")) 
 party_change_and_econ_df <- merge(tmp, gdp_pdiffs_long_df, by=c("state", "year"))
 
+```
+
+```{r Compute trend indicators}
+
+# Calculate moving averages and short-long moving average differences for GDP and uenmployment
 party_change_and_econ_df <- party_change_and_econ_df %>% 
   group_by(state)  %>%
   mutate( gdp_ma8 = runMean(gdp, 8, cumulative = FALSE),
@@ -280,17 +251,11 @@ party_change_and_econ_df <- party_change_and_econ_df %>%
          uer_ma4_8_diff = uer_ma4 - uer_ma8,
          gdp_pchange_ma4_8_diff = gdp_pchange_ma4-gdp_pchange_ma8)
 
-
-# sapply(party_change_and_econ_df, class)
-# View(party_change_and_econ_df)
-# summary(party_change_and_econ_df)
-
-# Save processed data 
-
 # Save full data
 write.csv(party_change_and_econ_df, "../data_processed/party_change_and_econ_df_full.csv")
 
-# Data that will be used to train the models
+# Do the 80-20 test split for our future prediction models (see "model1.R, model2.R etc...)
+# Data that will be used to train the models. Make sure all of the data used in the predictor variables is present.
 df <- party_change_and_econ_df %>% filter(!is.na(change_within_4years) & !is.na(gdp_pchange) & !is.na(gdp_pchange_ma4_8_diff)  & !is.na(gdp_ma4_8_diff) & !is.na(gdp) & !is.na(uer_ma4_8_diff))
 
 sample_size <- floor(0.80 * nrow(df)) # 80-20 training/test split.
@@ -298,13 +263,39 @@ training_indicies <- sample(1:nrow(df), sample_size)
 training_set <- df[training_indicies,]
 test_set <- df[-training_indicies,]
 
-
-
+# Save training and test data.
 write.csv(training_set, "../data_processed/party_change_and_econ_df_training.csv") # used for training and cross validation.
 write.csv(test_set, "../data_processed/party_change_and_econ_df_test.csv")
 
-summary(training_set)
-summary(test_set)
+
+tmp <- party_change_and_econ_df %>% select(state, year, change_next_year, change_within_4years, participation_rate, unemployment_rate, gdp_pchange, gdp, gdp_ma4_8_diff, gdp_pchange_ma4_8_diff, uer_ma4_8_diff)
+View(tmp)
+# summary(training_set)
+# summary(test_set)
+```
+b
+
+```{r Sanity checks} 
+
+national_averages <- party_change_and_econ_df %>% 
+                    filter(year < 2011) %>%
+                    group_by(year) %>% 
+                    summarise(gdp_ma4_8_diff = mean(gdp_ma4_8_diff),
+                              uer_ma4_8_diff = mean(uer_ma4_8_diff),
+                              gdp = mean(gdp),
+                              unemployment_rate = mean(unemployment_rate))
+
+ggplot(data = national_averages, aes(x = year)) + 
+  geom_point(aes(y = gdp), color = "Blue") + 
+  geom_point(aes(y = unemployment_rate*13000), color = "Red") +
+  scale_y_continuous(sec.axis = sec_axis(~./13000, name = "Unemployment Rate [%]")) +
+  labs(y = "GDP", x= "Year") +
+  ggtitle("Average State Unemployment and GDP by year")
+
+# This last plot is a good sanity check. We see a decline in GDP around the 2007 crisis, and a rise in an unemployment.
+# Data seems reliable.
+
+# Average state GDP has is mostly an upward trend. But per state it might look different
 ```
 
 
@@ -375,7 +366,7 @@ gdp_pchange_ma4_8_diff_next_year_test # not sig. 0.1689
 
 ```
 
-```{r plots}
+```{r Plots for the t-tests}
 ##########
 # Plots
 ##########
@@ -463,29 +454,20 @@ ggplot(df, aes(x = gdp_pchange_ma4_8_diff, group = change_next_year, fill = chan
        label = paste0("t-test p-value = ", round(uer_ma4_8_diff_next_yr_test$p.value, 3)), 
        x = -Inf, y = Inf, hjust = 0, vjust = 1)
 
-```
 
-```{r Sanity checks} 
+# Calculate directions of difference
+df %>%
+  group_by(change_within_4years) %>%
+  summarise(mean_unemployment = mean(unemployment_rate),
+            mean_gdp_pchange = mean(gdp_pchange, na.rm = TRUE),
+            count = n())
 
-national_averages <- party_change_and_econ_df %>% 
-                    filter(year < 2011) %>%
-                    group_by(year) %>% 
-                    summarise(gdp_ma4_8_diff = mean(gdp_ma4_8_diff),
-                              uer_ma4_8_diff = mean(uer_ma4_8_diff),
-                              gdp = mean(gdp),
-                              unemployment_rate = mean(unemployment_rate))
+df %>%
+  group_by(change_next_year) %>%
+  summarise(mean_unemployment = mean(unemployment_rate),
+            mean_gdp_pchange = mean(gdp_pchange, na.rm = TRUE),
+            count = n())
 
-ggplot(data = national_averages, aes(x = year)) + 
-  geom_point(aes(y = gdp), color = "Blue") + 
-  geom_point(aes(y = unemployment_rate*13000), color = "Red") +
-  scale_y_continuous(sec.axis = sec_axis(~./13000, name = "Unemployment Rate [%]")) +
-  labs(y = "GDP", x= "Year") +
-  ggtitle("Average State Unemployment and GDP by year")
-
-# This last plot is a good sanity check. We see a decline in GDP around the 2007 crisis, and a rise in an unemployment.
-# Data seems reliable.
-
-# Average state GDP has is mostly an upward trend. But per state it might look different
 ```
 
 
