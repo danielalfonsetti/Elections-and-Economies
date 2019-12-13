@@ -30,4 +30,6 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/20408
 8. https://towardsdatascience.com/why-linear-regression-is-not-suitable-for-binary-classification-c64457be8e28
 9. https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76
 10. https://elitedatascience.com/overfitting-in-machine-learning
+11.https://stats.stackexchange.com/questions/61783/bias-and-variance-in-leave-one-out-vs-k-fold-cross-validation/252031#252031
+12. https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States
 
